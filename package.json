@@ -61,7 +61,8 @@
           "[Matlab](#matlab)",
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
-          "[PHP](#php)"
+          "[PHP](#php)",
+          "[Python](#python)"
         ]
       },
       {
@@ -4992,6 +4993,327 @@
               "[@l3l0](https://github.com/l3l0)/[**bdd-workshop**](https://github.com/l3l0/bdd-workshop)",
               "Really dump application uses for demonstrate behat and phpspec in php project (silex).",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Python #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "115",
+              "[@narfdotpl](https://github.com/narfdotpl)/[**jquery-typing**](https://github.com/narfdotpl/jquery-typing)",
+              "assign callbacks for started/stopped typing events",
+              "[:arrow_upper_right:](narf.pl/jquery-typing)"
+            ],
+            [
+              "81",
+              "[@bernii](https://github.com/bernii)/[**django-reservations**](https://github.com/bernii/django-reservations)",
+              "Django module for handling reservations/booking",
+              ""
+            ],
+            [
+              "75",
+              "[@bernii](https://github.com/bernii)/[**querystring-parser**](https://github.com/bernii/querystring-parser)",
+              "QueryString parser for Python/Django that correctly handles nested dictionaries",
+              "[:arrow_upper_right:](http://extensa.pl)"
+            ],
+            [
+              "61",
+              "[@narfdotpl](https://github.com/narfdotpl)/[**lenso**](https://github.com/narfdotpl/lenso)",
+              "Swift µframework and code generator for lenses",
+              "[:arrow_upper_right:](http://narf.pl/posts/lenses-in-swift)"
+            ],
+            [
+              "50",
+              "[@narfdotpl](https://github.com/narfdotpl)/[**debug**](https://github.com/narfdotpl/debug)",
+              "import debug",
+              ""
+            ],
+            [
+              "37",
+              "[@Kwpolska](https://github.com/Kwpolska)/[**pkgbuilder**](https://github.com/Kwpolska/pkgbuilder)",
+              "An AUR helper (and library) in Python 3.",
+              "[:arrow_upper_right:](http://pkgbuilder.rtfd.org/)"
+            ],
+            [
+              "32",
+              "[@ergo](https://github.com/ergo)/[**ziggurat_foundations**](https://github.com/ergo/ziggurat_foundations)",
+              "Framework agnostic set of sqlalchemy classes that make building applications that require permissions an easy task.",
+              ""
+            ],
+            [
+              "30",
+              "[@mrknow](https://github.com/mrknow)/[**filmkodi**](https://github.com/mrknow/filmkodi)",
+              "Wtyczka kodi Filmyonline - filmkodi.com",
+              ""
+            ],
+            [
+              "29",
+              "[@Kwpolska](https://github.com/Kwpolska)/[**upass**](https://github.com/Kwpolska/upass)",
+              "Console UI for pass.",
+              ""
+            ],
+            [
+              "29",
+              "[@xando](https://github.com/xando)/[**django-rocket-engine**](https://github.com/xando/django-rocket-engine)",
+              "Django on AppEngine helper library. Support for Google CloudSQL and BlobStorage",
+              "[:arrow_upper_right:](http://readthedocs.org/docs/django-rocket-engine/)"
+            ],
+            [
+              "23",
+              "[@bernii](https://github.com/bernii)/[**tornado-acl**](https://github.com/bernii/tornado-acl)",
+              "Access Control List for Tornado (or just plain Python)",
+              ""
+            ],
+            [
+              "18",
+              "[@narfdotpl](https://github.com/narfdotpl)/[**hottie**](https://github.com/narfdotpl/hottie)",
+              "python code hot-swapping",
+              ""
+            ],
+            [
+              "17",
+              "[@xando](https://github.com/xando)/[**subprocess.run**](https://github.com/xando/subprocess.run)",
+              "The subprocess module extension to run external processes.",
+              "[:arrow_upper_right:](subprocessrun.xando.org)"
+            ],
+            [
+              "16",
+              "[@xando](https://github.com/xando)/[**github_import**](https://github.com/xando/github_import)",
+              "Import your python modules from GitHub",
+              ""
+            ],
+            [
+              "14",
+              "[@narfdotpl](https://github.com/narfdotpl)/[**interssection**](https://github.com/narfdotpl/interssection)",
+              "treat feeds like sets",
+              ""
+            ],
+            [
+              "13",
+              "[@narfdotpl](https://github.com/narfdotpl)/[**narf.pl**](https://github.com/narfdotpl/narf.pl)",
+              "source for my homepage and blog",
+              "[:arrow_upper_right:](http://narf.pl)"
+            ],
+            [
+              "12",
+              "[@Kwpolska](https://github.com/Kwpolska)/[**python-project-templ…**](https://github.com/Kwpolska/python-project-template)",
+              "A template for Python Projects.  INSERT TAGLINE HERE.™",
+              "[:arrow_upper_right:](https://github.com/Kwpolska/python-project-template/wiki)"
+            ],
+            [
+              "10",
+              "[@narfdotpl](https://github.com/narfdotpl)/[**dotfiles**](https://github.com/narfdotpl/dotfiles)",
+              "zsh, vim, git, …",
+              ""
+            ],
+            [
+              "10",
+              "[@mattpap](https://github.com/mattpap)/[**sympy-polys**](https://github.com/mattpap/sympy-polys)",
+              "New polynomial manipulation algorithms for SymPy.",
+              ""
+            ],
+            [
+              "10",
+              "[@xando](https://github.com/xando)/[**os.path2**](https://github.com/xando/os.path2)",
+              "The os.path module replacement, with simple API.",
+              "[:arrow_upper_right:](http://ospath2.xando.org/)"
+            ],
+            [
+              "9",
+              "[@ihor](https://github.com/ihor)/[**Books**](https://github.com/ihor/Books)",
+              "Tasks from books",
+              ""
+            ],
+            [
+              "8",
+              "[@mattpap](https://github.com/mattpap)/[**scipy-2011-tutorial**](https://github.com/mattpap/scipy-2011-tutorial)",
+              "Tutorial for SciPy 2011 conferences (Austin, Mumbai)",
+              "[:arrow_upper_right:](http://mattpap.github.com/scipy-2011-tutorial/html/index.html)"
+            ],
+            [
+              "7",
+              "[@bernii](https://github.com/bernii)/[**python-media-crawler**](https://github.com/bernii/python-media-crawler)",
+              "Simple Python web crawler that looks through websites for media files (mp3, wma, aac.) and extracts their metadata",
+              "[:arrow_upper_right:](http://extensa.pl)"
+            ],
+            [
+              "6",
+              "[@mattpap](https://github.com/mattpap)/[**scala_school_noteboo…**](https://github.com/mattpap/scala_school_notebooks)",
+              "Scala School Notebooks",
+              ""
+            ],
+            [
+              "6",
+              "[@xando](https://github.com/xando)/[**django-modelhistory**](https://github.com/xando/django-modelhistory)",
+              "Simple model logging helper for django projects.",
+              ""
+            ],
+            [
+              "5",
+              "[@Kwpolska](https://github.com/Kwpolska)/[**think**](https://github.com/Kwpolska/think)",
+              "Run commands and play your favorite think music while doing that.",
+              ""
+            ],
+            [
+              "5",
+              "[@d33tah](https://github.com/d33tah)/[**joggerpl-tools**](https://github.com/d33tah/joggerpl-tools)",
+              "A collection of tools to aid the management of jogger.pl blogging platform",
+              ""
+            ],
+            [
+              "5",
+              "[@bernii](https://github.com/bernii)/[**PyQRNativeGAE**](https://github.com/bernii/PyQRNativeGAE)",
+              "Native python QR Code generator for Google App Engine",
+              ""
+            ],
+            [
+              "5",
+              "[@bernii](https://github.com/bernii)/[**BarcodePrinter**](https://github.com/bernii/BarcodePrinter)",
+              "A simple, configurable barcode (CODE-128) PDF printer/generator",
+              ""
+            ],
+            [
+              "5",
+              "[@narfdotpl](https://github.com/narfdotpl)/[**loopozorg**](https://github.com/narfdotpl/loopozorg)",
+              "infrastructure for executing shell commands on file modification",
+              ""
+            ],
+            [
+              "4",
+              "[@ergo](https://github.com/ergo)/[**webhelpers_grid2**](https://github.com/ergo/webhelpers_grid2)",
+              "Grid extension for webhelpers2",
+              ""
+            ],
+            [
+              "4",
+              "[@ergo](https://github.com/ergo)/[**ziggurat_form**](https://github.com/ergo/ziggurat_form)",
+              "Simple form library",
+              ""
+            ],
+            [
+              "4",
+              "[@pkaleta](https://github.com/pkaleta)/[**programming-contest**](https://github.com/pkaleta/programming-contest)",
+              "Solutions and test cases from various programming competitions",
+              ""
+            ],
+            [
+              "3",
+              "[@mattpap](https://github.com/mattpap)/[**femtec-2011**](https://github.com/mattpap/femtec-2011)",
+              "FEMTEC 2011 Conference Website",
+              "[:arrow_upper_right:](http://hpfem.org/events/femtec-2011/)"
+            ],
+            [
+              "3",
+              "[@mattpap](https://github.com/mattpap)/[**google-utils**](https://github.com/mattpap/google-utils)",
+              "Utilities for improving cooperation with Google pages.",
+              ""
+            ],
+            [
+              "3",
+              "[@ergo](https://github.com/ergo)/[**python_lodz_tut1**](https://github.com/ergo/python_lodz_tut1)",
+              "Python Łódź meeting Tut guidance code",
+              ""
+            ],
+            [
+              "3",
+              "[@narfdotpl](https://github.com/narfdotpl)/[**fontsized**](https://github.com/narfdotpl/fontsized)",
+              "change OS X Terminal font size when external display is (dis)connected",
+              ""
+            ],
+            [
+              "3",
+              "[@narfdotpl](https://github.com/narfdotpl)/[**links**](https://github.com/narfdotpl/links)",
+              "links collected by @narfdotpl",
+              "[:arrow_upper_right:](links.narf.pl)"
+            ],
+            [
+              "3",
+              "[@AeroNotix](https://github.com/AeroNotix)/[**tools**](https://github.com/AeroNotix/tools)",
+              "programming-tools",
+              ""
+            ],
+            [
+              "3",
+              "[@ergo](https://github.com/ergo)/[**ziggurat_form_demo**](https://github.com/ergo/ziggurat_form_demo)",
+              "demo app for ziggurat_form",
+              ""
+            ],
+            [
+              "3",
+              "[@narfdotpl](https://github.com/narfdotpl)/[**hottie-demo**](https://github.com/narfdotpl/hottie-demo)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@xando](https://github.com/xando)/[**rocket-project**](https://github.com/xando/rocket-project)",
+              "django-rocket-engine example project ",
+              ""
+            ],
+            [
+              "2",
+              "[@AeroNotix](https://github.com/AeroNotix)/[**django-hpcloud**](https://github.com/AeroNotix/django-hpcloud)",
+              "Django module for interacting with the hpcloud",
+              ""
+            ],
+            [
+              "2",
+              "[@xando](https://github.com/xando)/[**django-data-render**](https://github.com/xando/django-data-render)",
+              "Render dict-like data, objects or Django models in simple unified way.",
+              ""
+            ],
+            [
+              "2",
+              "[@Kwpolska](https://github.com/Kwpolska)/[**trashman**](https://github.com/Kwpolska/trashman)",
+              "A Python trash manager.",
+              "[:arrow_upper_right:](http://trashman.rtfd.org/)"
+            ],
+            [
+              "2",
+              "[@narfdotpl](https://github.com/narfdotpl)/[**bullet**](https://github.com/narfdotpl/bullet)",
+              "Markdown processor that adds \"breakpoints\" to @DecksetApp slides",
+              ""
+            ],
+            [
+              "2",
+              "[@bernii](https://github.com/bernii)/[**python-num-variation…**](https://github.com/bernii/python-num-variations-pl)",
+              "Plural forms of polish words in python for Django",
+              "[:arrow_upper_right:](http://extensa.pl)"
+            ],
+            [
+              "2",
+              "[@d33tah](https://github.com/d33tah)/[**wifibacon**](https://github.com/d33tah/wifibacon)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@d33tah](https://github.com/d33tah)/[**usos-python**](https://github.com/d33tah/usos-python)",
+              "Python bindings for USOS university system",
+              "[:arrow_upper_right:](http://deetah.jogger.pl)"
+            ],
+            [
+              "2",
+              "[@mattpap](https://github.com/mattpap)/[**euroscipy-2011-poste…**](https://github.com/mattpap/euroscipy-2011-poster)",
+              "Poster for EuroScipy 2011 conference",
+              "[:arrow_upper_right:](mattpap.github.com/euroscipy-2011-poster/poster.pdf)"
+            ],
+            [
+              "2",
+              "[@d33tah](https://github.com/d33tah)/[**apr-fuzz**](https://github.com/d33tah/apr-fuzz)",
+              "",
+              "[:arrow_upper_right:](https://groups.google.com/d/msg/afl-users/WKIsJwaDXZs/1RD30fjMAwAJ)"
             ]
           ]
         }
