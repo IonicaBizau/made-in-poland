@@ -63,7 +63,8 @@
           "[Perl](#perl)",
           "[PHP](#php)",
           "[Python](#python)",
-          "[R](#r)"
+          "[R](#r)",
+          "[Ruby](#ruby)"
         ]
       },
       {
@@ -5366,6 +5367,1245 @@
               "[@analyxcompany](https://github.com/analyxcompany)/[**resolution**](https://github.com/analyxcompany/resolution)",
               "Finding communities in network using algorithm with resolution parameter",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Ruby #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2548",
+              "[@josevalim](https://github.com/josevalim)/[**inherited_resources**](https://github.com/josevalim/inherited_resources)",
+              "",
+              ""
+            ],
+            [
+              "1414",
+              "[@josevalim](https://github.com/josevalim)/[**rails-footnotes**](https://github.com/josevalim/rails-footnotes)",
+              "Every Rails page has footnotes that gives information about your application and links back to your editor",
+              "[:arrow_upper_right:](http://blog.plataformatec.com.br/)"
+            ],
+            [
+              "466",
+              "[@josevalim](https://github.com/josevalim)/[**enginex**](https://github.com/josevalim/enginex)",
+              "An executable which creates a bare Rails 3 engine (which is used in Crafting Rails Applications)",
+              "[:arrow_upper_right:](http://pragprog.com/book/jvrails/crafting-rails-applications)"
+            ],
+            [
+              "410",
+              "[@sickill](https://github.com/sickill)/[**rainbow**](https://github.com/sickill/rainbow)",
+              "Ruby gem for colorizing printed text on ANSI terminals",
+              ""
+            ],
+            [
+              "393",
+              "[@paneq](https://github.com/paneq)/[**active_reload**](https://github.com/paneq/active_reload)",
+              "Reload Rails code in development mode only when change is deteced",
+              ""
+            ],
+            [
+              "382",
+              "[@sickill](https://github.com/sickill)/[**racksh**](https://github.com/sickill/racksh)",
+              "Console for Rack based ruby web apps",
+              "[:arrow_upper_right:](http://ku1ik.com/)"
+            ],
+            [
+              "346",
+              "[@mkwiatkowski](https://github.com/mkwiatkowski)/[**todo-rails4-angularj…**](https://github.com/mkwiatkowski/todo-rails4-angularjs)",
+              "Showcase of Rails 4 and AngularJS integration",
+              ""
+            ],
+            [
+              "272",
+              "[@imanel](https://github.com/imanel)/[**websocket-ruby**](https://github.com/imanel/websocket-ruby)",
+              "Universal Ruby library to handle WebSocket protocol",
+              ""
+            ],
+            [
+              "228",
+              "[@qoobaa](https://github.com/qoobaa)/[**s3**](https://github.com/qoobaa/s3)",
+              "Library for accessing S3 objects and buckets, supports EU and US buckets",
+              ""
+            ],
+            [
+              "202",
+              "[@sickill](https://github.com/sickill)/[**coloration**](https://github.com/sickill/coloration)",
+              "Textmate to Vim, JEdit and Kate/KWrite color scheme converter",
+              ""
+            ],
+            [
+              "132",
+              "[@ArturT](https://github.com/ArturT)/[**knapsack**](https://github.com/ArturT/knapsack)",
+              "Knapsack splits tests across CI nodes and makes sure that tests will run comparable time on each node.",
+              "[:arrow_upper_right:](http://knapsackpro.com)"
+            ],
+            [
+              "102",
+              "[@ncr](https://github.com/ncr)/[**background-fu**](https://github.com/ncr/background-fu)",
+              "Running Long Background Tasks In Ruby On Rails Made Dead Simple",
+              ""
+            ],
+            [
+              "95",
+              "[@wbzyl](https://github.com/wbzyl)/[**rack-codehighlighter**](https://github.com/wbzyl/rack-codehighlighter)",
+              "Rack Middleware for code highlighting.",
+              "[:arrow_upper_right:](http://github.com/wbzyl/rack-codehighlighter)"
+            ],
+            [
+              "93",
+              "[@ivyl](https://github.com/ivyl)/[**redmine-gitolite**](https://github.com/ivyl/redmine-gitolite)",
+              "Gitolite Redmine Integration",
+              ""
+            ],
+            [
+              "91",
+              "[@felipeelias](https://github.com/felipeelias)/[**resubject**](https://github.com/felipeelias/resubject)",
+              "Uber simple presenters using Ruby's SimpleDelegator",
+              ""
+            ],
+            [
+              "85",
+              "[@ncr](https://github.com/ncr)/[**rack-proxy**](https://github.com/ncr/rack-proxy)",
+              "A request/response rewriting HTTP proxy. A Rack app.",
+              ""
+            ],
+            [
+              "80",
+              "[@josevalim](https://github.com/josevalim)/[**easy_http_cache**](https://github.com/josevalim/easy_http_cache)",
+              "Allows Rails controllers to use HTTP cache specifications easily by declaring which resources should be cached at the class level",
+              "[:arrow_upper_right:](http://blog.plataformatec.com.br/)"
+            ],
+            [
+              "75",
+              "[@morgoth](https://github.com/morgoth)/[**picasa**](https://github.com/morgoth/picasa)",
+              "Simple google picasa management",
+              "[:arrow_upper_right:](https://github.com/morgoth/picasa/)"
+            ],
+            [
+              "74",
+              "[@imanel](https://github.com/imanel)/[**socky_gem**](https://github.com/imanel/socky_gem)",
+              "Socky is a WebSocket server and client for Ruby on Rails ",
+              "[:arrow_upper_right:](http://socky.org)"
+            ],
+            [
+              "61",
+              "[@sheerun](https://github.com/sheerun)/[**s3_file_field**](https://github.com/sheerun/s3_file_field)",
+              "jQuery File Upload extension for direct uploading to Amazon S3 using CORS",
+              ""
+            ],
+            [
+              "61",
+              "[@wbzyl](https://github.com/wbzyl)/[**sinatra-static-asset…**](https://github.com/wbzyl/sinatra-static-assets)",
+              "Sinatra extension providing helper methods to output tags for static assets.",
+              "[:arrow_upper_right:](http://github.com/wbzyl/sinatra-static-assets/)"
+            ],
+            [
+              "57",
+              "[@imanel](https://github.com/imanel)/[**hosts_updater**](https://github.com/imanel/hosts_updater)",
+              "Update your /etc/hosts with list of unwanted domains",
+              ""
+            ],
+            [
+              "56",
+              "[@sickill](https://github.com/sickill)/[**css2less**](https://github.com/sickill/css2less)",
+              "Css to LessCss converter",
+              "[:arrow_upper_right:](http://ku1ik.com)"
+            ],
+            [
+              "52",
+              "[@mrowa44](https://github.com/mrowa44)/[**ggl**](https://github.com/mrowa44/ggl)",
+              "Google right from your command line",
+              ""
+            ],
+            [
+              "46",
+              "[@imanel](https://github.com/imanel)/[**websocket-eventmachi…**](https://github.com/imanel/websocket-eventmachine-server)",
+              "WebSocket server for Ruby",
+              ""
+            ],
+            [
+              "45",
+              "[@imanel](https://github.com/imanel)/[**socky_plugin**](https://github.com/imanel/socky_plugin)",
+              "Socky is a WebSocket server and client for Ruby on Rails ",
+              "[:arrow_upper_right:](http://socky.org)"
+            ],
+            [
+              "44",
+              "[@imanel](https://github.com/imanel)/[**websocket-eventmachi…**](https://github.com/imanel/websocket-eventmachine-client)",
+              "WebSocket client for Ruby",
+              ""
+            ],
+            [
+              "44",
+              "[@mlomnicki](https://github.com/mlomnicki)/[**automatic_foreign_ke…**](https://github.com/mlomnicki/automatic_foreign_key)",
+              "Automatically generates foreign-key constraints when creating tables.",
+              ""
+            ],
+            [
+              "42",
+              "[@pokonski](https://github.com/pokonski)/[**activity_blog**](https://github.com/pokonski/activity_blog)",
+              "A basic blog application demonstrating possibilities of public_activity gem.",
+              "[:arrow_upper_right:](http://public-activity-example.herokuapp.com/)"
+            ],
+            [
+              "41",
+              "[@josevalim](https://github.com/josevalim)/[**localized_templates**](https://github.com/josevalim/localized_templates)",
+              "Another templates localization schema for Rails 2.3 which allows you to create a folder for each locale on your views root",
+              "[:arrow_upper_right:](http://blog.plataformatec.com.br/)"
+            ],
+            [
+              "41",
+              "[@qoobaa](https://github.com/qoobaa)/[**vcard**](https://github.com/qoobaa/vcard)",
+              "Vcard support extracted from Vpim",
+              ""
+            ],
+            [
+              "39",
+              "[@mlomnicki](https://github.com/mlomnicki)/[**redhillonrails_core**](https://github.com/mlomnicki/redhillonrails_core)",
+              "Adds support in ActiveRecord for foreign_keys, complex indexes and other database-related stuff",
+              ""
+            ],
+            [
+              "37",
+              "[@morgoth](https://github.com/morgoth)/[**alexa**](https://github.com/morgoth/alexa)",
+              "Alexa Web Information Service",
+              "[:arrow_upper_right:](https://github.com/morgoth/alexa)"
+            ],
+            [
+              "36",
+              "[@paneq](https://github.com/paneq)/[**activemodel-warnings**](https://github.com/paneq/activemodel-warnings)",
+              "Mark some validations as optional and let them be skipped",
+              ""
+            ],
+            [
+              "36",
+              "[@wojtekmach](https://github.com/wojtekmach)/[**minitest-capybara**](https://github.com/wojtekmach/minitest-capybara)",
+              "Capybara matchers support for minitest unit & spec",
+              "[:arrow_upper_right:](https://rubygems.org/gems/minitest-capybara)"
+            ],
+            [
+              "33",
+              "[@qoobaa](https://github.com/qoobaa)/[**javascript_i18n**](https://github.com/qoobaa/javascript_i18n)",
+              "Dead simple JavaScript i18n tool for your Rails application",
+              ""
+            ],
+            [
+              "33",
+              "[@wojtekmach](https://github.com/wojtekmach)/[**minitest-metadata**](https://github.com/wojtekmach/minitest-metadata)",
+              "Annotate tests with key/value metadata",
+              "[:arrow_upper_right:](https://github.com/wojtekmach/minitest-metadata)"
+            ],
+            [
+              "31",
+              "[@qoobaa](https://github.com/qoobaa)/[**xxx**](https://github.com/qoobaa/xxx)",
+              "Porn of the day",
+              ""
+            ],
+            [
+              "29",
+              "[@tomash](https://github.com/tomash)/[**spree-pp-website-sta…**](https://github.com/tomash/spree-pp-website-standard)",
+              "Paypal Website Payments Standard Extension for Spree, the open source shopping cart",
+              ""
+            ],
+            [
+              "28",
+              "[@mpasternacki](https://github.com/mpasternacki)/[**capistrano-offroad**](https://github.com/mpasternacki/capistrano-offroad)",
+              "Capistrano recipes to use with non-rails projects.",
+              ""
+            ],
+            [
+              "27",
+              "[@wojtekmach](https://github.com/wojtekmach)/[**minitest-rails-examp…**](https://github.com/wojtekmach/minitest-rails-example)",
+              "",
+              ""
+            ],
+            [
+              "27",
+              "[@wojtekmach](https://github.com/wojtekmach)/[**rubyfmt**](https://github.com/wojtekmach/rubyfmt)",
+              "",
+              ""
+            ],
+            [
+              "25",
+              "[@imanel](https://github.com/imanel)/[**white_list_model**](https://github.com/imanel/white_list_model)",
+              "Plugin for Ruby on Rails that allows you to filter unwanted tags before writing to the database",
+              ""
+            ],
+            [
+              "23",
+              "[@tomash](https://github.com/tomash)/[**globalize-spree**](https://github.com/tomash/globalize-spree)",
+              "integrate Spree with Globalize3",
+              ""
+            ],
+            [
+              "23",
+              "[@mpasternacki](https://github.com/mpasternacki)/[**resque-pool-dynamic**](https://github.com/mpasternacki/resque-pool-dynamic)",
+              "A dynamic manager for resque pool",
+              ""
+            ],
+            [
+              "23",
+              "[@szimek](https://github.com/szimek)/[**efax**](https://github.com/szimek/efax)",
+              "Ruby library for accessing the eFax Developer service",
+              ""
+            ],
+            [
+              "22",
+              "[@filiptepper](https://github.com/filiptepper)/[**facebook-oauth-examp…**](https://github.com/filiptepper/facebook-oauth-example)",
+              "Facebook Graph API OAuth example with Ruby and Sinatra",
+              ""
+            ],
+            [
+              "22",
+              "[@sheerun](https://github.com/sheerun)/[**rails4-bootstrap**](https://github.com/sheerun/rails4-bootstrap)",
+              "My systematic way of making bullet-proof Rails 4 bootstrap template.",
+              ""
+            ],
+            [
+              "22",
+              "[@josevalim](https://github.com/josevalim)/[**sparta**](https://github.com/josevalim/sparta)",
+              "Javascript running on Rubinius VM",
+              ""
+            ],
+            [
+              "22",
+              "[@josevalim](https://github.com/josevalim)/[**nested_scenarios**](https://github.com/josevalim/nested_scenarios)",
+              "FixtureScenarios, FixtureScenariosBuilder, Yaml and Ruby in one big mix for Rails.",
+              "[:arrow_upper_right:](http://blog.plataformatec.com.br/)"
+            ],
+            [
+              "22",
+              "[@qoobaa](https://github.com/qoobaa)/[**magic**](https://github.com/qoobaa/magic)",
+              "Determine file type and encoding using \"magic\" numbers",
+              ""
+            ],
+            [
+              "21",
+              "[@sickill](https://github.com/sickill)/[**rack-revision-info**](https://github.com/sickill/rack-revision-info)",
+              "Rack middleware showing current git (or svn) revision number of deployed application",
+              "[:arrow_upper_right:](http://ku1ik.com/)"
+            ],
+            [
+              "21",
+              "[@wojtekmach](https://github.com/wojtekmach)/[**embedded_record**](https://github.com/wojtekmach/embedded_record)",
+              "Embed objects in a bitmask field. Similar to bitmask-attribute and friends",
+              ""
+            ],
+            [
+              "21",
+              "[@apohllo](https://github.com/apohllo)/[**CKAN**](https://github.com/apohllo/CKAN)",
+              "Ruby Client for Comprehensive Knowledge Archive Network",
+              ""
+            ],
+            [
+              "18",
+              "[@filiptepper](https://github.com/filiptepper)/[**shredis**](https://github.com/filiptepper/shredis)",
+              "Simple show-me-what-you-got-Redis application using Sinatra.",
+              ""
+            ],
+            [
+              "18",
+              "[@wojtekmach](https://github.com/wojtekmach)/[**attrs**](https://github.com/wojtekmach/attrs)",
+              "Yet another attributes on steroids gem",
+              ""
+            ],
+            [
+              "17",
+              "[@mpapis](https://github.com/mpapis)/[**ad**](https://github.com/mpapis/ad)",
+              "An example rails application / blog",
+              ""
+            ],
+            [
+              "17",
+              "[@wbzyl](https://github.com/wbzyl)/[**rails4-tutorial**](https://github.com/wbzyl/rails4-tutorial)",
+              "Przykłady dla wersji Rails mniejszych od 4.",
+              ""
+            ],
+            [
+              "16",
+              "[@morgoth](https://github.com/morgoth)/[**airbrake_handler**](https://github.com/morgoth/airbrake_handler)",
+              "Chef handler for sending exceptions to Airbrake",
+              "[:arrow_upper_right:](https://github.com/morgoth/airbrake_handler)"
+            ],
+            [
+              "15",
+              "[@apohllo](https://github.com/apohllo)/[**rod**](https://github.com/apohllo/rod)",
+              "Ruby Object Database",
+              "[:arrow_upper_right:](http://github.com/apohllo/rod)"
+            ],
+            [
+              "15",
+              "[@tomash](https://github.com/tomash)/[**blasphemy**](https://github.com/tomash/blasphemy)",
+              "a different Lorem Ipsum generator",
+              ""
+            ],
+            [
+              "14",
+              "[@mpasternacki](https://github.com/mpasternacki)/[**knife-dwim**](https://github.com/mpasternacki/knife-dwim)",
+              "Uploads a part of cookbook to a Chef server correctly",
+              "[:arrow_upper_right:](http://rubygems.org/gems/knife-dwim)"
+            ],
+            [
+              "14",
+              "[@mpapis](https://github.com/mpapis)/[**veewee-templates-upd…**](https://github.com/mpapis/veewee-templates-updater)",
+              "Veewee templates updater. Easily update templates in the installed veewee gem.",
+              ""
+            ],
+            [
+              "14",
+              "[@sickill](https://github.com/sickill)/[**rack-lesscss**](https://github.com/sickill/rack-lesscss)",
+              "Rack middleware for serving LessCSS files compiled to CSS",
+              "[:arrow_upper_right:](http://ku1ik.com/)"
+            ],
+            [
+              "14",
+              "[@mpapis](https://github.com/mpapis)/[**rvm2**](https://github.com/mpapis/rvm2)",
+              "Ruby enVironment Manager v2 - ruby implementation",
+              ""
+            ],
+            [
+              "14",
+              "[@szimek](https://github.com/szimek)/[**omniauth-evernote**](https://github.com/szimek/omniauth-evernote)",
+              "Evernote strategy for OmniAuth",
+              ""
+            ],
+            [
+              "14",
+              "[@paneq](https://github.com/paneq)/[**manage-my-money**](https://github.com/paneq/manage-my-money)",
+              "Personal accounting webapp written in Ruby on Rails",
+              ""
+            ],
+            [
+              "13",
+              "[@chastell](https://github.com/chastell)/[**suffragist**](https://github.com/chastell/suffragist)",
+              "a one-file Sinatra voting app that would fit in a gist",
+              ""
+            ],
+            [
+              "13",
+              "[@tomash](https://github.com/tomash)/[**spree_globalize**](https://github.com/tomash/spree_globalize)",
+              "THE Spree extension for integration with Globalize3",
+              ""
+            ],
+            [
+              "13",
+              "[@imanel](https://github.com/imanel)/[**socky_example**](https://github.com/imanel/socky_example)",
+              "Socky is a WebSocket server and client for Ruby on Rails",
+              "[:arrow_upper_right:](http://socky.org)"
+            ],
+            [
+              "13",
+              "[@apohllo](https://github.com/apohllo)/[**cycr**](https://github.com/apohllo/cycr)",
+              "This library allows for accessing the Cyc ontology from Ruby language.",
+              "[:arrow_upper_right:](http://github.com/apohllo/cycr)"
+            ],
+            [
+              "12",
+              "[@imanel](https://github.com/imanel)/[**libwebsocket**](https://github.com/imanel/libwebsocket)",
+              "Universal Ruby library to handle WebSocket protocol",
+              ""
+            ],
+            [
+              "12",
+              "[@qoobaa](https://github.com/qoobaa)/[**sqlite3**](https://github.com/qoobaa/sqlite3)",
+              "",
+              ""
+            ],
+            [
+              "12",
+              "[@josevalim](https://github.com/josevalim)/[**defm**](https://github.com/josevalim/defm)",
+              "Simple pattern matching for Ruby",
+              "[:arrow_upper_right:](http://blog.plataformatec.com.br/)"
+            ],
+            [
+              "12",
+              "[@apohllo](https://github.com/apohllo)/[**ror-tasks**](https://github.com/apohllo/ror-tasks)",
+              "The tasks for the advanced Ruby on Rails course.",
+              ""
+            ],
+            [
+              "11",
+              "[@imanel](https://github.com/imanel)/[**odt2html**](https://github.com/imanel/odt2html)",
+              "OpenDocument text to HTML converter",
+              ""
+            ],
+            [
+              "10",
+              "[@tomash](https://github.com/tomash)/[**easy_globalize2_acce…**](https://github.com/tomash/easy_globalize2_accessors)",
+              "Easily access (read and write) globalize2-translated fields without fiddling with locale",
+              ""
+            ],
+            [
+              "10",
+              "[@mpasternacki](https://github.com/mpasternacki)/[**cookbooks**](https://github.com/mpasternacki/cookbooks)",
+              "Cookbooks for Opscode Chef",
+              ""
+            ],
+            [
+              "10",
+              "[@imanel](https://github.com/imanel)/[**websocket-ruby-nativ…**](https://github.com/imanel/websocket-ruby-native)",
+              "Native Extension for WebSocket gem",
+              ""
+            ],
+            [
+              "10",
+              "[@apohllo](https://github.com/apohllo)/[**srx-english**](https://github.com/apohllo/srx-english)",
+              "English sentence segmentation rules based on SRX standard.",
+              ""
+            ],
+            [
+              "10",
+              "[@wbzyl](https://github.com/wbzyl)/[**sinatra-rdiscount**](https://github.com/wbzyl/sinatra-rdiscount)",
+              "Extension providing RDiscount templates for Sinatra apps.",
+              "[:arrow_upper_right:](http://github.com/wbzyl/sinatra-rdiscount)"
+            ],
+            [
+              "9",
+              "[@apohllo](https://github.com/apohllo)/[**string_pl**](https://github.com/apohllo/string_pl)",
+              "Additional support for Polish encodings in Ruby 1.9",
+              "[:arrow_upper_right:](http://github.com/apohllo/string_pl)"
+            ],
+            [
+              "9",
+              "[@mpapis](https://github.com/mpapis)/[**gh_contributors**](https://github.com/mpapis/gh_contributors)",
+              "Update static files with github contributors list",
+              ""
+            ],
+            [
+              "9",
+              "[@sheerun](https://github.com/sheerun)/[**filelock**](https://github.com/sheerun/filelock)",
+              "Heavily tested, but simple filelocking solution using flock command.",
+              ""
+            ],
+            [
+              "9",
+              "[@morgoth](https://github.com/morgoth)/[**moneybookers**](https://github.com/morgoth/moneybookers)",
+              "Ruby client for Moneybookers",
+              "[:arrow_upper_right:](https://github.com/morgoth/moneybookers)"
+            ],
+            [
+              "9",
+              "[@nbartlomiej](https://github.com/nbartlomiej)/[**touchkey**](https://github.com/nbartlomiej/touchkey)",
+              "",
+              ""
+            ],
+            [
+              "9",
+              "[@filiptepper](https://github.com/filiptepper)/[**introduction-to-algo…**](https://github.com/filiptepper/introduction-to-algorithms)",
+              "Introduction to Algorithms in Ruby",
+              ""
+            ],
+            [
+              "8",
+              "[@sickill](https://github.com/sickill)/[**tm2jed**](https://github.com/sickill/tm2jed)",
+              "Texmate-To-JEdit colour theme converter - NOTE: DEVELOPMENT MOVED TO sickill/coloration repo",
+              ""
+            ],
+            [
+              "8",
+              "[@sheerun](https://github.com/sheerun)/[**githubsocial**](https://github.com/sheerun/githubsocial)",
+              "Collaborative repository recommendations based on GitHub stars",
+              "[:arrow_upper_right:](http://githubsocial.com/)"
+            ],
+            [
+              "8",
+              "[@filiptepper](https://github.com/filiptepper)/[**thumbnails**](https://github.com/filiptepper/thumbnails)",
+              "on-the-fly basic image processing performance shootout",
+              ""
+            ],
+            [
+              "8",
+              "[@mrowa44](https://github.com/mrowa44)/[**damn-weather**](https://github.com/mrowa44/damn-weather)",
+              "Get some damn :sunny: :sunglasses: :zap: :thumbsup:",
+              ""
+            ],
+            [
+              "7",
+              "[@wbzyl](https://github.com/wbzyl)/[**sinatra-maruku**](https://github.com/wbzyl/sinatra-maruku)",
+              "Extension providing Maruku templates for Sinatra applications.",
+              "[:arrow_upper_right:](http://github.com/wbzyl/sinatra-maruku)"
+            ],
+            [
+              "7",
+              "[@sickill](https://github.com/sickill)/[**kanbanery-ruby-clien…**](https://github.com/sickill/kanbanery-ruby-client)",
+              "Ruby client library and CLI for Kanbanery.com",
+              "[:arrow_upper_right:](kanbanery.com)"
+            ],
+            [
+              "7",
+              "[@mpapis](https://github.com/mpapis)/[**state_attr**](https://github.com/mpapis/state_attr)",
+              "Minimalistic state machine approach allowing multiple state attributes at the same time.",
+              ""
+            ],
+            [
+              "7",
+              "[@felipeelias](https://github.com/felipeelias)/[**shift_subtitle**](https://github.com/felipeelias/shift_subtitle)",
+              "Add or subtract time from .str files",
+              "[:arrow_upper_right:](http://github.com/felipeelias/shift_subtitle)"
+            ],
+            [
+              "6",
+              "[@apohllo](https://github.com/apohllo)/[**poliqarpr**](https://github.com/apohllo/poliqarpr)",
+              "Ruby client for Poliqarp text corpus server (see http://poliqarp.sourceforge.net/)",
+              "[:arrow_upper_right:](www.apohllo.pl/projekty/poliqarpr)"
+            ],
+            [
+              "6",
+              "[@wojtekmach](https://github.com/wojtekmach)/[**value_inspect**](https://github.com/wojtekmach/value_inspect)",
+              "Provides implementation of #inspect that is arguably more readable and can be used in irb.",
+              "[:arrow_upper_right:](https://rubygems.org/gems/value_inspect)"
+            ],
+            [
+              "6",
+              "[@paneq](https://github.com/paneq)/[**not_activerecord**](https://github.com/paneq/not_activerecord)",
+              "not_activerecord",
+              "[:arrow_upper_right:](https://rubygems.org/gems/not_activerecord)"
+            ],
+            [
+              "6",
+              "[@filiptepper](https://github.com/filiptepper)/[**redish**](https://github.com/filiptepper/redish)",
+              "Redish is a command-line shell interface for Redis.",
+              ""
+            ],
+            [
+              "6",
+              "[@qoobaa](https://github.com/qoobaa)/[**to_hash**](https://github.com/qoobaa/to_hash)",
+              "ToHash module for easy data serialization (using JSON, XML, etc.)",
+              ""
+            ],
+            [
+              "6",
+              "[@paneq](https://github.com/paneq)/[**inbox**](https://github.com/paneq/inbox)",
+              "Displays emails sent to the users in action_mailer.delivery_method = :test mode",
+              ""
+            ],
+            [
+              "6",
+              "[@qoobaa](https://github.com/qoobaa)/[**sane-ffi**](https://github.com/qoobaa/sane-ffi)",
+              "SANE bindings",
+              ""
+            ],
+            [
+              "6",
+              "[@pokonski](https://github.com/pokonski)/[**trekking**](https://github.com/pokonski/trekking)",
+              "",
+              "[:arrow_upper_right:](http://trekking.heroku.com)"
+            ],
+            [
+              "6",
+              "[@tomash](https://github.com/tomash)/[**szkolenie-2010**](https://github.com/tomash/szkolenie-2010)",
+              "materiały do i ze szkolenia z podstaw Ruby On Rails",
+              "[:arrow_upper_right:](http://tomash.wrug.eu/szkolenie/2010)"
+            ],
+            [
+              "6",
+              "[@tomash](https://github.com/tomash)/[**flyingv**](https://github.com/tomash/flyingv)",
+              "Ruby wrapper for OpenKeyVal restful API",
+              "[:arrow_upper_right:](http://tomash.wrug.eu)"
+            ],
+            [
+              "6",
+              "[@morgoth](https://github.com/morgoth)/[**quiz**](https://github.com/morgoth/quiz)",
+              "",
+              ""
+            ],
+            [
+              "6",
+              "[@tomash](https://github.com/tomash)/[**discourse_shoutbox**](https://github.com/tomash/discourse_shoutbox)",
+              "Shoutbox plugin for Discourse",
+              ""
+            ],
+            [
+              "6",
+              "[@sickill](https://github.com/sickill)/[**ps**](https://github.com/sickill/ps)",
+              "Unix \"ps\" on the web.",
+              ""
+            ],
+            [
+              "6",
+              "[@qoobaa](https://github.com/qoobaa)/[**bridge**](https://github.com/qoobaa/bridge)",
+              "Useful contract bridge utilities - deal generator, id to deal and deal to id conversion",
+              ""
+            ],
+            [
+              "6",
+              "[@filiptepper](https://github.com/filiptepper)/[**statico**](https://github.com/filiptepper/statico)",
+              "Ad-hoc HTTP Server for your static files",
+              ""
+            ],
+            [
+              "6",
+              "[@mlomnicki](https://github.com/mlomnicki)/[**ddd-ecommerce**](https://github.com/mlomnicki/ddd-ecommerce)",
+              "Example E-Commerce application using event sourcing",
+              ""
+            ],
+            [
+              "5",
+              "[@paneq](https://github.com/paneq)/[**as_readonly**](https://github.com/paneq/as_readonly)",
+              "Expose your collections as readonly objects without fear",
+              ""
+            ],
+            [
+              "5",
+              "[@chastell](https://github.com/chastell)/[**lovely_rufus**](https://github.com/chastell/lovely_rufus)",
+              "text wrapper",
+              ""
+            ],
+            [
+              "5",
+              "[@sickill](https://github.com/sickill)/[**example-rack-framewo…**](https://github.com/sickill/example-rack-framework)",
+              "Example ruby web framework built with Rack",
+              "[:arrow_upper_right:](http://ku1ik.com/)"
+            ],
+            [
+              "5",
+              "[@tomash](https://github.com/tomash)/[**ascii_tic**](https://github.com/tomash/ascii_tic)",
+              "Rails plugin extending String, mostly notably for unicode-to-ascii conversion",
+              ""
+            ],
+            [
+              "5",
+              "[@qoobaa](https://github.com/qoobaa)/[**bridge-ember**](https://github.com/qoobaa/bridge-ember)",
+              "Bridge written in Ember.js (hopefully)",
+              ""
+            ],
+            [
+              "5",
+              "[@qoobaa](https://github.com/qoobaa)/[**sqs**](https://github.com/qoobaa/sqs)",
+              "Amazon's Simple Queue Service access library",
+              ""
+            ],
+            [
+              "5",
+              "[@mlomnicki](https://github.com/mlomnicki)/[**post_policy**](https://github.com/mlomnicki/post_policy)",
+              "Postfix Policy Server in Ruby",
+              ""
+            ],
+            [
+              "5",
+              "[@mpapis](https://github.com/mpapis)/[**capistrano-file_db**](https://github.com/mpapis/capistrano-file_db)",
+              "Sqlite3 integration for Capistrano",
+              ""
+            ],
+            [
+              "5",
+              "[@chastell](https://github.com/chastell)/[**signore**](https://github.com/chastell/signore)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@ivyl](https://github.com/ivyl)/[**seksi**](https://github.com/ivyl/seksi)",
+              "Web frontend for genereting images from LaTeX syntax.",
+              ""
+            ],
+            [
+              "4",
+              "[@filiptepper](https://github.com/filiptepper)/[**sinatra-oauth-1.0a-e…**](https://github.com/filiptepper/sinatra-oauth-1.0a-example)",
+              "An example OAuth 1.0a consumer",
+              ""
+            ],
+            [
+              "4",
+              "[@qoobaa](https://github.com/qoobaa)/[**lol**](https://github.com/qoobaa/lol)",
+              "LOLCODE interpreter written in Ruby",
+              ""
+            ],
+            [
+              "4",
+              "[@morgoth](https://github.com/morgoth)/[**ripper**](https://github.com/morgoth/ripper)",
+              "Thor scripts for CD ripping, wma to mp3 conversion and more",
+              "[:arrow_upper_right:](https://github.com/morgoth/ripper)"
+            ],
+            [
+              "4",
+              "[@morgoth](https://github.com/morgoth)/[**centrum_faktur**](https://github.com/morgoth/centrum_faktur)",
+              "Ruby client for Centrum Faktur API",
+              "[:arrow_upper_right:](https://github.com/morgoth/centrum_faktur)"
+            ],
+            [
+              "4",
+              "[@szimek](https://github.com/szimek)/[**devise_facebook_open…**](https://github.com/szimek/devise_facebook_open_graph)",
+              "Provides an authentication strategy for users signing in via Facebook's JavaScript SDK.",
+              ""
+            ],
+            [
+              "4",
+              "[@tomash](https://github.com/tomash)/[**rubygal**](https://github.com/tomash/rubygal)",
+              "static html gallery in Ruby",
+              ""
+            ],
+            [
+              "4",
+              "[@ArturT](https://github.com/ArturT)/[**Railstom**](https://github.com/ArturT/Railstom)",
+              "Rails Custom",
+              ""
+            ],
+            [
+              "4",
+              "[@wbzyl](https://github.com/wbzyl)/[**rails31-html5-templa…**](https://github.com/wbzyl/rails31-html5-templates)",
+              "Rails 3.1+ HTML5 application templates.",
+              ""
+            ],
+            [
+              "4",
+              "[@paneq](https://github.com/paneq)/[**rails3-demos**](https://github.com/paneq/rails3-demos)",
+              "Rails3 Demo application",
+              "[:arrow_upper_right:](http://github.com/paneq/rails3-demos)"
+            ],
+            [
+              "4",
+              "[@filiptepper](https://github.com/filiptepper)/[**uploadify-rails**](https://github.com/filiptepper/uploadify-rails)",
+              "Uploadify plugin for Ruby on Rails asset pipeline",
+              ""
+            ],
+            [
+              "4",
+              "[@imanel](https://github.com/imanel)/[**paperclip_mimetype_f…**](https://github.com/imanel/paperclip_mimetype_fu)",
+              "Some browsers send wrong mimetype of uploaded file - this plugin let paperclip define mimetype based on file extension.",
+              ""
+            ],
+            [
+              "3",
+              "[@mpapis](https://github.com/mpapis)/[**flat2tree**](https://github.com/mpapis/flat2tree)",
+              "Transform flat list into (reverse) dependency tree.",
+              ""
+            ],
+            [
+              "3",
+              "[@qoobaa](https://github.com/qoobaa)/[**dissertation**](https://github.com/qoobaa/dissertation)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@sheerun](https://github.com/sheerun)/[**rspec-gherkin**](https://github.com/sheerun/rspec-gherkin)",
+              "A bridge between (in principle) semi-format Gherkin features and formal RSpec features",
+              ""
+            ],
+            [
+              "3",
+              "[@filiptepper](https://github.com/filiptepper)/[**blip-twitter**](https://github.com/filiptepper/blip-twitter)",
+              "blip to twitter API",
+              ""
+            ],
+            [
+              "3",
+              "[@felipeelias](https://github.com/felipeelias)/[**unfollower**](https://github.com/felipeelias/unfollower)",
+              "Stay updated of those who stopped following you on Twitter!",
+              "[:arrow_upper_right:](http://unfollower.heroku.com/)"
+            ],
+            [
+              "3",
+              "[@qoobaa](https://github.com/qoobaa)/[**proxies**](https://github.com/qoobaa/proxies)",
+              "Proxies can even proxy other proxies",
+              ""
+            ],
+            [
+              "3",
+              "[@wojtekmach](https://github.com/wojtekmach)/[**any_value**](https://github.com/wojtekmach/any_value)",
+              "Collection of helper methods for testing \"shape\" of the data",
+              "[:arrow_upper_right:](https://rubygems.org/gems/any_value)"
+            ],
+            [
+              "3",
+              "[@wojtekmach](https://github.com/wojtekmach)/[**minitest-capybara-ex…**](https://github.com/wojtekmach/minitest-capybara-example)",
+              "Example Rails app for https://github.com/wojtekmach/minitest-c…",
+              ""
+            ],
+            [
+              "3",
+              "[@tomash](https://github.com/tomash)/[**globalize3_accessors**](https://github.com/tomash/globalize3_accessors)",
+              "easy accessors for ActiveRecord fields translated with globalize3",
+              ""
+            ],
+            [
+              "3",
+              "[@morgoth](https://github.com/morgoth)/[**fotostudio**](https://github.com/morgoth/fotostudio)",
+              "Photo home page",
+              "[:arrow_upper_right:](kasiafrychel.pl)"
+            ],
+            [
+              "3",
+              "[@morgoth](https://github.com/morgoth)/[**lin**](https://github.com/morgoth/lin)",
+              "Parser for contract bridge \"lin\" notation",
+              "[:arrow_upper_right:](https://github.com/morgoth/lin)"
+            ],
+            [
+              "3",
+              "[@sickill](https://github.com/sickill)/[**merb-resque-mailer**](https://github.com/sickill/merb-resque-mailer)",
+              "Merb plugin for putting mail delivery jobs onto Resque queue",
+              "[:arrow_upper_right:](http://ku1ik.com/)"
+            ],
+            [
+              "3",
+              "[@apohllo](https://github.com/apohllo)/[**srx-polish**](https://github.com/apohllo/srx-polish)",
+              "Polish sentence and word segmentation rules in Ruby.",
+              ""
+            ],
+            [
+              "3",
+              "[@sickill](https://github.com/sickill)/[**krug-merb-presentati…**](https://github.com/sickill/krug-merb-presentation)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@apohllo](https://github.com/apohllo)/[**colors**](https://github.com/apohllo/colors)",
+              "Colorful Strings in Ruby.",
+              ""
+            ],
+            [
+              "3",
+              "[@sheerun](https://github.com/sheerun)/[**bowered**](https://github.com/sheerun/bowered)",
+              "Bower client that integrates with Sprockets",
+              ""
+            ],
+            [
+              "3",
+              "[@mlomnicki](https://github.com/mlomnicki)/[**juicer-rails**](https://github.com/mlomnicki/juicer-rails)",
+              "Rails helper for Juicer - excellent asset packaging tool",
+              ""
+            ],
+            [
+              "3",
+              "[@mkwiatkowski](https://github.com/mkwiatkowski)/[**puzzlenode-14**](https://github.com/mkwiatkowski/puzzlenode-14)",
+              "Solutions to Puzzle Node problem #14",
+              ""
+            ],
+            [
+              "3",
+              "[@mlomnicki](https://github.com/mlomnicki)/[**oa-blip**](https://github.com/mlomnicki/oa-blip)",
+              "OmniAuth strategy for blip.pl OAuth",
+              ""
+            ],
+            [
+              "3",
+              "[@ncr](https://github.com/ncr)/[**rack-cat**](https://github.com/ncr/rack-cat)",
+              "Rack middleware to concatenate yor assets (static, dynamic and remote) Use it to serve your javascripts and stylesheets faster!",
+              "[:arrow_upper_right:](http://github.com/ncr/rack-cat)"
+            ],
+            [
+              "3",
+              "[@mlomnicki](https://github.com/mlomnicki)/[**howdy**](https://github.com/mlomnicki/howdy)",
+              "Dead easy command line dictionary",
+              ""
+            ],
+            [
+              "3",
+              "[@paneq](https://github.com/paneq)/[**capybara-js_finders**](https://github.com/paneq/capybara-js_finders)",
+              "Additional finder for capybara that for some reason cannot use only xpath for finding nodes but needs to execute js for some calculations",
+              "[:arrow_upper_right:](https://github.com/paneq/capybara-js_finders)"
+            ],
+            [
+              "3",
+              "[@apohllo](https://github.com/apohllo)/[**car-shooter**](https://github.com/apohllo/car-shooter)",
+              "Ascii-art car shooting game",
+              ""
+            ],
+            [
+              "2",
+              "[@wbzyl](https://github.com/wbzyl)/[**syntax**](https://github.com/wbzyl/syntax)",
+              "Jamis Buck's lexical analysis framework for syntax highlighting.",
+              "[:arrow_upper_right:](http://syntax.rubyforge.org/)"
+            ],
+            [
+              "2",
+              "[@tomash](https://github.com/tomash)/[**bitspudlo.com**](https://github.com/tomash/bitspudlo.com)",
+              "engine powering bitspudlo.com",
+              "[:arrow_upper_right:](http://bitspudlo.com)"
+            ],
+            [
+              "2",
+              "[@tomash](https://github.com/tomash)/[**expector**](https://github.com/tomash/expector)",
+              "some static typing emulation for Ruby",
+              ""
+            ],
+            [
+              "2",
+              "[@tomash](https://github.com/tomash)/[**slackwod**](https://github.com/tomash/slackwod)",
+              "SlackWOD: slack integration to show today's WOD from CF Elektromoc facebook page",
+              ""
+            ],
+            [
+              "2",
+              "[@mpapis](https://github.com/mpapis)/[**cinch-yaml-score**](https://github.com/mpapis/cinch-yaml-score)",
+              "A Cinch plugin to count +1, scores are saved in yaml file for persistence",
+              ""
+            ],
+            [
+              "2",
+              "[@mpapis](https://github.com/mpapis)/[**game-of-life**](https://github.com/mpapis/game-of-life)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@paneq](https://github.com/paneq)/[**inventory**](https://github.com/paneq/inventory)",
+              "Thousand ways to play with the concept of Inventory. Like coderetreat but over longer period of time.",
+              ""
+            ],
+            [
+              "2",
+              "[@paneq](https://github.com/paneq)/[**celluloid-fun**](https://github.com/paneq/celluloid-fun)",
+              "Having fun with celluloid",
+              ""
+            ],
+            [
+              "2",
+              "[@qoobaa](https://github.com/qoobaa)/[**authentication**](https://github.com/qoobaa/authentication)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@felipeelias](https://github.com/felipeelias)/[**DirectoryServices**](https://github.com/felipeelias/DirectoryServices)",
+              "A MacRuby application that list all host aliases in OS X Directory Services",
+              ""
+            ],
+            [
+              "2",
+              "[@wojtekmach](https://github.com/wojtekmach)/[**cli**](https://github.com/wojtekmach/cli)",
+              "CLI app framework",
+              ""
+            ],
+            [
+              "2",
+              "[@felipeelias](https://github.com/felipeelias)/[**image-metadata**](https://github.com/felipeelias/image-metadata)",
+              "Tracks metadata from images",
+              "[:arrow_upper_right:](http://github.com/felipeelias/image-metadata)"
+            ],
+            [
+              "2",
+              "[@mpapis](https://github.com/mpapis)/[**cinch-yaml-keywords**](https://github.com/mpapis/cinch-yaml-keywords)",
+              "A Cinch plugin to define keywords and display description when keyword matches.",
+              ""
+            ],
+            [
+              "2",
+              "[@qoobaa](https://github.com/qoobaa)/[**beaconpush**](https://github.com/qoobaa/beaconpush)",
+              "Gem for adding Beacon support into your application",
+              ""
+            ],
+            [
+              "2",
+              "[@mpapis](https://github.com/mpapis)/[**cinch-yaml-memo**](https://github.com/mpapis/cinch-yaml-memo)",
+              "Cinch plugin for !memo stored in YAML file",
+              ""
+            ],
+            [
+              "2",
+              "[@qoobaa](https://github.com/qoobaa)/[**hstore_attributes**](https://github.com/qoobaa/hstore_attributes)",
+              "Provides methods like hstore_reader or hstore_writer for accessing your Hstore data like any other attributes.",
+              ""
+            ],
+            [
+              "2",
+              "[@morgoth](https://github.com/morgoth)/[**saps**](https://github.com/morgoth/saps)",
+              "Stowarzyszenie Amatorów Piłki Siatkowej",
+              "[:arrow_upper_right:](http://saps.herokuapp.com/)"
+            ],
+            [
+              "2",
+              "[@filiptepper](https://github.com/filiptepper)/[**eventmachine-example…**](https://github.com/filiptepper/eventmachine-examples)",
+              "eventmachine examples",
+              ""
+            ],
+            [
+              "2",
+              "[@morgoth](https://github.com/morgoth)/[**srug1**](https://github.com/morgoth/srug1)",
+              "First presentation of SRUG (LaTeX)",
+              ""
+            ],
+            [
+              "2",
+              "[@filiptepper](https://github.com/filiptepper)/[**jruby-concurrency-co…**](https://github.com/filiptepper/jruby-concurrency-cookbook)",
+              "Examples from \"Java 7 Concurrency Cookbook\" in JRuby",
+              ""
+            ],
+            [
+              "2",
+              "[@morgoth](https://github.com/morgoth)/[**cios**](https://github.com/morgoth/cios)",
+              "Boxing club homepage",
+              "[:arrow_upper_right:](http://kscios.pl)"
+            ],
+            [
+              "2",
+              "[@chastell](https://github.com/chastell)/[**relentity**](https://github.com/chastell/relentity)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@ncr](https://github.com/ncr)/[**rack-jsonp-tools**](https://github.com/ncr/rack-jsonp-tools)",
+              "Everything you need to support JSONP transparently. Method Override included for free!",
+              ""
+            ],
+            [
+              "2",
+              "[@chastell](https://github.com/chastell)/[**kamerling**](https://github.com/chastell/kamerling)",
+              "a computation network server",
+              "[:arrow_upper_right:](https://github.com/chastell/kamerling)"
+            ],
+            [
+              "2",
+              "[@mpapis](https://github.com/mpapis)/[**ruby-shell-proxy**](https://github.com/mpapis/ruby-shell-proxy)",
+              "Ruby Shell Proxy",
+              ""
+            ],
+            [
+              "2",
+              "[@chastell](https://github.com/chastell)/[**kiwicrm**](https://github.com/chastell/kiwicrm)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@wbzyl](https://github.com/wbzyl)/[**fortunes-i18n**](https://github.com/wbzyl/fortunes-i18n)",
+              "Fortunka i18n & l10n ",
+              ""
+            ],
+            [
+              "2",
+              "[@mpasternacki](https://github.com/mpasternacki)/[**wordpress-com**](https://github.com/mpasternacki/wordpress-com)",
+              "Ruby Gem to access wordpress.com REST API",
+              ""
+            ],
+            [
+              "2",
+              "[@apohllo](https://github.com/apohllo)/[**srx2ruby**](https://github.com/apohllo/srx2ruby)",
+              "This project allows for generating Ruby class providing sentence breaking capabilities based on given SRX file.",
+              ""
+            ],
+            [
+              "2",
+              "[@mpasternacki](https://github.com/mpasternacki)/[**37s_cookbooks**](https://github.com/mpasternacki/37s_cookbooks)",
+              "Chef Cookbooks in use at 37signals",
+              ""
+            ],
+            [
+              "2",
+              "[@wbzyl](https://github.com/wbzyl)/[**rack-math**](https://github.com/wbzyl/rack-math)",
+              "Several Rack apps to play with and iteratively construct new Rack apps.",
+              ""
+            ],
+            [
+              "2",
+              "[@qoobaa](https://github.com/qoobaa)/[**double_trouble**](https://github.com/qoobaa/double_trouble)",
+              "Adds nonces to your Rails’ forms.",
+              ""
+            ],
+            [
+              "2",
+              "[@wbzyl](https://github.com/wbzyl)/[**rack-htmltidy**](https://github.com/wbzyl/rack-htmltidy)",
+              "Add HTML validation for Rack applications.",
+              "[:arrow_upper_right:](http://github.com/wbzyl/rack-htmltidy/)"
+            ],
+            [
+              "2",
+              "[@sickill](https://github.com/sickill)/[**sickounter**](https://github.com/sickill/sickounter)",
+              "Simple Sinatra powered downloads counter",
+              "[:arrow_upper_right:](http://ku1ik.com/)"
+            ],
+            [
+              "2",
+              "[@wbzyl](https://github.com/wbzyl)/[**sinatra-math**](https://github.com/wbzyl/sinatra-math)",
+              "Several Sinatra apps to play with and iteratively construct new Rack apps.",
+              ""
+            ],
+            [
+              "2",
+              "[@ArturT](https://github.com/ArturT)/[**KrakDroid**](https://github.com/ArturT/KrakDroid)",
+              "Conference Website",
+              ""
+            ],
+            [
+              "2",
+              "[@apohllo](https://github.com/apohllo)/[**poliqarpr-corpus**](https://github.com/apohllo/poliqarpr-corpus)",
+              "The default corpus for poliqarpr.",
+              "[:arrow_upper_right:](http://apohllo.pl/projekty/poliqarpr)"
+            ],
+            [
+              "2",
+              "[@mkwiatkowski](https://github.com/mkwiatkowski)/[**why-timeout-is-broke…**](https://github.com/mkwiatkowski/why-timeout-is-broken)",
+              "Why Ruby's Timeout module is broken",
+              ""
+            ],
+            [
+              "2",
+              "[@apohllo](https://github.com/apohllo)/[**c45**](https://github.com/apohllo/c45)",
+              "Model for c4.5 decision tree",
+              ""
+            ],
+            [
+              "2",
+              "[@mkwiatkowski](https://github.com/mkwiatkowski)/[**puppet**](https://github.com/mkwiatkowski/puppet)",
+              "Social game rules prototype in rails3",
+              ""
+            ],
+            [
+              "2",
+              "[@apohllo](https://github.com/apohllo)/[**cyc-console**](https://github.com/apohllo/cyc-console)",
+              "IRB-like console for the Cyc ontology.",
+              "[:arrow_upper_right:](https://github.com/apohllo/cyc-console)"
+            ],
+            [
+              "2",
+              "[@sickill](https://github.com/sickill)/[**yeb**](https://github.com/sickill/yeb)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@mpapis](https://github.com/mpapis)/[**cinch-url-scraper**](https://github.com/mpapis/cinch-url-scraper)",
+              "A Cinch plugin to get information about posted URLs.",
+              ""
+            ],
+            [
+              "2",
+              "[@ncr](https://github.com/ncr)/[**gibberish_trix**](https://github.com/ncr/gibberish_trix)",
+              "Localize ActiveRecord error messages without pain",
+              "[:arrow_upper_right:](http://trix.pl)"
+            ],
+            [
+              "2",
+              "[@mpapis](https://github.com/mpapis)/[**msi_epf**](https://github.com/mpapis/msi_epf)",
+              "ruby gem to handle MSI EPF USB",
+              ""
+            ],
+            [
+              "2",
+              "[@imanel](https://github.com/imanel)/[**UnifiedDB**](https://github.com/imanel/UnifiedDB)",
+              "Unified Movie Database",
+              "[:arrow_upper_right:](http://unified-db.heroku.com)"
+            ],
+            [
+              "2",
+              "[@RaVbaker](https://github.com/RaVbaker)/[**shop4friends_sinatra**](https://github.com/RaVbaker/shop4friends_sinatra)",
+              "simple app for shopping for friends from facebook",
+              "[:arrow_upper_right:](http://shop4friends.ravbaker.net)"
+            ],
+            [
+              "2",
+              "[@razorjack](https://github.com/razorjack)/[**nazca**](https://github.com/razorjack/nazca)",
+              "Rails 3/4 plugin that makes title and meta tags (keywords, description, etc.) easy and manageable.",
+              ""
+            ],
+            [
+              "2",
+              "[@imanel](https://github.com/imanel)/[**ruby-time-tracker**](https://github.com/imanel/ruby-time-tracker)",
+              "Time Tracker written in Ruby on Rails",
+              "[:arrow_upper_right:](http://ruby-time-tracker.heroku.com)"
             ]
           ]
         }
