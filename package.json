@@ -46,7 +46,8 @@
       },
       {
         "ul": [
-          "[JavaScript](#javascript)"
+          "[JavaScript](#javascript)",
+          "[Java](#java)"
         ]
       },
       {
@@ -1589,6 +1590,933 @@
               "2",
               "[@stasm](https://github.com/stasm)/[**timeline**](https://github.com/stasm/timeline)",
               "Projects timeline",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Java #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "1875",
+              "[@Vedenin](https://github.com/Vedenin)/[**useful-java-links**](https://github.com/Vedenin/useful-java-links)",
+              "A list of useful Java frameworks, libraries, software and hello worlds examples",
+              ""
+            ],
+            [
+              "780",
+              "[@blipinsk](https://github.com/blipinsk)/[**RecyclerViewHeader**](https://github.com/blipinsk/RecyclerViewHeader)",
+              "Super fast and easy way to create header for Android RecyclerView",
+              ""
+            ],
+            [
+              "712",
+              "[@sarxos](https://github.com/sarxos)/[**webcam-capture**](https://github.com/sarxos/webcam-capture)",
+              "Project goal is to give users possibility to access build-in or connected via USB webcams or remote IP / network cameras directly from Java code. Using provided libraries user is able to read camera images and detect motion. Main project consist of several sub projects - the root one, which contains required classes, build-in webcam driver compatible with Windows, Linux and Mac OS, which can stream images as fast as your camera can serve them (up to 50 FPS). Main project can be used standalone, but user is able to replace build-in driver with different one - such as OpenIMAJ, GStreamer, V4L4j, JMF, LTI-CIVIL, FMJ, etc.",
+              "[:arrow_upper_right:](http://webcam-capture.sarxos.pl)"
+            ],
+            [
+              "708",
+              "[@kolorobot](https://github.com/kolorobot)/[**spring-mvc-quickstar…**](https://github.com/kolorobot/spring-mvc-quickstart-archetype)",
+              "",
+              ""
+            ],
+            [
+              "490",
+              "[@blipinsk](https://github.com/blipinsk)/[**FlippableStackView**](https://github.com/blipinsk/FlippableStackView)",
+              "An Android library introducing a stack of Views with the first item being flippable.",
+              ""
+            ],
+            [
+              "407",
+              "[@telecapoland](https://github.com/telecapoland)/[**jamendo-android**](https://github.com/telecapoland/jamendo-android)",
+              "Official Jamendo Android Player by Teleca Poland",
+              "[:arrow_upper_right:](http://telecapoland.blogspot.com/)"
+            ],
+            [
+              "290",
+              "[@mg6maciej](https://github.com/mg6maciej)/[**android-maps-extensi…**](https://github.com/mg6maciej/android-maps-extensions)",
+              "Android Maps Extensions is a library extending capabilities of Google Maps Android API v2.",
+              "[:arrow_upper_right:](AndroidMapsExtensions.com)"
+            ],
+            [
+              "258",
+              "[@mgrzechocinski](https://github.com/mgrzechocinski)/[**dagger2-example**](https://github.com/mgrzechocinski/dagger2-example)",
+              "Sample Android project using Dagger2, retrolambda, lombok and butterknife",
+              ""
+            ],
+            [
+              "156",
+              "[@hamsterready](https://github.com/hamsterready)/[**android-accordion-vi…**](https://github.com/hamsterready/android-accordion-view)",
+              "Simple ListView based Android AccordionView",
+              ""
+            ],
+            [
+              "139",
+              "[@ihrupin](https://github.com/ihrupin)/[**samples**](https://github.com/ihrupin/samples)",
+              "samples",
+              ""
+            ],
+            [
+              "123",
+              "[@tmorcinek](https://github.com/tmorcinek)/[**android-codegenerato…**](https://github.com/tmorcinek/android-codegenerator-plugin-intellij)",
+              "Intellij Plugin for Android code generation.",
+              ""
+            ],
+            [
+              "118",
+              "[@mrmike](https://github.com/mrmike)/[**Ok2Curl**](https://github.com/mrmike/Ok2Curl)",
+              "Convert OkHttp requests into curl logs.",
+              ""
+            ],
+            [
+              "89",
+              "[@tdziurko](https://github.com/tdziurko)/[**Guava-Lessons**](https://github.com/tdziurko/Guava-Lessons)",
+              "Various examples of usage Google Guava API.",
+              "[:arrow_upper_right:](http://tomaszdziurko.pl/2012/02/google-guava/)"
+            ],
+            [
+              "83",
+              "[@blipinsk](https://github.com/blipinsk)/[**ViewPropertyObjectAn…**](https://github.com/blipinsk/ViewPropertyObjectAnimator)",
+              "Wrapper of the ObjectAnimator that can be used similarly to ViewPropertyAnimator",
+              ""
+            ],
+            [
+              "78",
+              "[@dweiss](https://github.com/dweiss)/[**java-sizeof**](https://github.com/dweiss/java-sizeof)",
+              "Memory consumption estimator for Java",
+              ""
+            ],
+            [
+              "66",
+              "[@lukaszlenart](https://github.com/lukaszlenart)/[**launch4j-maven-plugi…**](https://github.com/lukaszlenart/launch4j-maven-plugin)",
+              "http://launch4j.sourceforge.net/index.ht…",
+              "[:arrow_upper_right:](http://9stmaryrd.com/tools/launch4j-maven-plugin/)"
+            ],
+            [
+              "65",
+              "[@kolorobot](https://github.com/kolorobot)/[**spring-boot-thymelea…**](https://github.com/kolorobot/spring-boot-thymeleaf)",
+              "A simple web application in Spring Boot and Thymeleaf",
+              ""
+            ],
+            [
+              "56",
+              "[@blipinsk](https://github.com/blipinsk)/[**RxAnimationBinding**](https://github.com/blipinsk/RxAnimationBinding)",
+              "RxJava binding APIs for Android's animations",
+              ""
+            ],
+            [
+              "39",
+              "[@sarxos](https://github.com/sarxos)/[**secure-tokens**](https://github.com/sarxos/secure-tokens)",
+              "Small set of tools allowing you to create secure encrypted tokens, which can be later exchanged with 3rd party systems or stored as a license files. The goal of this project is to play with JCA and learn its API.",
+              ""
+            ],
+            [
+              "37",
+              "[@dzikoysk](https://github.com/dzikoysk)/[**FunnyGuilds**](https://github.com/dzikoysk/FunnyGuilds)",
+              "FunnyGuilds is a fully customisable RPG plugin that allows you to create guilds",
+              ""
+            ],
+            [
+              "37",
+              "[@kolorobot](https://github.com/kolorobot)/[**openshift-diy-spring…**](https://github.com/kolorobot/openshift-diy-spring-boot-sample)",
+              "",
+              ""
+            ],
+            [
+              "36",
+              "[@kolorobot](https://github.com/kolorobot)/[**unit-testing-demo**](https://github.com/kolorobot/unit-testing-demo)",
+              "",
+              ""
+            ],
+            [
+              "36",
+              "[@maciejwalkowiak](https://github.com/maciejwalkowiak)/[**servlet3-maven-arche…**](https://github.com/maciejwalkowiak/servlet3-maven-archetype)",
+              "Maven archetype for basic Servlet 3 based Java web application - no xml, Tomcat 7 ready",
+              "[:arrow_upper_right:](http://maciejwalkowiak.github.io/servlet3-maven-archetype/)"
+            ],
+            [
+              "33",
+              "[@jmnarloch](https://github.com/jmnarloch)/[**rxjava-spring-boot-s…**](https://github.com/jmnarloch/rxjava-spring-boot-starter)",
+              "RxJava Spring MVC integration",
+              ""
+            ],
+            [
+              "33",
+              "[@mswiderski](https://github.com/mswiderski)/[**jbpm-examples**](https://github.com/mswiderski/jbpm-examples)",
+              "Various examples of jBPM 5 ",
+              ""
+            ],
+            [
+              "32",
+              "[@mrmike](https://github.com/mrmike)/[**RenderScriptPlaygrou…**](https://github.com/mrmike/RenderScriptPlayground)",
+              "Example of using RenderScript with Gradle and Android Studio. Works with Android API >= 8.",
+              ""
+            ],
+            [
+              "31",
+              "[@blipinsk](https://github.com/blipinsk)/[**XmlTag**](https://github.com/blipinsk/XmlTag)",
+              "The easiest way to simplify custom View tags in Android layout xmls.",
+              ""
+            ],
+            [
+              "29",
+              "[@tmorcinek](https://github.com/tmorcinek)/[**android-codegenerato…**](https://github.com/tmorcinek/android-codegenerator-library)",
+              "This is a submodule of bigger project: Codegenerator for Andoid. This submodule is responsible for extracting usefull informations from Android layout's xml file.",
+              ""
+            ],
+            [
+              "27",
+              "[@marcingrzejszczak](https://github.com/marcingrzejszczak)/[**mockito-cookbook**](https://github.com/marcingrzejszczak/mockito-cookbook)",
+              "Repository containing the code present in the Mockito Cookbook book",
+              "[:arrow_upper_right:](https://www.packtpub.com/application-development/mockito-cookbook)"
+            ],
+            [
+              "27",
+              "[@hamsterready](https://github.com/hamsterready)/[**jedis-sentinel-pool**](https://github.com/hamsterready/jedis-sentinel-pool)",
+              "Simple redis-sentinel-aware jedis-based connection pool.",
+              ""
+            ],
+            [
+              "26",
+              "[@kolorobot](https://github.com/kolorobot)/[**thymeleaf-custom-lay…**](https://github.com/kolorobot/thymeleaf-custom-layout)",
+              "",
+              ""
+            ],
+            [
+              "24",
+              "[@blipinsk](https://github.com/blipinsk)/[**Android-ParseModel**](https://github.com/blipinsk/Android-ParseModel)",
+              "[DEPRECATED] Annotation-based library that allows for easy data model creation for Parse Android SDK",
+              ""
+            ],
+            [
+              "23",
+              "[@tdziurko](https://github.com/tdziurko)/[**hibernate-smoke-dete…**](https://github.com/tdziurko/hibernate-smoke-detector)",
+              "",
+              ""
+            ],
+            [
+              "23",
+              "[@sarxos](https://github.com/sarxos)/[**sikuli-ocr**](https://github.com/sarxos/sikuli-ocr)",
+              "Sikuli-based OCR engine",
+              ""
+            ],
+            [
+              "22",
+              "[@marcingrzejszczak](https://github.com/marcingrzejszczak)/[**too-much-coding**](https://github.com/marcingrzejszczak/too-much-coding)",
+              "Too Much Coding repository. Visit the blog at http://toomuchcoding.com. You can also visit my site at http://marcin.grzejszczak.pl. ",
+              "[:arrow_upper_right:](http://toomuchcoding.com)"
+            ],
+            [
+              "22",
+              "[@blipinsk](https://github.com/blipinsk)/[**trigger**](https://github.com/blipinsk/trigger)",
+              "Simple command pattern helper class",
+              ""
+            ],
+            [
+              "20",
+              "[@kolorobot](https://github.com/kolorobot)/[**spring-boot-jersey-d…**](https://github.com/kolorobot/spring-boot-jersey-demo)",
+              "",
+              ""
+            ],
+            [
+              "20",
+              "[@tomekkaczanowski](https://github.com/tomekkaczanowski)/[**junit-put-exercises**](https://github.com/tomekkaczanowski/junit-put-exercises)",
+              "Exercises for \"Practical Unit Testing with JUnit and Mockito\" book",
+              ""
+            ],
+            [
+              "19",
+              "[@Vedenin](https://github.com/Vedenin)/[**java_in_examples**](https://github.com/Vedenin/java_in_examples)",
+              "Moved to https://github.com/Vedenin/useful-java-l…",
+              ""
+            ],
+            [
+              "18",
+              "[@dweiss](https://github.com/dweiss)/[**compound-splitter**](https://github.com/dweiss/compound-splitter)",
+              "",
+              ""
+            ],
+            [
+              "17",
+              "[@tomekkaczanowski](https://github.com/tomekkaczanowski)/[**junit-put-examples**](https://github.com/tomekkaczanowski/junit-put-examples)",
+              "Code examples for \"Practical Unit Testing with JUnit and Mockito\" book",
+              ""
+            ],
+            [
+              "17",
+              "[@dweiss](https://github.com/dweiss)/[**proguard**](https://github.com/dweiss/proguard)",
+              "Eric LaFortune's proguard mirror",
+              "[:arrow_upper_right:](http://proguard.sourceforge.net/)"
+            ],
+            [
+              "17",
+              "[@blipinsk](https://github.com/blipinsk)/[**GroupOfX**](https://github.com/blipinsk/GroupOfX)",
+              "When Android's Pair class is just not enough.",
+              ""
+            ],
+            [
+              "16",
+              "[@mkuthan](https://github.com/mkuthan)/[**example-spring**](https://github.com/mkuthan/example-spring)",
+              "Example Spring project",
+              ""
+            ],
+            [
+              "16",
+              "[@mgrzechocinski](https://github.com/mgrzechocinski)/[**AndroidClipDrawableE…**](https://github.com/mgrzechocinski/AndroidClipDrawableExample)",
+              "Example of pretty simple implementation of progress bars in Android based on ClipDrawable",
+              ""
+            ],
+            [
+              "14",
+              "[@itcuties](https://github.com/itcuties)/[**Android-SQLite-TODO-…**](https://github.com/itcuties/Android-SQLite-TODO-App-Example)",
+              "Today we are going to show you how to use Android SQLite database in your applications. Our sample application stores TODO Tasks. It displays a list of TODOs, when an element of the list is clicked it is removed from the database. Our application also allows to add new TODO tasks to the list. This is a tutorial code. Feel free to use it. For more great codes and tutorials visit us at itcuties.com.",
+              "[:arrow_upper_right:](http://www.itcuties.com/android/sqlite-example-the-todo-application/)"
+            ],
+            [
+              "14",
+              "[@maciejwalkowiak](https://github.com/maciejwalkowiak)/[**junit-drools**](https://github.com/maciejwalkowiak/junit-drools)",
+              "JUnit + JBoss Drools integration",
+              ""
+            ],
+            [
+              "12",
+              "[@tomekkaczanowski](https://github.com/tomekkaczanowski)/[**practicalunittesting…**](https://github.com/tomekkaczanowski/practicalunittesting-examples)",
+              "Source code of the examples from \"Practical Unit Testing with TestNG and Mockito\"",
+              "[:arrow_upper_right:](http://practicalunittesting.com)"
+            ],
+            [
+              "12",
+              "[@tdziurko](https://github.com/tdziurko)/[**pocket-java-client**](https://github.com/tdziurko/pocket-java-client)",
+              "Java client exposing API to interact with Pocket (former Read It Later)",
+              ""
+            ],
+            [
+              "12",
+              "[@maciejwalkowiak](https://github.com/maciejwalkowiak)/[**java-plist-serialize…**](https://github.com/maciejwalkowiak/java-plist-serializer)",
+              "Java objects to plist serializer",
+              ""
+            ],
+            [
+              "12",
+              "[@kolorobot](https://github.com/kolorobot)/[**spring-mvc-beanvalid…**](https://github.com/kolorobot/spring-mvc-beanvalidation11-demo)",
+              "",
+              ""
+            ],
+            [
+              "11",
+              "[@kolorobot](https://github.com/kolorobot)/[**spring-boot-petclini…**](https://github.com/kolorobot/spring-boot-petclinic-api)",
+              "",
+              ""
+            ],
+            [
+              "11",
+              "[@mkuthan](https://github.com/mkuthan)/[**example-ddd-cqrs-ser…**](https://github.com/mkuthan/example-ddd-cqrs-server)",
+              "Example DDD/CQRS based on Implementing Domain Driven Design book written by Vaughn Vernon",
+              ""
+            ],
+            [
+              "10",
+              "[@hamsterready](https://github.com/hamsterready)/[**redis-ratelimit**](https://github.com/hamsterready/redis-ratelimit)",
+              "Java port of RateLimit from chriso/redback node.js library.",
+              ""
+            ],
+            [
+              "10",
+              "[@dweiss](https://github.com/dweiss)/[**dk.brics.automaton**](https://github.com/dweiss/dk.brics.automaton)",
+              "Clone of dk.brics.automaton",
+              "[:arrow_upper_right:](http://www.brics.dk/automaton/)"
+            ],
+            [
+              "10",
+              "[@dweiss](https://github.com/dweiss)/[**jdyna**](https://github.com/dweiss/jdyna)",
+              "Dyna Blaster in Java",
+              "[:arrow_upper_right:](http://www.dawidweiss.com/jdyna/)"
+            ],
+            [
+              "10",
+              "[@itcuties](https://github.com/itcuties)/[**Android-Read-SMS**](https://github.com/itcuties/Android-Read-SMS)",
+              "In this tutorial we are going to show you how to read SMS messages under Android. This is a simple program that displays a list of SMS messages stored on the device. This is a tutorial material. Use it any way you want. For more great tutorials please visit us at itcuties.com",
+              "[:arrow_upper_right:](http://www.itcuties.com/android/read-sms/)"
+            ],
+            [
+              "10",
+              "[@sarxos](https://github.com/sarxos)/[**l2fprod-common**](https://github.com/sarxos/l2fprod-common)",
+              "Property sheet (aka Java Bean Property Editor) Swing component from L2FProd with redesigned and partially rewritten API. Original L2FProd project has not been updated for years and the code here is new, customized and reworked code with partially backward-uncompatible API. It works fine, but please use on your own risk. Plan to release to Maven Central as OSGi bundle.",
+              ""
+            ],
+            [
+              "9",
+              "[@jmnarloch](https://github.com/jmnarloch)/[**feign-oauth2-spring-…**](https://github.com/jmnarloch/feign-oauth2-spring-cloud-starter)",
+              "Spring Cloud Feign OAuth2 authentication",
+              ""
+            ],
+            [
+              "8",
+              "[@itcuties](https://github.com/itcuties)/[**Android-Traffic-Stat…**](https://github.com/itcuties/Android-Traffic-Statistics)",
+              "\"Today we got little application which displays list of working applications on Android in a ListView. When a process name is clicked application displays information about amount of data that application used – traffic info. This is a tutorial material.\" Feel free to use it. Full description can be found at itcuties.com",
+              "[:arrow_upper_right:](http://www.itcuties.com/android/how-to-get-running-process-list-and-traffic-statistics/)"
+            ],
+            [
+              "8",
+              "[@jmnarloch](https://github.com/jmnarloch)/[**request-correlation-…**](https://github.com/jmnarloch/request-correlation-spring-cloud-starter)",
+              "Spring Cloud request correlation across multiple microservices",
+              ""
+            ],
+            [
+              "8",
+              "[@dzikoysk](https://github.com/dzikoysk)/[**Light**](https://github.com/dzikoysk/Light)",
+              "Light is a English-like programming language built on the core of the Panda Programming Language",
+              "[:arrow_upper_right:](https://light.panda-lang.org/)"
+            ],
+            [
+              "8",
+              "[@hamsterready](https://github.com/hamsterready)/[**dbpreferences**](https://github.com/hamsterready/dbpreferences)",
+              "Android DB based preferences",
+              ""
+            ],
+            [
+              "7",
+              "[@tomekkaczanowski](https://github.com/tomekkaczanowski)/[**testng-test-dependen…**](https://github.com/tomekkaczanowski/testng-test-dependencies-reporter)",
+              "An implementation of IReporter which visualizes test dependencies, see http://tinyurl.com/667rtw5",
+              ""
+            ],
+            [
+              "7",
+              "[@tmorcinek](https://github.com/tmorcinek)/[**android-codegenerato…**](https://github.com/tmorcinek/android-codegenerator-plugin-eclipse)",
+              "Eclipse Plugin for Android code generation.",
+              ""
+            ],
+            [
+              "7",
+              "[@tdziurko](https://github.com/tdziurko)/[**wicket-bootstrap-nav…**](https://github.com/tdziurko/wicket-bootstrap-navbar)",
+              "Example Wicket application using reusable component that contains Twitter Bootstrap Navbar (Navigation menu).",
+              ""
+            ],
+            [
+              "7",
+              "[@jmnarloch](https://github.com/jmnarloch)/[**gocd-gradle-plugin**](https://github.com/jmnarloch/gocd-gradle-plugin)",
+              "GO Continuous Delivery Gradle plugin",
+              "[:arrow_upper_right:](http://www.go.cd)"
+            ],
+            [
+              "7",
+              "[@jmnarloch](https://github.com/jmnarloch)/[**zuul-route-health-sp…**](https://github.com/jmnarloch/zuul-route-health-spring-cloud-starter)",
+              "Spring Cloud Zuul routes health indicator",
+              ""
+            ],
+            [
+              "7",
+              "[@jmnarloch](https://github.com/jmnarloch)/[**modelmapper-spring-b…**](https://github.com/jmnarloch/modelmapper-spring-boot-starter)",
+              "Spring Boot Starter for ModelMapper http://modelmapper.org",
+              ""
+            ],
+            [
+              "7",
+              "[@itcuties](https://github.com/itcuties)/[**Android-AsyncTask-RS…**](https://github.com/itcuties/Android-AsyncTask-RSS-Reader)",
+              "Today we have a little modification of our RSS Reader code that we have introduced in the How to write Android RSS parser tutorial. This modification uses AsyncTask to download RSS data in a separate thread. This is a tutorial material. You can use it any way you want. For more great tutorials and codes visit as at itcuties.com.",
+              "[:arrow_upper_right:](http://www.itcuties.com/android/android-asynctask-rss-reader/)"
+            ],
+            [
+              "7",
+              "[@kolorobot](https://github.com/kolorobot)/[**spring41-samples**](https://github.com/kolorobot/spring41-samples)",
+              "",
+              ""
+            ],
+            [
+              "7",
+              "[@sarxos](https://github.com/sarxos)/[**equinox-launcher**](https://github.com/sarxos/equinox-launcher)",
+              "Simple proof-of-concept of how to embed Equinox OSGi runtime in Java program.",
+              ""
+            ],
+            [
+              "7",
+              "[@mg6maciej](https://github.com/mg6maciej)/[**android-maps-v2-demo**](https://github.com/mg6maciej/android-maps-v2-demo)",
+              "",
+              ""
+            ],
+            [
+              "7",
+              "[@mg6maciej](https://github.com/mg6maciej)/[**VielenGamesAndroidCl…**](https://github.com/mg6maciej/VielenGamesAndroidClient)",
+              "Vielen Games Android Client",
+              "[:arrow_upper_right:](https://play.google.com/store/apps/details?id=com.vielengames)"
+            ],
+            [
+              "7",
+              "[@blipinsk](https://github.com/blipinsk)/[**StreetViewProbe**](https://github.com/blipinsk/StreetViewProbe)",
+              "A simple (although a bit hacky) way to check if StreetView is available for a specific location.",
+              ""
+            ],
+            [
+              "7",
+              "[@mrmike](https://github.com/mrmike)/[**EspressoShowcase**](https://github.com/mrmike/EspressoShowcase)",
+              "Sample Android Espresso UI Tests",
+              ""
+            ],
+            [
+              "6",
+              "[@mgrzechocinski](https://github.com/mgrzechocinski)/[**AndroidWorshops**](https://github.com/mgrzechocinski/AndroidWorshops)",
+              "Project for Warsjawa'11 conference Android workshops",
+              "[:arrow_upper_right:](https://github.com/warszawajug/warsjawa2011/wiki/Warsztaty-Android)"
+            ],
+            [
+              "6",
+              "[@danielpacak](https://github.com/danielpacak)/[**com.github.danielpac…**](https://github.com/danielpacak/com.github.danielpacak.jenkins.ci)",
+              "This project is a Java library for communicating with the Jenkins REST API.",
+              ""
+            ],
+            [
+              "6",
+              "[@sarxos](https://github.com/sarxos)/[**win-registry**](https://github.com/sarxos/win-registry)",
+              "100% pure Java Windows registry utility",
+              ""
+            ],
+            [
+              "6",
+              "[@itcuties](https://github.com/itcuties)/[**Android-Multicategor…**](https://github.com/itcuties/Android-Multicategory-RSS-Reader)",
+              "Today we have Android RSS Reader application's code for you. Application displays RSS feed data from 3 channels in separate tabs. For more great tutorials and source codes visit us at itcuties.com.",
+              "[:arrow_upper_right:](http://www.itcuties.com/android/rss-reader-multicategory-reader-tab-layout-example/)"
+            ],
+            [
+              "6",
+              "[@tomekkaczanowski](https://github.com/tomekkaczanowski)/[**bad-tests-good-tests…**](https://github.com/tomekkaczanowski/bad-tests-good-tests-code)",
+              "code snippets from \"Bad Tests, Good Tests\" book (see http://practicalunittesting.com)",
+              ""
+            ],
+            [
+              "6",
+              "[@jmnarloch](https://github.com/jmnarloch)/[**zuul-trie-matcher-sp…**](https://github.com/jmnarloch/zuul-trie-matcher-spring-cloud-starter)",
+              "Spring Cloud Zuul Trie tree route matcher",
+              ""
+            ],
+            [
+              "5",
+              "[@dzikoysk](https://github.com/dzikoysk)/[**WildSkript**](https://github.com/dzikoysk/WildSkript)",
+              "WildSkript is addon to plugin Skript that increases the set of events, conditions, effects, expressions, types and this add new elements.",
+              "[:arrow_upper_right:](http://www.dzikoysk.net)"
+            ],
+            [
+              "5",
+              "[@sarxos](https://github.com/sarxos)/[**medusa-system**](https://github.com/sarxos/medusa-system)",
+              "Medusa Trading System",
+              ""
+            ],
+            [
+              "5",
+              "[@danielpacak](https://github.com/danielpacak)/[**com.github.danielpac…**](https://github.com/danielpacak/com.github.danielpacak.osgi.console.extjs)",
+              "OSGi Web Console",
+              ""
+            ],
+            [
+              "5",
+              "[@mg6maciej](https://github.com/mg6maciej)/[**android-groovy-dagge…**](https://github.com/mg6maciej/android-groovy-dagger-espresso-demo)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@mg6maciej](https://github.com/mg6maciej)/[**parcelable-test-supp…**](https://github.com/mg6maciej/parcelable-test-support)",
+              "Small library to help with testing Parcelable classes.",
+              ""
+            ],
+            [
+              "5",
+              "[@mkuthan](https://github.com/mkuthan)/[**example-axon**](https://github.com/mkuthan/example-axon)",
+              "Example Axon Framework based implementation based on CQRS Journey essay.",
+              ""
+            ],
+            [
+              "5",
+              "[@itcuties](https://github.com/itcuties)/[**Android-Volley-Frame…**](https://github.com/itcuties/Android-Volley-Framework-Example)",
+              "Today we have got Android’s Volley Framework code for you. It was requested by one of our readers. In this application code we parse and display data from our JSON feed (http://www.itcuties.com/feed/json). Please refer to the tutorial page to learn how to setup the Volley Framework for this code to work. Enjoy!",
+              "[:arrow_upper_right:](http://www.itcuties.com/android/volley-framework-parsing-json-feed/)"
+            ],
+            [
+              "5",
+              "[@tmorcinek](https://github.com/tmorcinek)/[**rest-webservice-trai…**](https://github.com/tmorcinek/rest-webservice-training)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@mkuthan](https://github.com/mkuthan)/[**example-jbehave**](https://github.com/mkuthan/example-jbehave)",
+              "Example JBehave and Spring Framework setup.",
+              ""
+            ],
+            [
+              "4",
+              "[@jmnarloch](https://github.com/jmnarloch)/[**gocd-health-check-pl…**](https://github.com/jmnarloch/gocd-health-check-plugin)",
+              "GO Continuous Delivery Health Check plugin",
+              ""
+            ],
+            [
+              "4",
+              "[@jmnarloch](https://github.com/jmnarloch)/[**arquillian-container…**](https://github.com/jmnarloch/arquillian-container-spring-showcase)",
+              "Showcase for Arquillian Spring Container",
+              ""
+            ],
+            [
+              "4",
+              "[@danielpacak](https://github.com/danielpacak)/[**risk-analyzer**](https://github.com/danielpacak/risk-analyzer)",
+              "The application requirement was for a supply chain management system that is accessible through a Web browser.",
+              ""
+            ],
+            [
+              "4",
+              "[@mrmike](https://github.com/mrmike)/[**Simple-Android-Notep…**](https://github.com/mrmike/Simple-Android-Notepad)",
+              "Simple Android Notepad",
+              ""
+            ],
+            [
+              "4",
+              "[@hamsterready](https://github.com/hamsterready)/[**spring-smpp**](https://github.com/hamsterready/spring-smpp)",
+              "Spring SMPP Library",
+              "[:arrow_upper_right:](http://code.google.com/p/spring-smpp/)"
+            ],
+            [
+              "4",
+              "[@tdziurko](https://github.com/tdziurko)/[**maven-testng-integra…**](https://github.com/tdziurko/maven-testng-integration-tests)",
+              "Simple project setup showing how to execute TestNG integration tests using separate Maven command",
+              ""
+            ],
+            [
+              "4",
+              "[@itcuties](https://github.com/itcuties)/[**JSF2-Login-Filter-Ex…**](https://github.com/itcuties/JSF2-Login-Filter-Example)",
+              "How to use a JEE Filter to secure JSF 2 application resources? It's easy! In our example we are going to use a login filter which protects resources that are available under /secured path of JSF 2 application.",
+              "[:arrow_upper_right:](http://www.itcuties.com/j2ee/jsf-2-login-filter-example/)"
+            ],
+            [
+              "4",
+              "[@dzikoysk](https://github.com/dzikoysk)/[**UnknownPandaServer**](https://github.com/dzikoysk/UnknownPandaServer)",
+              "Game server",
+              ""
+            ],
+            [
+              "4",
+              "[@danielpacak](https://github.com/danielpacak)/[**osgi-enterprise-data…**](https://github.com/danielpacak/osgi-enterprise-datasourcefactory)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@mg6maciej](https://github.com/mg6maciej)/[**simple-github-client**](https://github.com/mg6maciej/simple-github-client)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@mg6maciej](https://github.com/mg6maciej)/[**veni-divi**](https://github.com/mg6maciej/veni-divi)",
+              "[DEPRECATED] I came, I divided - sectioned action bar title for Android",
+              "[:arrow_upper_right:](https://play.google.com/store/apps/details?id=pl.mg6.veni.divi.demo)"
+            ],
+            [
+              "4",
+              "[@itcuties](https://github.com/itcuties)/[**Axis-2-client**](https://github.com/itcuties/Axis-2-client)",
+              "\"In this tutorial we are going to code an axis 2 client based on wsdl2java approach.\" This is a tutorial material. For more great tutorials visit us on itcuties.com.",
+              "[:arrow_upper_right:](http://www.itcuties.com/j2ee/axis-2-client/)"
+            ],
+            [
+              "4",
+              "[@jmnarloch](https://github.com/jmnarloch)/[**rxjava-scheduler-spr…**](https://github.com/jmnarloch/rxjava-scheduler-spring-boot-starter)",
+              "Declarative RxJava scheduler definition",
+              ""
+            ],
+            [
+              "4",
+              "[@sarxos](https://github.com/sarxos)/[**v4l4j**](https://github.com/sarxos/v4l4j)",
+              "This is mavenized and customized fork of original V4L4J by Gilles Gigan. It contains only Java source code (no natives) and *.so objects precompiled for several architectures.",
+              ""
+            ],
+            [
+              "3",
+              "[@jmnarloch](https://github.com/jmnarloch)/[**zuul-route-cassandra…**](https://github.com/jmnarloch/zuul-route-cassandra-spring-cloud-starter)",
+              "Spring Cloud Zuul route Cassandra store",
+              ""
+            ],
+            [
+              "3",
+              "[@mswiderski](https://github.com/mswiderski)/[**jbpm-archetypes**](https://github.com/mswiderski/jbpm-archetypes)",
+              "Maven archetypes for jBPM",
+              ""
+            ],
+            [
+              "3",
+              "[@mswiderski](https://github.com/mswiderski)/[**vert.x-jbpm**](https://github.com/mswiderski/vert.x-jbpm)",
+              "Showcase repository illustrating jBPM 6 with Vert.x 2.x ",
+              ""
+            ],
+            [
+              "3",
+              "[@mg6maciej](https://github.com/mg6maciej)/[**yafi-j2me**](https://github.com/mg6maciej/yafi-j2me)",
+              "Yafi is a J2ME client application for Free Internet Chess Server (FICS, freechess.org)",
+              "[:arrow_upper_right:](yafi.pl)"
+            ],
+            [
+              "3",
+              "[@Vedenin](https://github.com/Vedenin)/[**code-for-learning-la…**](https://github.com/Vedenin/code-for-learning-languages)",
+              "Java English Learn",
+              ""
+            ],
+            [
+              "3",
+              "[@itcuties](https://github.com/itcuties)/[**ITCutiesApp-1.0**](https://github.com/itcuties/ITCutiesApp-1.0)",
+              "This is the story of coding the ITCutiesApp for Android platform. Our application gives you access to all the posts available on our page via ATOM feed.",
+              "[:arrow_upper_right:](http://www.itcuties.com/android/story-of-coding-itcutiesapp-for-android-parse-atom-modify-html-input-custom-listview-splash-screen-load-data-in-background/)"
+            ],
+            [
+              "3",
+              "[@itcuties](https://github.com/itcuties)/[**Android-Play-Video**](https://github.com/itcuties/Android-Play-Video)",
+              "Here is are code snippets that let your application play video files. This is a tutorial material. Feel free to use it. For more great tutorials visit us at itcuties.com.",
+              "[:arrow_upper_right:](http://www.itcuties.com/android/play-video/)"
+            ],
+            [
+              "3",
+              "[@kolorobot](https://github.com/kolorobot)/[**spring-mvc-icm-demo**](https://github.com/kolorobot/spring-mvc-icm-demo)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@marcingrzejszczak](https://github.com/marcingrzejszczak)/[**2015_confitura_cdc**](https://github.com/marcingrzejszczak/2015_confitura_cdc)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@mg6maciej](https://github.com/mg6maciej)/[**AwesomeCalculator**](https://github.com/mg6maciej/AwesomeCalculator)",
+              "Demo app for my \"Introduction to Android development\" presentation",
+              "[:arrow_upper_right:](https://slides.com/mg6maciej/how-to-start-android-wdi-2015)"
+            ],
+            [
+              "3",
+              "[@sarxos](https://github.com/sarxos)/[**fixml-converter**](https://github.com/sarxos/fixml-converter)",
+              "[DEPRECATED] XStream based converter between FIX and FIXML messages",
+              ""
+            ],
+            [
+              "3",
+              "[@jmnarloch](https://github.com/jmnarloch)/[**spring-jax-rs-client…**](https://github.com/jmnarloch/spring-jax-rs-client-proxy)",
+              "Spring JAX-RS Client Proxy",
+              ""
+            ],
+            [
+              "3",
+              "[@danielpacak](https://github.com/danielpacak)/[**fancy-foods**](https://github.com/danielpacak/fancy-foods)",
+              "A sample application presented in the Enterprise OSGi in Action book.",
+              ""
+            ],
+            [
+              "3",
+              "[@tdziurko](https://github.com/tdziurko)/[**item-directory-with-…**](https://github.com/tdziurko/item-directory-with-wicket)",
+              "Example web application using Apache Wicket framework with JPA2, Spring 3 and MySql.",
+              ""
+            ],
+            [
+              "3",
+              "[@jmnarloch](https://github.com/jmnarloch)/[**funava**](https://github.com/jmnarloch/funava)",
+              "Partial function application paradigm in Java",
+              ""
+            ],
+            [
+              "3",
+              "[@tdziurko](https://github.com/tdziurko)/[**merry-christmas-in-j…**](https://github.com/tdziurko/merry-christmas-in-java)",
+              "Merry Christmas and \"Silent Night\" written in Java",
+              ""
+            ],
+            [
+              "3",
+              "[@jmnarloch](https://github.com/jmnarloch)/[**feign-okhttp-spring-…**](https://github.com/jmnarloch/feign-okhttp-spring-cloud-starter)",
+              "Spring Cloud Feign OkHttp client",
+              "[:arrow_upper_right:](http://square.github.io/okhttp/)"
+            ],
+            [
+              "3",
+              "[@mswiderski](https://github.com/mswiderski)/[**jbpm-enterprise**](https://github.com/mswiderski/jbpm-enterprise)",
+              "Enterprise extension to jBPM/drools projects",
+              ""
+            ],
+            [
+              "3",
+              "[@itcuties](https://github.com/itcuties)/[**Java-Mail-Sender**](https://github.com/itcuties/Java-Mail-Sender)",
+              "Using Java to send email messages is very easy with JavaMail API. Our sample code sends email message through the server that uses StartTLS and SSL. Use this code any way you want. For more great codes and tutorials visit us at itcuties.com.",
+              "[:arrow_upper_right:](http://www.itcuties.com/java/javamail-send-email/)"
+            ],
+            [
+              "3",
+              "[@blipinsk](https://github.com/blipinsk)/[**PositioningDrawables…**](https://github.com/blipinsk/PositioningDrawables-Examples)",
+              "Simplifying layouts with layer-list drawables: a reliable way to position drawables within layer-lists",
+              "[:arrow_upper_right:](https://medium.com/@blipinsk/simplifying-layouts-with-layer-list-drawables-2f750ea1504e#.aqaluypmb)"
+            ],
+            [
+              "2",
+              "[@lukaszlenart](https://github.com/lukaszlenart)/[**struts2-spring-valid…**](https://github.com/lukaszlenart/struts2-spring-validation)",
+              "Simple demo how to use Struts2 validation with Spring integration",
+              ""
+            ],
+            [
+              "2",
+              "[@mgrzechocinski](https://github.com/mgrzechocinski)/[**retrolambda-example**](https://github.com/mgrzechocinski/retrolambda-example)",
+              "Sample Android project using retrolambda features",
+              ""
+            ],
+            [
+              "2",
+              "[@mgrzechocinski](https://github.com/mgrzechocinski)/[**DroidconKrakow2014**](https://github.com/mgrzechocinski/DroidconKrakow2014)",
+              "Sample app for my 'Deep dive into async operations' talk at Droidcon 2014 in Kraków",
+              ""
+            ],
+            [
+              "2",
+              "[@mgrzechocinski](https://github.com/mgrzechocinski)/[**Android-KickStart**](https://github.com/mgrzechocinski/Android-KickStart)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@lukaszlenart](https://github.com/lukaszlenart)/[**struts2-tiles-demo**](https://github.com/lukaszlenart/struts2-tiles-demo)",
+              "Simple Struts2 project with Tiles",
+              ""
+            ],
+            [
+              "2",
+              "[@danielpacak](https://github.com/danielpacak)/[**spring-data-jpa-web-…**](https://github.com/danielpacak/spring-data-jpa-web-talk)",
+              "A sample application I used during presentation of Spring Data JPA for my colleagues at Amadeus.",
+              ""
+            ],
+            [
+              "2",
+              "[@sarxos](https://github.com/sarxos)/[**1-wire-network**](https://github.com/sarxos/1-wire-network)",
+              "Java event-driven implementation of 1-Wire service.",
+              "[:arrow_upper_right:](http://www.sarxos.pl)"
+            ],
+            [
+              "2",
+              "[@sarxos](https://github.com/sarxos)/[**bossa-api-connector**](https://github.com/sarxos/bossa-api-connector)",
+              "[DEPRECATED] Connector for BossaAPI delivered in NOL3 from BOŚ. This project has been deprecated, I don't know if I will maintain it in the future. I simply don't use NOL3 any more.",
+              ""
+            ],
+            [
+              "2",
+              "[@sarxos](https://github.com/sarxos)/[**gadacz-server**](https://github.com/sarxos/gadacz-server)",
+              "Server for the Gadacz application. I've just played with socket connections and created Gadacz communicator server (J2SE) and mobile client (J2ME, MIDP1.0) for it, both as POC in only one day. Mobile client you can find in separate repo.",
+              "[:arrow_upper_right:](http://www.sarxos.pl)"
+            ],
+            [
+              "2",
+              "[@tdziurko](https://github.com/tdziurko)/[**tinypm-timesheet-exp…**](https://github.com/tdziurko/tinypm-timesheet-exporter)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@jmnarloch](https://github.com/jmnarloch)/[**feign-encoding-sprin…**](https://github.com/jmnarloch/feign-encoding-spring-cloud-starter)",
+              "Spring Cloud Feign request/response compression",
+              ""
+            ],
+            [
+              "2",
+              "[@kolorobot](https://github.com/kolorobot)/[**spring-boot-angular**](https://github.com/kolorobot/spring-boot-angular)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@jmnarloch](https://github.com/jmnarloch)/[**hstreams**](https://github.com/jmnarloch/hstreams)",
+              "A  JDK 8 wrapper on top of Hibernate Query API",
+              ""
+            ],
+            [
+              "2",
+              "[@dweiss](https://github.com/dweiss)/[**fsa-speedtests**](https://github.com/dweiss/fsa-speedtests)",
+              "Speed tests of FSA traversals",
+              ""
+            ],
+            [
+              "2",
+              "[@jmnarloch](https://github.com/jmnarloch)/[**arquillian-container…**](https://github.com/jmnarloch/arquillian-container-spring-testsuite)",
+              "Test suite for Arquillian Spring Container",
+              ""
+            ],
+            [
+              "2",
+              "[@hamsterready](https://github.com/hamsterready)/[**sms2picture-by-email**](https://github.com/hamsterready/sms2picture-by-email)",
+              "Simple SMS listener which on SMS takes picture and sends it back via email.",
+              ""
+            ],
+            [
+              "2",
+              "[@jmnarloch](https://github.com/jmnarloch)/[**feign-vnderror-sprin…**](https://github.com/jmnarloch/feign-vnderror-spring-cloud-starter)",
+              "Spring Cloud Feign vnd.error decoder",
+              ""
+            ],
+            [
+              "2",
+              "[@mg6maciej](https://github.com/mg6maciej)/[**warsjawa2013-android…**](https://github.com/mg6maciej/warsjawa2013-android-squared-googled-preparation)",
+              "Android^2 - do potęgi Square i Google APIs",
+              "[:arrow_upper_right:](warsjawa.pl)"
+            ],
+            [
+              "2",
+              "[@jmnarloch](https://github.com/jmnarloch)/[**gocd-sbt-plugin**](https://github.com/jmnarloch/gocd-sbt-plugin)",
+              "GO Continuous Delivery SBT plugin",
+              ""
+            ],
+            [
+              "2",
+              "[@tomekkaczanowski](https://github.com/tomekkaczanowski)/[**gradle-examples**](https://github.com/tomekkaczanowski/gradle-examples)",
+              "some examples of gradle builds",
+              ""
+            ],
+            [
+              "2",
+              "[@jmnarloch](https://github.com/jmnarloch)/[**arquillian-extension…**](https://github.com/jmnarloch/arquillian-extension-warp-rest)",
+              "arquillian-extension-warp-rest",
+              ""
+            ],
+            [
+              "2",
+              "[@tomekkaczanowski](https://github.com/tomekkaczanowski)/[**varia**](https://github.com/tomekkaczanowski/varia)",
+              "various stuff",
+              ""
+            ],
+            [
+              "2",
+              "[@mgrzechocinski](https://github.com/mgrzechocinski)/[**android-bindings-exa…**](https://github.com/mgrzechocinski/android-bindings-example)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@tmorcinek](https://github.com/tmorcinek)/[**android-showcase**](https://github.com/tmorcinek/android-showcase)",
+              "This is an Android Application that shows usage of the Android SDK, frameworks and libraries. This app will be updated regularly.",
+              ""
+            ],
+            [
+              "2",
+              "[@mswiderski](https://github.com/mswiderski)/[**spring-jbpm-app**](https://github.com/mswiderski/spring-jbpm-app)",
+              "jBPM spring application that shows how to build execution server using jBPM 6 and spring",
+              ""
+            ],
+            [
+              "2",
+              "[@itcuties](https://github.com/itcuties)/[**JSF2-Spring3-Example…**](https://github.com/itcuties/JSF2-Spring3-Example-The-Registration-App)",
+              "Today we are going to show you how to integrate JSF 2 with Spring 3. Our JSF 2 Spring 3 example application is the implementation of the Workshop registration use case. Use this code any way you want. For more greate codes and tutorials visit us at itcuties.com",
+              "[:arrow_upper_right:](http://www.itcuties.com/j2ee/jsf-2-spring-3-example-the-registration-app/)"
+            ],
+            [
+              "2",
+              "[@mswiderski](https://github.com/mswiderski)/[**bpm-projects**](https://github.com/mswiderski/bpm-projects)",
+              "Various deployable projects for jBPM",
               ""
             ]
           ]
