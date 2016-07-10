@@ -52,7 +52,8 @@
           "[CSS](#css)",
           "[C](undefined)",
           "[C++](#c-2)",
-          "[ActionScript](#actionscript)"
+          "[ActionScript](#actionscript)",
+          "[Clojure](#clojure)"
         ]
       },
       {
@@ -3113,6 +3114,99 @@
               "2",
               "[@imrahil](https://github.com/imrahil)/[**PlaybookTwitFavorite…**](https://github.com/imrahil/PlaybookTwitFavorites)",
               "Twitter Favorites for Blackberry Playbook",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Clojure #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "114",
+              "[@nathell](https://github.com/nathell)/[**clj-tagsoup**](https://github.com/nathell/clj-tagsoup)",
+              "A HTML parser for Clojure.",
+              ""
+            ],
+            [
+              "98",
+              "[@nathell](https://github.com/nathell)/[**skyscraper**](https://github.com/nathell/skyscraper)",
+              "Structural scraping for the rest of us.",
+              ""
+            ],
+            [
+              "68",
+              "[@nathell](https://github.com/nathell)/[**lithium**](https://github.com/nathell/lithium)",
+              "Clojure-based x86 assembler and toy Lisp compiler",
+              ""
+            ],
+            [
+              "28",
+              "[@nathell](https://github.com/nathell)/[**clj-iter**](https://github.com/nathell/clj-iter)",
+              "A Clojure iteration macro inspired by Common Lisp iterate.",
+              ""
+            ],
+            [
+              "25",
+              "[@nathell](https://github.com/nathell)/[**sunflower**](https://github.com/nathell/sunflower)",
+              "Easily extract content from a bunch of similarly-formatted HTML files.",
+              ""
+            ],
+            [
+              "10",
+              "[@anjensan](https://github.com/anjensan)/[**azql**](https://github.com/anjensan/azql)",
+              "DSL for generating SQL in Clojure.",
+              ""
+            ],
+            [
+              "7",
+              "[@nathell](https://github.com/nathell)/[**clj-bitfields**](https://github.com/nathell/clj-bitfields)",
+              "Easy accessing C-compatible packed bitfields from Clojure.",
+              ""
+            ],
+            [
+              "6",
+              "[@jwr](https://github.com/jwr)/[**lemontree**](https://github.com/jwr/lemontree)",
+              "A web framework based on the widget tree concept, written in Clojure",
+              ""
+            ],
+            [
+              "6",
+              "[@nathell](https://github.com/nathell)/[**gumtree-scraper**](https://github.com/nathell/gumtree-scraper)",
+              "Gumtree RSS generator",
+              ""
+            ],
+            [
+              "6",
+              "[@nathell](https://github.com/nathell)/[**clj-json-rpc**](https://github.com/nathell/clj-json-rpc)",
+              "A Clojure handler for JSON-RPC compatible with Ring",
+              ""
+            ],
+            [
+              "5",
+              "[@jwr](https://github.com/jwr)/[**fablo-api-client**](https://github.com/jwr/fablo-api-client)",
+              "A client for the Fablo search engine API in Clojure",
+              "[:arrow_upper_right:](http://fablo.pl/)"
+            ],
+            [
+              "4",
+              "[@nathell](https://github.com/nathell)/[**spleen**](https://github.com/nathell/spleen)",
+              "A Scrabble engine written in Clojure.",
+              ""
+            ],
+            [
+              "2",
+              "[@tomaszbiedka](https://github.com/tomaszbiedka)/[**my-first-clojure-gam…**](https://github.com/tomaszbiedka/my-first-clojure-game)",
+              "My first clojure game ",
               ""
             ]
           ]
