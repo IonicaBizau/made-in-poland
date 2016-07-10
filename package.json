@@ -65,7 +65,8 @@
           "[Python](#python)",
           "[R](#r)",
           "[Ruby](#ruby)",
-          "[Scala](#scala)"
+          "[Scala](#scala)",
+          "[Shell](#shell)"
         ]
       },
       {
@@ -6897,6 +6898,141 @@
               "2",
               "[@danielkorzekwa](https://github.com/danielkorzekwa)/[**betting-exchange-eve…**](https://github.com/danielkorzekwa/betting-exchange-event-collector)",
               "Automatically exported from code.google.com/p/betting-exchange-event…",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Shell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "93",
+              "[@psprint](https://github.com/psprint)/[**zsh-navigation-tools**](https://github.com/psprint/zsh-navigation-tools)",
+              "Curses-based tools for Zsh, e.g. multi-word history searcher",
+              "[:arrow_upper_right:](http://psprint.github.io/)"
+            ],
+            [
+              "23",
+              "[@psprint](https://github.com/psprint)/[**zsh-cmd-architect**](https://github.com/psprint/zsh-cmd-architect)",
+              "Build commands from what's in history and at prompt",
+              ""
+            ],
+            [
+              "22",
+              "[@psprint](https://github.com/psprint)/[**zplugin**](https://github.com/psprint/zplugin)",
+              "Plugin manager with clean fpath and reports",
+              "[:arrow_upper_right:](http://psprint.github.io/)"
+            ],
+            [
+              "14",
+              "[@psprint](https://github.com/psprint)/[**zsh-editing-workbenc…**](https://github.com/psprint/zsh-editing-workbench)",
+              "Sane, sophisticated command line editing",
+              ""
+            ],
+            [
+              "7",
+              "[@grzegorzrolek](https://github.com/grzegorzrolek)/[**kif-compiler**](https://github.com/grzegorzrolek/kif-compiler)",
+              "Kerning Input File compiler for AAT",
+              ""
+            ],
+            [
+              "6",
+              "[@grzegorzrolek](https://github.com/grzegorzrolek)/[**glif-schema**](https://github.com/grzegorzrolek/glif-schema)",
+              "XML Schema for Unified Font Object’s GLIF Spec",
+              ""
+            ],
+            [
+              "5",
+              "[@FadeMind](https://github.com/FadeMind)/[**archpkgbuilds**](https://github.com/FadeMind/archpkgbuilds)",
+              "PKGBUILD's for Arch Linux",
+              ""
+            ],
+            [
+              "3",
+              "[@psprint](https://github.com/psprint)/[**zsnapshot**](https://github.com/psprint/zsnapshot)",
+              "Zsh session restoration",
+              ""
+            ],
+            [
+              "3",
+              "[@aidecoe](https://github.com/aidecoe)/[**aidecoe-overlay**](https://github.com/aidecoe/aidecoe-overlay)",
+              "aidecoe's experimental Gentoo overlay",
+              ""
+            ],
+            [
+              "3",
+              "[@psprint](https://github.com/psprint)/[**zsh-select**](https://github.com/psprint/zsh-select)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@FadeMind](https://github.com/FadeMind)/[**libreoffice-fresh-ka…**](https://github.com/FadeMind/libreoffice-fresh-kalahari)",
+              "Kalahari icon themes for libreoffice-fresh-rpm",
+              "[:arrow_upper_right:](https://aur.archlinux.org/packages/libreoffice-fresh-kalahari/)"
+            ],
+            [
+              "3",
+              "[@psprint](https://github.com/psprint)/[**history-search-multi…**](https://github.com/psprint/history-search-multi-word)",
+              "Multi-word history searching for Zsh",
+              ""
+            ],
+            [
+              "3",
+              "[@tomek](https://github.com/tomek)/[**oh-my-zsh**](https://github.com/tomek/oh-my-zsh)",
+              "A community-driven framework for managing your zsh configuration. Includes 40+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, macports, etc), over 80 terminal themes to spice up  your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",
+              "[:arrow_upper_right:](http://twitter.com/ohmyzsh)"
+            ],
+            [
+              "2",
+              "[@pzel](https://github.com/pzel)/[**suppose_its**](https://github.com/pzel/suppose_its)",
+              "A simple tool for testing date-related code",
+              "[:arrow_upper_right:](https://github.com/pzel/suppose_its)"
+            ],
+            [
+              "2",
+              "[@aidecoe](https://github.com/aidecoe)/[**dracut**](https://github.com/aidecoe/dracut)",
+              "Initramfs generator using udev. Forked from git://git.kernel.org/pub/scm/boot/dracut…",
+              ""
+            ],
+            [
+              "2",
+              "[@11mariom](https://github.com/11mariom)/[**backup.sh**](https://github.com/11mariom/backup.sh)",
+              "An backup script using rdiff-backup.",
+              ""
+            ],
+            [
+              "2",
+              "[@11mariom](https://github.com/11mariom)/[**scripts**](https://github.com/11mariom/scripts)",
+              "various sh scripts",
+              ""
+            ],
+            [
+              "2",
+              "[@AdamPrzybyla](https://github.com/AdamPrzybyla)/[**ejabberd-selinux**](https://github.com/AdamPrzybyla/ejabberd-selinux)",
+              "SELInux policy for ejabberd daemon.",
+              ""
+            ],
+            [
+              "2",
+              "[@elwin013](https://github.com/elwin013)/[**archinfo**](https://github.com/elwin013/archinfo)",
+              "Simple system information utility written in Bash (similiar to archey and bsdinfo)",
+              ""
+            ],
+            [
+              "2",
+              "[@wujtruj](https://github.com/wujtruj)/[**docker-dropplets**](https://github.com/wujtruj/docker-dropplets)",
+              "Dockerfile to build a Docker image of the Dropplets blogging platform",
               ""
             ]
           ]
