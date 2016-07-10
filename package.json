@@ -67,7 +67,8 @@
           "[Ruby](#ruby)",
           "[Scala](#scala)",
           "[Shell](#shell)",
-          "[Swift](#swift)"
+          "[Swift](#swift)",
+          "[TeX](#tex)"
         ]
       },
       {
@@ -7067,6 +7068,27 @@
               "3",
               "[@AdamSliwakowski](https://github.com/AdamSliwakowski)/[**TypedTableView**](https://github.com/AdamSliwakowski/TypedTableView)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "TeX #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "8",
+              "[@politechnika](https://github.com/politechnika)/[**put-latex**](https://github.com/politechnika/put-latex)",
+              "put-latex",
               ""
             ]
           ]
