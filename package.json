@@ -64,7 +64,8 @@
           "[PHP](#php)",
           "[Python](#python)",
           "[R](#r)",
-          "[Ruby](#ruby)"
+          "[Ruby](#ruby)",
+          "[Scala](#scala)"
         ]
       },
       {
@@ -6606,6 +6607,297 @@
               "[@imanel](https://github.com/imanel)/[**ruby-time-tracker**](https://github.com/imanel/ruby-time-tracker)",
               "Time Tracker written in Ruby on Rails",
               "[:arrow_upper_right:](http://ruby-time-tracker.heroku.com)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Scala #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "514",
+              "[@adamw](https://github.com/adamw)/[**macwire**](https://github.com/adamw/macwire)",
+              "Lightweight and Nonintrusive Scala Dependency Injection Library",
+              "[:arrow_upper_right:](http://www.softwaremill.com)"
+            ],
+            [
+              "470",
+              "[@adamw](https://github.com/adamw)/[**elasticmq**](https://github.com/adamw/elasticmq)",
+              "Message queueing system with an actor-based Scala and Amazon SQS-compatible interfaces. Runs stand-alone or embedded.",
+              "[:arrow_upper_right:](http://www.softwaremill.com)"
+            ],
+            [
+              "190",
+              "[@adamw](https://github.com/adamw)/[**quicklens**](https://github.com/adamw/quicklens)",
+              "Modify deeply nested case class fields",
+              "[:arrow_upper_right:](http://www.softwaremill.com)"
+            ],
+            [
+              "160",
+              "[@danielkorzekwa](https://github.com/danielkorzekwa)/[**bayes-scala**](https://github.com/danielkorzekwa/bayes-scala)",
+              "Bayesian Networks in Scala",
+              ""
+            ],
+            [
+              "96",
+              "[@adamw](https://github.com/adamw)/[**reactmq**](https://github.com/adamw/reactmq)",
+              "Reactive Message Queue",
+              "[:arrow_upper_right:](http://www.softwaremill.com)"
+            ],
+            [
+              "92",
+              "[@plokhotnyuk](https://github.com/plokhotnyuk)/[**actors**](https://github.com/plokhotnyuk/actors)",
+              "Evaluation of API and performance of different actor libraries",
+              ""
+            ],
+            [
+              "67",
+              "[@adamw](https://github.com/adamw)/[**xsbt-proguard-plugin**](https://github.com/adamw/xsbt-proguard-plugin)",
+              "A plugin for XSBT to facilitate the use of ProGuard to create single jars for XSBT-managed projects",
+              "[:arrow_upper_right:](http://www.warski.org/blog)"
+            ],
+            [
+              "57",
+              "[@adamw](https://github.com/adamw)/[**scala-macro-debug**](https://github.com/adamw/scala-macro-debug)",
+              "Scala macros for making debugging easier",
+              ""
+            ],
+            [
+              "40",
+              "[@adamw](https://github.com/adamw)/[**veripacks**](https://github.com/adamw/veripacks)",
+              "Verify Package Specifications",
+              ""
+            ],
+            [
+              "38",
+              "[@adamw](https://github.com/adamw)/[**docker-spray-example**](https://github.com/adamw/docker-spray-example)",
+              "",
+              ""
+            ],
+            [
+              "36",
+              "[@adamw](https://github.com/adamw)/[**mqperf**](https://github.com/adamw/mqperf)",
+              "",
+              "[:arrow_upper_right:](https://softwaremill.com/mqperf/)"
+            ],
+            [
+              "29",
+              "[@adamw](https://github.com/adamw)/[**scala-macro-aop**](https://github.com/adamw/scala-macro-aop)",
+              "",
+              ""
+            ],
+            [
+              "27",
+              "[@adamw](https://github.com/adamw)/[**reactive-akka-pres**](https://github.com/adamw/reactive-akka-pres)",
+              "\"Reactive Akka\" presentation",
+              ""
+            ],
+            [
+              "25",
+              "[@danielkorzekwa](https://github.com/danielkorzekwa)/[**atpworldtour-api**](https://github.com/danielkorzekwa/atpworldtour-api)",
+              "Scala API for atpworldtour.com tennis statistics",
+              ""
+            ],
+            [
+              "20",
+              "[@adamw](https://github.com/adamw)/[**spray-tutorial**](https://github.com/adamw/spray-tutorial)",
+              "Spray.io tutorial",
+              ""
+            ],
+            [
+              "19",
+              "[@lukaszbudnik](https://github.com/lukaszbudnik)/[**hackaton-portal**](https://github.com/lukaszbudnik/hackaton-portal)",
+              "hackaton.pl project",
+              ""
+            ],
+            [
+              "19",
+              "[@arturopala](https://github.com/arturopala)/[**akka-io-sctp**](https://github.com/arturopala/akka-io-sctp)",
+              "Akka I/O driver for SCTP protocol based on Oracle JDK 7/8 support.",
+              ""
+            ],
+            [
+              "17",
+              "[@arturopala](https://github.com/arturopala)/[**play-2.4-crud-with-r…**](https://github.com/arturopala/play-2.4-crud-with-reactive-mongo)",
+              "Play 2.4 project seed: Generic CRUD with Macwire and ReactiveMongo",
+              ""
+            ],
+            [
+              "15",
+              "[@danielkorzekwa](https://github.com/danielkorzekwa)/[**tennis-probability-c…**](https://github.com/danielkorzekwa/tennis-probability-calculator)",
+              "Calculates probability of winning a tennis point, game, tiebreak, set, match, tournament",
+              ""
+            ],
+            [
+              "11",
+              "[@danielkorzekwa](https://github.com/danielkorzekwa)/[**betting-exchange**](https://github.com/danielkorzekwa/betting-exchange)",
+              "Betting Exchange Engine in Scala",
+              ""
+            ],
+            [
+              "10",
+              "[@danielkorzekwa](https://github.com/danielkorzekwa)/[**bayes-scala-gp**](https://github.com/danielkorzekwa/bayes-scala-gp)",
+              "Gaussian Processes in Scala",
+              ""
+            ],
+            [
+              "8",
+              "[@adamw](https://github.com/adamw)/[**scala-macro-di**](https://github.com/adamw/scala-macro-di)",
+              "",
+              ""
+            ],
+            [
+              "7",
+              "[@jac3km4](https://github.com/jac3km4)/[**wakfutcp**](https://github.com/jac3km4/wakfutcp)",
+              "Wakfu TCP Client written in Scala",
+              ""
+            ],
+            [
+              "7",
+              "[@gkossakowski](https://github.com/gkossakowski)/[**gimd**](https://github.com/gkossakowski/gimd)",
+              "gimd (pronounced gim-dee) provides a small distributed database layered on top of the powerful Git version control system. ",
+              "[:arrow_upper_right:](http://code.google.com/p/gimd/)"
+            ],
+            [
+              "6",
+              "[@adamw](https://github.com/adamw)/[**slick-eventsourcing-…**](https://github.com/adamw/slick-eventsourcing-pres)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@plokhotnyuk](https://github.com/plokhotnyuk)/[**scala-vs-java**](https://github.com/plokhotnyuk/scala-vs-java)",
+              "Performance of Scala comparing to Java",
+              ""
+            ],
+            [
+              "5",
+              "[@danielkorzekwa](https://github.com/danielkorzekwa)/[**tennis-player-compar…**](https://github.com/danielkorzekwa/tennis-player-compare)",
+              "Calculates probability of winning a tennis match and tournament by a tennis player against his opponent(s).",
+              ""
+            ],
+            [
+              "5",
+              "[@adamw](https://github.com/adamw)/[**keep-it-simple-scala**](https://github.com/adamw/keep-it-simple-scala)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@PiotrTrzpil](https://github.com/PiotrTrzpil)/[**akka-stream-websocke…**](https://github.com/PiotrTrzpil/akka-stream-websocket)",
+              "A simple implementation of WebSockets on Akka Streams",
+              ""
+            ],
+            [
+              "4",
+              "[@adamw](https://github.com/adamw)/[**conference-portal**](https://github.com/adamw/conference-portal)",
+              "Conference portal",
+              "[:arrow_upper_right:](http://www.softwaremill.eu)"
+            ],
+            [
+              "4",
+              "[@danielkorzekwa](https://github.com/danielkorzekwa)/[**betting-ai**](https://github.com/danielkorzekwa/betting-ai)",
+              "Automatically exported from code.google.com/p/betting-ai",
+              ""
+            ],
+            [
+              "4",
+              "[@adamw](https://github.com/adamw)/[**nodi-macwire-pres**](https://github.com/adamw/nodi-macwire-pres)",
+              "MacWire presentation",
+              "[:arrow_upper_right:](http://www.softwaremill.com)"
+            ],
+            [
+              "3",
+              "[@adamw](https://github.com/adamw)/[**jsr305-scala-compile…**](https://github.com/adamw/jsr305-scala-compiler-plugin)",
+              "Nonnull-check generator, a Scala compiler plugin",
+              "[:arrow_upper_right:](http://www.warski.org)"
+            ],
+            [
+              "3",
+              "[@lukaszbudnik](https://github.com/lukaszbudnik)/[**play-cloud-plugins**](https://github.com/lukaszbudnik/play-cloud-plugins)",
+              "Cloud Plugins for Play! Framework",
+              ""
+            ],
+            [
+              "3",
+              "[@plokhotnyuk](https://github.com/plokhotnyuk)/[**calculator**](https://github.com/plokhotnyuk/calculator)",
+              "Example of executable specification inspired by end-to-end approach described in: http://www.growing-object-oriented-softw… ",
+              ""
+            ],
+            [
+              "3",
+              "[@gkossakowski](https://github.com/gkossakowski)/[**badsigs**](https://github.com/gkossakowski/badsigs)",
+              "Tools to detect broken signatures in class files produced by scalac",
+              ""
+            ],
+            [
+              "2",
+              "[@gkossakowski](https://github.com/gkossakowski)/[**scala-proxy**](https://github.com/gkossakowski/scala-proxy)",
+              "Scala reflection playground that will implement Scala proxy",
+              ""
+            ],
+            [
+              "2",
+              "[@gkossakowski](https://github.com/gkossakowski)/[**scala-health**](https://github.com/gkossakowski/scala-health)",
+              "A little tool that downloads and analyzes Scala Jenkins logs.",
+              ""
+            ],
+            [
+              "2",
+              "[@jac3km4](https://github.com/jac3km4)/[**wakfudecrypt**](https://github.com/jac3km4/wakfudecrypt)",
+              "Automated decryption utility for Wakfu.",
+              ""
+            ],
+            [
+              "2",
+              "[@adamw](https://github.com/adamw)/[**lift-ajax-submit-tes…**](https://github.com/adamw/lift-ajax-submit-test)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@danielkorzekwa](https://github.com/danielkorzekwa)/[**betting-exchange-fee…**](https://github.com/danielkorzekwa/betting-exchange-feeder)",
+              "Automatically exported from code.google.com/p/betting-exchange-feede…",
+              ""
+            ],
+            [
+              "2",
+              "[@danielkorzekwa](https://github.com/danielkorzekwa)/[**betting-risk**](https://github.com/danielkorzekwa/betting-risk)",
+              "Automatically exported from code.google.com/p/betting-risk",
+              ""
+            ],
+            [
+              "2",
+              "[@danielkorzekwa](https://github.com/danielkorzekwa)/[**tennis-rating-dbn-em…**](https://github.com/danielkorzekwa/tennis-rating-dbn-em-scala)",
+              "Tennis Ratings based on Dynamic Bayesian Networks and Expectation Maximization, implemented in Scala",
+              ""
+            ],
+            [
+              "2",
+              "[@danielkorzekwa](https://github.com/danielkorzekwa)/[**betting-exchange-app**](https://github.com/danielkorzekwa/betting-exchange-app)",
+              "Automatically exported from code.google.com/p/betting-exchange-app",
+              ""
+            ],
+            [
+              "2",
+              "[@almendar](https://github.com/almendar)/[**WarszawScala-slick-d…**](https://github.com/almendar/WarszawScala-slick-day)",
+              "Skeleton of a project for Warsaw Scala User Group meetup",
+              ""
+            ],
+            [
+              "2",
+              "[@danielkorzekwa](https://github.com/danielkorzekwa)/[**betting-exchange-eve…**](https://github.com/danielkorzekwa/betting-exchange-event-collector)",
+              "Automatically exported from code.google.com/p/betting-exchange-event…",
+              ""
             ]
           ]
         }
