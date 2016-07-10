@@ -48,7 +48,8 @@
         "ul": [
           "[JavaScript](#javascript)",
           "[Java](#java)",
-          "[C#](#c-1)"
+          "[C#](#c-1)",
+          "[CSS](#css)"
         ]
       },
       {
@@ -2648,6 +2649,57 @@
               "[@tkowalczyk](https://github.com/tkowalczyk)/[**SimpleLocalNotificat…**](https://github.com/tkowalczyk/SimpleLocalNotificationsForms)",
               "This project show how to use local notification in Xamarin.Forms project",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "CSS #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "28",
+              "[@smutnyleszek](https://github.com/smutnyleszek)/[**hashtabber**](https://github.com/smutnyleszek/hashtabber)",
+              "A simple hashchange-driven tabbed navigation",
+              "[:arrow_upper_right:](hashtabber.smutnyleszek.com)"
+            ],
+            [
+              "8",
+              "[@DominikSerafin](https://github.com/DominikSerafin)/[**aurora-template**](https://github.com/DominikSerafin/aurora-template)",
+              "A free HTML5 template for personal and commercial usage.",
+              "[:arrow_upper_right:](http://dominikserafin.github.io/aurora-template)"
+            ],
+            [
+              "8",
+              "[@illarionvk](https://github.com/illarionvk)/[**shopify-email-templa…**](https://github.com/illarionvk/shopify-email-templates)",
+              "A collection of Shopify e-mail templates. Uses Gulp.js, Sass and Zurb Ink framework, inlines CSS",
+              ""
+            ],
+            [
+              "4",
+              "[@nextlevelshit](https://github.com/nextlevelshit)/[**webpack-electron-ang…**](https://github.com/nextlevelshit/webpack-electron-angular2-foundation-starterkit)",
+              "Just another starterkit for everybody who wants to develope applications with Github's Electron, Google's Angular2, Zurb's Foundation 6 and JS module bundler Webpack.  ",
+              ""
+            ],
+            [
+              "2",
+              "[@illarionvk](https://github.com/illarionvk)/[**pygments-solarized-s…**](https://github.com/illarionvk/pygments-solarized-scss)",
+              "SCSS styles for Pygments & Rouge, based on Solarized colors by Ethan Schoonover",
+              ""
+            ],
+            [
+              "2",
+              "[@nextlevelshit](https://github.com/nextlevelshit)/[**angular-warp-scroll**](https://github.com/nextlevelshit/angular-warp-scroll)",
+              "Simple directive for scrolling into the website itself",
+              "[:arrow_upper_right:](http://www.dailysh.it)"
             ]
           ]
         }
