@@ -51,7 +51,8 @@
           "[C#](#c-1)",
           "[CSS](#css)",
           "[C](undefined)",
-          "[C++](#c-2)"
+          "[C++](#c-2)",
+          "[ActionScript](#actionscript)"
         ]
       },
       {
@@ -3044,6 +3045,75 @@
               "[@matthewpl](https://github.com/matthewpl)/[**qt10**](https://github.com/matthewpl/qt10)",
               "Kurs Qt - część 10 - WebKit",
               "[:arrow_upper_right:](http://blog.matthew.org.pl/2010/08/06/kurs-qt-czesc-10-webkit/)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "ActionScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "12",
+              "[@ncreated](https://github.com/ncreated)/[**Potential-Fields**](https://github.com/ncreated/Potential-Fields)",
+              "Potential fields library.",
+              ""
+            ],
+            [
+              "6",
+              "[@goshki](https://github.com/goshki)/[**Flixel-Box2D-Alchemy…**](https://github.com/goshki/Flixel-Box2D-Alchemy-Integration-Example)",
+              "An example integration of Flixel and an Alchemy port of Box2D library from WCK.",
+              ""
+            ],
+            [
+              "3",
+              "[@goshki](https://github.com/goshki)/[**FlxShaderCamera**](https://github.com/goshki/FlxShaderCamera)",
+              "A simple extension of Flixel's FlxCamera that uses UltimateBlendModeShader for blending.",
+              "[:arrow_upper_right:](http://vigeo.pl/labs/flxshadercamera/)"
+            ],
+            [
+              "3",
+              "[@imrahil](https://github.com/imrahil)/[**reddvin**](https://github.com/imrahil/reddvin)",
+              "Reddit client for Blackberry Playbook",
+              ""
+            ],
+            [
+              "2",
+              "[@antonsynd](https://github.com/antonsynd)/[**ZombieMonkey**](https://github.com/antonsynd/ZombieMonkey)",
+              "AS3 library for runtime ECMAScript execution using Tamarin",
+              ""
+            ],
+            [
+              "2",
+              "[@ncreated](https://github.com/ncreated)/[**Projectile-Utils**](https://github.com/ncreated/Projectile-Utils)",
+              "Projectile velocity calculation to hit coordinate.",
+              "[:arrow_upper_right:](http://www.n-created.com/2013/11/12/projectile-initial-velocity-angle-to-hit-coordinate/)"
+            ],
+            [
+              "2",
+              "[@goshki](https://github.com/goshki)/[**CrateCollector**](https://github.com/goshki/CrateCollector)",
+              "A game about collecting crates, yeah!",
+              ""
+            ],
+            [
+              "2",
+              "[@imrahil](https://github.com/imrahil)/[**Morse-Code-Generator**](https://github.com/imrahil/Morse-Code-Generator)",
+              "Morse Code Generator",
+              ""
+            ],
+            [
+              "2",
+              "[@imrahil](https://github.com/imrahil)/[**PlaybookTwitFavorite…**](https://github.com/imrahil/PlaybookTwitFavorites)",
+              "Twitter Favorites for Blackberry Playbook",
+              ""
             ]
           ]
         }
