@@ -59,7 +59,8 @@
           "[Haskell](#haskell)",
           "[Lua](#lua)",
           "[Matlab](#matlab)",
-          "[Objective-C](#objective-c)"
+          "[Objective-C](#objective-c)",
+          "[Perl](#perl)"
         ]
       },
       {
@@ -4257,6 +4258,255 @@
               "2",
               "[@lksoft](https://github.com/lksoft)/[**MailCommon**](https://github.com/lksoft/MailCommon)",
               "Some common code to use in Mail Plugins",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Perl #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "140",
+              "[@tadzik](https://github.com/tadzik)/[**rakudobrew**](https://github.com/tadzik/rakudobrew)",
+              "Perl 6 installation manager",
+              ""
+            ],
+            [
+              "66",
+              "[@depesz](https://github.com/depesz)/[**explain.depesz.com**](https://github.com/depesz/explain.depesz.com)",
+              "Webpage for showing easier to read version of PostgreSQL explains",
+              "[:arrow_upper_right:](http://explain.depesz.com/)"
+            ],
+            [
+              "25",
+              "[@Vifon](https://github.com/Vifon)/[**autocomplete-ALL-the…**](https://github.com/Vifon/autocomplete-ALL-the-things)",
+              "Arbitrary text completion for urxvt",
+              ""
+            ],
+            [
+              "25",
+              "[@ewilded](https://github.com/ewilded)/[**get_docroots**](https://github.com/ewilded/get_docroots)",
+              "This little helper script attempts to generate all potential DOCUMENT_ROOT full paths for a given application.",
+              ""
+            ],
+            [
+              "23",
+              "[@tadzik](https://github.com/tadzik)/[**steroids**](https://github.com/tadzik/steroids)",
+              "bla bla bla",
+              ""
+            ],
+            [
+              "19",
+              "[@odyniec](https://github.com/odyniec)/[**p5-Arriba**](https://github.com/odyniec/p5-Arriba)",
+              "PSGI web server with SPDY support",
+              ""
+            ],
+            [
+              "11",
+              "[@tadzik](https://github.com/tadzik)/[**neutro**](https://github.com/tadzik/neutro)",
+              "Simple module installer for Perl 6",
+              ""
+            ],
+            [
+              "9",
+              "[@odyniec](https://github.com/odyniec)/[**Dancer-Plugin-DebugT…**](https://github.com/odyniec/Dancer-Plugin-DebugToolbar)",
+              "Debugging toolbar for Perl Dancer web applications",
+              ""
+            ],
+            [
+              "8",
+              "[@XANi](https://github.com/XANi)/[**toolbox**](https://github.com/XANi/toolbox)",
+              "random crap and small/unfinished admin scripts",
+              ""
+            ],
+            [
+              "8",
+              "[@tadzik](https://github.com/tadzik)/[**perl6-File-Tools**](https://github.com/tadzik/perl6-File-Tools)",
+              "File::Tools – common shell commands replacements",
+              ""
+            ],
+            [
+              "7",
+              "[@odyniec](https://github.com/odyniec)/[**p5-WebService-Amazon…**](https://github.com/odyniec/p5-WebService-Amazon-Route53)",
+              "Perl interface to Amazon Route 53 API",
+              ""
+            ],
+            [
+              "5",
+              "[@XANi](https://github.com/XANi)/[**blogolicious**](https://github.com/XANi/blogolicious)",
+              "Mojolicious based blog platform",
+              ""
+            ],
+            [
+              "5",
+              "[@odyniec](https://github.com/odyniec)/[**p5-Dancer-Plugin-Aut…**](https://github.com/odyniec/p5-Dancer-Plugin-Auth-Basic)",
+              "Basic HTTP authentication for Dancer web apps",
+              ""
+            ],
+            [
+              "4",
+              "[@tadzik](https://github.com/tadzik)/[**ThroughTheWindow**](https://github.com/tadzik/ThroughTheWindow)",
+              "A jumping game",
+              ""
+            ],
+            [
+              "4",
+              "[@depesz](https://github.com/depesz)/[**Pg--Explain**](https://github.com/depesz/Pg--Explain)",
+              "Pg::Explain Perl module",
+              "[:arrow_upper_right:](http://search.cpan.org/~depesz/Pg-Explain/)"
+            ],
+            [
+              "4",
+              "[@depesz](https://github.com/depesz)/[**Pg-SQL-Parser**](https://github.com/depesz/Pg-SQL-Parser)",
+              "Pg::SQL::Parser Perl module for parsing SQL queries.",
+              ""
+            ],
+            [
+              "4",
+              "[@ewilded](https://github.com/ewilded)/[**SCARY**](https://github.com/ewilded/SCARY)",
+              "PHP Source Code Analyzer written in Perl (taint checking)",
+              ""
+            ],
+            [
+              "4",
+              "[@bjakubski](https://github.com/bjakubski)/[**perl-mbank**](https://github.com/bjakubski/perl-mbank)",
+              "Module to access mBank account balance",
+              ""
+            ],
+            [
+              "3",
+              "[@tadzik](https://github.com/tadzik)/[**a8bot**](https://github.com/tadzik/a8bot)",
+              "Extensible irc bot",
+              ""
+            ],
+            [
+              "3",
+              "[@tadzik](https://github.com/tadzik)/[**xmpbot**](https://github.com/tadzik/xmpbot)",
+              "Extensible xmpp bot, written in Perl",
+              ""
+            ],
+            [
+              "3",
+              "[@bbkr](https://github.com/bbkr)/[**exodus**](https://github.com/bbkr/exodus)",
+              "Migrate chosen data between relational databases.",
+              ""
+            ],
+            [
+              "3",
+              "[@tadzik](https://github.com/tadzik)/[**gmpup**](https://github.com/tadzik/gmpup)",
+              "Synchronise single ports from Gentoo overlays",
+              ""
+            ],
+            [
+              "3",
+              "[@jnareb](https://github.com/jnareb)/[**softsnow-xchat2-filt…**](https://github.com/jnareb/softsnow-xchat2-filter)",
+              "XChat2 plugin, based on SoftSnow filter, used to filter out SPAM and fileserver announcements",
+              ""
+            ],
+            [
+              "2",
+              "[@odyniec](https://github.com/odyniec)/[**File-PlainPath**](https://github.com/odyniec/File-PlainPath)",
+              "Construct portable filesystem paths in a simple way",
+              ""
+            ],
+            [
+              "2",
+              "[@ewilded](https://github.com/ewilded)/[**Intrusive**](https://github.com/ewilded/Intrusive)",
+              "Intrusive is a realtime log analysis tool designed to perform IDS and anomalies detection functions",
+              ""
+            ],
+            [
+              "2",
+              "[@XANi](https://github.com/XANi)/[**lvautoresize**](https://github.com/XANi/lvautoresize)",
+              "automatially resize LVM's LV",
+              ""
+            ],
+            [
+              "2",
+              "[@XANi](https://github.com/XANi)/[**rss2torrent**](https://github.com/XANi/rss2torrent)",
+              "dumb and simple rss2torrent downloader",
+              ""
+            ],
+            [
+              "2",
+              "[@sebnow](https://github.com/sebnow)/[**cache-any-perl**](https://github.com/sebnow/cache-any-perl)",
+              "Cache::Any - Lightweight interface for caching",
+              "[:arrow_upper_right:](http://search.cpan.org/~sebnow/Cache-Any/)"
+            ],
+            [
+              "2",
+              "[@depesz](https://github.com/depesz)/[**vanity-hash-finder**](https://github.com/depesz/vanity-hash-finder)",
+              "Programs that find strings that have \"nice\" digests",
+              ""
+            ],
+            [
+              "2",
+              "[@tadzik](https://github.com/tadzik)/[**distroquiz**](https://github.com/tadzik/distroquiz)",
+              "Experimental new linux distribution chooser for jakilinux.org",
+              "[:arrow_upper_right:](http://www.jakilinux.org)"
+            ],
+            [
+              "2",
+              "[@tadzik](https://github.com/tadzik)/[**Kreski**](https://github.com/tadzik/Kreski)",
+              "My algorithms project. Boring crap, disregard",
+              ""
+            ],
+            [
+              "2",
+              "[@tadzik](https://github.com/tadzik)/[**WebNano6**](https://github.com/tadzik/WebNano6)",
+              "Port of https://github.com/zby/WebNano to Perl 6",
+              ""
+            ],
+            [
+              "2",
+              "[@tadzik](https://github.com/tadzik)/[**gsocmess**](https://github.com/tadzik/gsocmess)",
+              "Random things about my gsoc work",
+              ""
+            ],
+            [
+              "2",
+              "[@tadzik](https://github.com/tadzik)/[**parrot-deprecation-d…**](https://github.com/tadzik/parrot-deprecation-detector)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@OlaHughson](https://github.com/OlaHughson)/[**sweetiebot**](https://github.com/OlaHughson/sweetiebot)",
+              "Cutie Mark Acquisition Program",
+              ""
+            ],
+            [
+              "2",
+              "[@tadzik](https://github.com/tadzik)/[**golbot**](https://github.com/tadzik/golbot)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@odyniec](https://github.com/odyniec)/[**p5-Dancer-Plugin-Pre…**](https://github.com/odyniec/p5-Dancer-Plugin-Preprocess-Sass)",
+              "Generate CSS files from Sass/SCSS files in Dancer web apps",
+              ""
+            ],
+            [
+              "2",
+              "[@tadzik](https://github.com/tadzik)/[**todo**](https://github.com/tadzik/todo)",
+              "Todo list manager, modeled after https://github.com/vesln/todo/",
+              ""
+            ],
+            [
+              "2",
+              "[@tadzik](https://github.com/tadzik)/[**zblog**](https://github.com/tadzik/zblog)",
+              "źblog: example blog-ish application using Bailador and DBIish",
               ""
             ]
           ]
