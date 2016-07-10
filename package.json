@@ -62,7 +62,8 @@
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
           "[PHP](#php)",
-          "[Python](#python)"
+          "[Python](#python)",
+          "[R](#r)"
         ]
       },
       {
@@ -5314,6 +5315,57 @@
               "[@d33tah](https://github.com/d33tah)/[**apr-fuzz**](https://github.com/d33tah/apr-fuzz)",
               "",
               "[:arrow_upper_right:](https://groups.google.com/d/msg/afl-users/WKIsJwaDXZs/1RD30fjMAwAJ)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "R #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "15",
+              "[@analyxcompany](https://github.com/analyxcompany)/[**ForceAtlas2**](https://github.com/analyxcompany/ForceAtlas2)",
+              "This is the R implementation of the Force Atlas 2 graph layout designed for Gephi.",
+              ""
+            ],
+            [
+              "10",
+              "[@pbiecek](https://github.com/pbiecek)/[**PISA2012lite**](https://github.com/pbiecek/PISA2012lite)",
+              "datasets from PISA 2012 study",
+              ""
+            ],
+            [
+              "9",
+              "[@pbiecek](https://github.com/pbiecek)/[**SmarterPoland**](https://github.com/pbiecek/SmarterPoland)",
+              "Set of tools developed by the Foundation SmarterPoland.pl [R package]",
+              ""
+            ],
+            [
+              "6",
+              "[@pbiecek](https://github.com/pbiecek)/[**PogromcyDanych**](https://github.com/pbiecek/PogromcyDanych)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@MarcinKosinski](https://github.com/MarcinKosinski)/[**RZabbix**](https://github.com/MarcinKosinski/RZabbix)",
+              "RZabbix is an R module for working with the Zabbix API.",
+              "[:arrow_upper_right:](http://marcinkosinski.github.io/RZabbix)"
+            ],
+            [
+              "4",
+              "[@analyxcompany](https://github.com/analyxcompany)/[**resolution**](https://github.com/analyxcompany/resolution)",
+              "Finding communities in network using algorithm with resolution parameter",
+              ""
             ]
           ]
         }
