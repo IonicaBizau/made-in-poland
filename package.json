@@ -58,7 +58,8 @@
           "[Go](#go)",
           "[Haskell](#haskell)",
           "[Lua](#lua)",
-          "[Matlab](#matlab)"
+          "[Matlab](#matlab)",
+          "[Objective-C](#objective-c)"
         ]
       },
       {
@@ -3629,6 +3630,633 @@
               "2",
               "[@mmagnuski](https://github.com/mmagnuski)/[**eegDb**](https://github.com/mmagnuski/eegDb)",
               "eegDb is an egglab plugin that eases up managing preprocessing routines. It allows to create project databases for reproducible eeg preprocessing with eeglab.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Objective-C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2475",
+              "[@m1entus](https://github.com/m1entus)/[**MZFormSheetControlle…**](https://github.com/m1entus/MZFormSheetController)",
+              "MZFormSheetController provides an alternative to the native iOS UIModalPresentationFormSheet, adding support for iPhone and additional opportunities to setup controller size and feel form sheet.",
+              ""
+            ],
+            [
+              "2037",
+              "[@krzysztofzablocki](https://github.com/krzysztofzablocki)/[**KZPlayground**](https://github.com/krzysztofzablocki/KZPlayground)",
+              "Playgrounds for Objective-C (also Swift)",
+              "[:arrow_upper_right:](http://twitter.com/merowing_)"
+            ],
+            [
+              "1658",
+              "[@krzysztofzablocki](https://github.com/krzysztofzablocki)/[**KZBootstrap**](https://github.com/krzysztofzablocki/KZBootstrap)",
+              "iOS project bootstrap aimed at high quality coding.",
+              ""
+            ],
+            [
+              "1223",
+              "[@Ciechan](https://github.com/Ciechan)/[**BCGenieEffect**](https://github.com/Ciechan/BCGenieEffect)",
+              "An OSX style genie effect inside your iOS app.",
+              ""
+            ],
+            [
+              "1071",
+              "[@Ciechan](https://github.com/Ciechan)/[**BCMeshTransformView**](https://github.com/Ciechan/BCMeshTransformView)",
+              "Mesh transforms for UIView",
+              ""
+            ],
+            [
+              "1069",
+              "[@krzysztofzablocki](https://github.com/krzysztofzablocki)/[**KZPropertyMapper**](https://github.com/krzysztofzablocki/KZPropertyMapper)",
+              "Property mapping for iOS apps.",
+              "[:arrow_upper_right:](http://merowing.info)"
+            ],
+            [
+              "911",
+              "[@krzysztofzablocki](https://github.com/krzysztofzablocki)/[**KZLineDrawer**](https://github.com/krzysztofzablocki/KZLineDrawer)",
+              "Beatiful and fast smooth line drawing algorithm for iOS - as seen in Foldify.",
+              "[:arrow_upper_right:](http://twitter.com/merowing_)"
+            ],
+            [
+              "633",
+              "[@m1entus](https://github.com/m1entus)/[**WCAlertView**](https://github.com/m1entus/WCAlertView)",
+              "WCAlertView is deliverd from UIAlertView. It's support customization and blocks.",
+              ""
+            ],
+            [
+              "628",
+              "[@m1entus](https://github.com/m1entus)/[**MZDayPicker**](https://github.com/m1entus/MZDayPicker)",
+              "An iOS day picker to allow users to select date",
+              ""
+            ],
+            [
+              "579",
+              "[@Ciechan](https://github.com/Ciechan)/[**Revolved**](https://github.com/Ciechan/Revolved)",
+              "3D modelling app for the iPad",
+              ""
+            ],
+            [
+              "566",
+              "[@m1entus](https://github.com/m1entus)/[**MZFormSheetPresentat…**](https://github.com/m1entus/MZFormSheetPresentationController)",
+              "MZFormSheetPresentationController provides an alternative to the native iOS UIModalPresentationFormSheet, adding support for iPhone and additional opportunities to setup UIPresentationController size and feel form sheet.",
+              ""
+            ],
+            [
+              "555",
+              "[@wokalski](https://github.com/wokalski)/[**WCFastCell**](https://github.com/wokalski/WCFastCell)",
+              "A drop-in replacement for UITableViewCell and UICollectionViewCell which draws contents using CoreGraphics. Seamless integration with nibs provided.",
+              ""
+            ],
+            [
+              "321",
+              "[@krzysztofzablocki](https://github.com/krzysztofzablocki)/[**SFObservers**](https://github.com/krzysztofzablocki/SFObservers)",
+              "NSNotificationCenter and KVO auto removal of observers.",
+              "[:arrow_upper_right:](http://www.merowing.info/2012/03/automatic-removal-of-nsnotificationcenter-or-kvo-observers/)"
+            ],
+            [
+              "320",
+              "[@wokalski](https://github.com/wokalski)/[**CDPieMenu**](https://github.com/wokalski/CDPieMenu)",
+              "Fully and easily customizable rotary wheel control also called pie menu for iPhone and iPad. Very similar to the control in Convertbot. As the only one in the internet it rotates with inertia/mementum. Drawn using CoreGraphics without any images.",
+              ""
+            ],
+            [
+              "306",
+              "[@tomkowz](https://github.com/tomkowz)/[**TSValidatedTextField**](https://github.com/tomkowz/TSValidatedTextField)",
+              "Simple and ready to use subclass of UITextField which uses NSRegularExpression to allows you to validate text in the text field with pattern you set.",
+              ""
+            ],
+            [
+              "287",
+              "[@krzysztofzablocki](https://github.com/krzysztofzablocki)/[**KZNodes**](https://github.com/krzysztofzablocki/KZNodes)",
+              "Have you ever wonder how you could make Origami like editor in 1h ?",
+              "[:arrow_upper_right:](http://twitter.com/merowing_)"
+            ],
+            [
+              "243",
+              "[@krzyzanowskim](https://github.com/krzyzanowskim)/[**ObjectivePGP**](https://github.com/krzyzanowskim/ObjectivePGP)",
+              "ObjectivePGP is OpenPGP implementation for iOS and OSX",
+              "[:arrow_upper_right:](http://blog.krzyzanowskim.com/2014/07/31/short-story-about-openpgp-for-ios-and-os-x-objectivepgp)"
+            ],
+            [
+              "214",
+              "[@krzysztofzablocki](https://github.com/krzysztofzablocki)/[**CCNode-SFGestureReco…**](https://github.com/krzysztofzablocki/CCNode-SFGestureRecognizers)",
+              "Adding UIGestureRecognizers to cocos2d, painless.",
+              "[:arrow_upper_right:](http://twitter.com/merowing_)"
+            ],
+            [
+              "208",
+              "[@tomkowz](https://github.com/tomkowz)/[**TSAssetsPickerContro…**](https://github.com/tomkowz/TSAssetsPickerController)",
+              "Highly customizable control used to select multiple assets (saved photos and videos) for use in your app.",
+              ""
+            ],
+            [
+              "204",
+              "[@krzysztofzablocki](https://github.com/krzysztofzablocki)/[**Pinch-to-reveal**](https://github.com/krzysztofzablocki/Pinch-to-reveal)",
+              "Pinch to reveal animation transition built with Layer masking, as seen in boeing app for iPad.",
+              "[:arrow_upper_right:](http://twitter.com/merowing_)"
+            ],
+            [
+              "195",
+              "[@krzysztofzablocki](https://github.com/krzysztofzablocki)/[**DetailsMatter**](https://github.com/krzysztofzablocki/DetailsMatter)",
+              "",
+              "[:arrow_upper_right:](http://merowing.info)"
+            ],
+            [
+              "173",
+              "[@ayoy](https://github.com/ayoy)/[**ThumbnailPickerView**](https://github.com/ayoy/ThumbnailPickerView)",
+              "iOS UI control displaying a set of thumbnails - resembling iPad's Photos.app toolbar thumbnails view",
+              ""
+            ],
+            [
+              "110",
+              "[@m1entus](https://github.com/m1entus)/[**MZBookshelfCollectio…**](https://github.com/m1entus/MZBookshelfCollectionViewLayout)",
+              "Bookshelf like iBooks layout for UICollectionView.",
+              ""
+            ],
+            [
+              "98",
+              "[@m1entus](https://github.com/m1entus)/[**MZAppearance**](https://github.com/m1entus/MZAppearance)",
+              "UIAppearance proxy for custom objects",
+              ""
+            ],
+            [
+              "98",
+              "[@m1entus](https://github.com/m1entus)/[**MZSelectableLabel**](https://github.com/m1entus/MZSelectableLabel)",
+              "A simple to use drop in replacement for UILabel for iOS 7 that provides automatic detection of colors.",
+              ""
+            ],
+            [
+              "88",
+              "[@krzysztofzablocki](https://github.com/krzysztofzablocki)/[**SFContainerViewContr…**](https://github.com/krzysztofzablocki/SFContainerViewController)",
+              "UIViewControllers containment predating Apple implementation. Works in both 4.x and 5.x iOS, no memory or hierarchy issues.",
+              "[:arrow_upper_right:](http://twitter.com/merowing_)"
+            ],
+            [
+              "87",
+              "[@tomkowz](https://github.com/tomkowz)/[**TSFileCache**](https://github.com/tomkowz/TSFileCache)",
+              "Generic class that allows you to cache files on device's disk. Need to cache images or other files? Check this. Easy to subclass and reuse.",
+              ""
+            ],
+            [
+              "83",
+              "[@burczyk](https://github.com/burczyk)/[**KBRoundedButton**](https://github.com/burczyk/KBRoundedButton)",
+              "KBRoundedButton allows you to create beautiful rounded rect button with dynamic colors and activity indicator, completely in Interface Builder.",
+              ""
+            ],
+            [
+              "82",
+              "[@m1entus](https://github.com/m1entus)/[**MZFayeClient**](https://github.com/m1entus/MZFayeClient)",
+              "Faye Client for iOS. Supports subscription blocks.",
+              ""
+            ],
+            [
+              "75",
+              "[@wokalski](https://github.com/wokalski)/[**WCActionSheet**](https://github.com/wokalski/WCActionSheet)",
+              "A customizable and elegant alternative to UIActionSheet with support for block syntax.",
+              ""
+            ],
+            [
+              "72",
+              "[@Ciechan](https://github.com/Ciechan)/[**Exploring-GPGPU-on-i…**](https://github.com/Ciechan/Exploring-GPGPU-on-iOS)",
+              "",
+              "[:arrow_upper_right:](http://ciechanowski.me/blog/2014/01/05/exploring_gpgpu_on_ios/)"
+            ],
+            [
+              "56",
+              "[@tomkowz](https://github.com/tomkowz)/[**TSActivityIndicatorV…**](https://github.com/tomkowz/TSActivityIndicatorView)",
+              "Very simple view class that looks like an UIActivityIndicatorView but is fully customizable. It's great for you if you want to add indicator view to you game or app and it should be customized.",
+              ""
+            ],
+            [
+              "55",
+              "[@lksoft](https://github.com/lksoft)/[**ButtonMaker**](https://github.com/lksoft/ButtonMaker)",
+              "A simple iPhone app to use in the simulator to create Glass Buttons based on an post by @schwa",
+              ""
+            ],
+            [
+              "53",
+              "[@m1entus](https://github.com/m1entus)/[**WCBeforeAfter**](https://github.com/m1entus/WCBeforeAfter)",
+              "Objective-C BeforeAfter ",
+              ""
+            ],
+            [
+              "52",
+              "[@krzysztofzablocki](https://github.com/krzysztofzablocki)/[**BehavioursExample**](https://github.com/krzysztofzablocki/BehavioursExample)",
+              "",
+              ""
+            ],
+            [
+              "52",
+              "[@m1entus](https://github.com/m1entus)/[**UIAlertController-MZ…**](https://github.com/m1entus/UIAlertController-MZStyle)",
+              "Category for UIAlertController customization",
+              ""
+            ],
+            [
+              "49",
+              "[@burczyk](https://github.com/burczyk)/[**UIForLumberjack**](https://github.com/burczyk/UIForLumberjack)",
+              "iOS UI library to display CocoaLumberjack logs on iOS device",
+              ""
+            ],
+            [
+              "49",
+              "[@darrarski](https://github.com/darrarski)/[**DRCollectionViewTabl…**](https://github.com/darrarski/DRCollectionViewTableLayout-iOS)",
+              "UICollectionView 2d-table / grid / spreadsheet layout",
+              "[:arrow_upper_right:](http://darrarski.pl/collection-view-table-layout-ios/)"
+            ],
+            [
+              "45",
+              "[@paweldudek](https://github.com/paweldudek)/[**carousel-collection-…**](https://github.com/paweldudek/carousel-collection-view-layout)",
+              "",
+              ""
+            ],
+            [
+              "42",
+              "[@wokalski](https://github.com/wokalski)/[**Distraction-Free-Xco…**](https://github.com/wokalski/Distraction-Free-Xcode-plugin)",
+              "Experience ZEN in Xcode. Distraction free mode, styled after Sublime",
+              ""
+            ],
+            [
+              "41",
+              "[@m1entus](https://github.com/m1entus)/[**SpotifyImporter**](https://github.com/m1entus/SpotifyImporter)",
+              "Spotify library importer into Apple Music",
+              ""
+            ],
+            [
+              "37",
+              "[@burczyk](https://github.com/burczyk)/[**KBContactsSelection**](https://github.com/burczyk/KBContactsSelection)",
+              "Easily search and select contacts in your iOS Address Book and redirect to Mail or Messages with results.",
+              ""
+            ],
+            [
+              "36",
+              "[@Ciechan](https://github.com/Ciechan)/[**BCPathGestureRecogni…**](https://github.com/Ciechan/BCPathGestureRecognizer)",
+              "A simple recognizer detecting gestures matching provided CGPathRef.",
+              ""
+            ],
+            [
+              "35",
+              "[@Ciechan](https://github.com/Ciechan)/[**Drawing-Bezier-Curve…**](https://github.com/Ciechan/Drawing-Bezier-Curves-GL)",
+              "",
+              ""
+            ],
+            [
+              "34",
+              "[@Ciechan](https://github.com/Ciechan)/[**QCCableConnections**](https://github.com/Ciechan/QCCableConnections)",
+              "Cable-like connections bending for Quartz Composer",
+              ""
+            ],
+            [
+              "31",
+              "[@burczyk](https://github.com/burczyk)/[**AFAbstractRESTClient**](https://github.com/burczyk/AFAbstractRESTClient)",
+              "simple abstract solution to deal with REST webservices using AFNetworking",
+              ""
+            ],
+            [
+              "26",
+              "[@tomaszj](https://github.com/tomaszj)/[**graphael-objc**](https://github.com/tomaszj/graphael-objc)",
+              "Objective-C wrapper for gRaphael graph charting library",
+              ""
+            ],
+            [
+              "23",
+              "[@krzysztofzablocki](https://github.com/krzysztofzablocki)/[**Learn-iOS-GameDev-Le…**](https://github.com/krzysztofzablocki/Learn-iOS-GameDev-Level-0)",
+              "Teeter clone accompanying tutorial at http://merowing.info/2013/04/learn-ios-g…",
+              ""
+            ],
+            [
+              "20",
+              "[@burczyk](https://github.com/burczyk)/[**AppSettings**](https://github.com/burczyk/AppSettings)",
+              "Simple tool to allow automatically serialize and deserialize objects to NSDictionary. Originally created to simply manage app settings in NSUserDefaults.",
+              ""
+            ],
+            [
+              "20",
+              "[@krzysztofzablocki](https://github.com/krzysztofzablocki)/[**XibReferencing**](https://github.com/krzysztofzablocki/XibReferencing)",
+              "Simple category and sample showing how you can reference one Xib view from another",
+              ""
+            ],
+            [
+              "17",
+              "[@kam800](https://github.com/kam800)/[**KBKeyboardObserver**](https://github.com/kam800/KBKeyboardObserver)",
+              "KBKeyboardObserver for iOS is a convenient keyboard notifications observer.",
+              ""
+            ],
+            [
+              "16",
+              "[@mackuba](https://github.com/mackuba)/[**iRubyTime**](https://github.com/mackuba/iRubyTime)",
+              "iPhone client for RubyTime 3.0, time-tracking system written in Merb (unmaintained)",
+              "[:arrow_upper_right:](http://psionides.eu)"
+            ],
+            [
+              "16",
+              "[@krzysztofzablocki](https://github.com/krzysztofzablocki)/[**NSObject-SFExecuteOn…**](https://github.com/krzysztofzablocki/NSObject-SFExecuteOnDealloc)",
+              "A simple category on NSObject that allows you to execute block when object is deallocated ",
+              "[:arrow_upper_right:](http://merowing.info)"
+            ],
+            [
+              "16",
+              "[@akashivskyy](https://github.com/akashivskyy)/[**GoogleAnalytics-Fram…**](https://github.com/akashivskyy/GoogleAnalytics-Framework)",
+              "Dynamic framework wrapper for Google Analytics iOS SDK",
+              ""
+            ],
+            [
+              "16",
+              "[@krzysztofzablocki](https://github.com/krzysztofzablocki)/[**KZImageSplitView**](https://github.com/krzysztofzablocki/KZImageSplitView)",
+              "",
+              ""
+            ],
+            [
+              "15",
+              "[@jacekmigacz](https://github.com/jacekmigacz)/[**ObjectiveSVG**](https://github.com/jacekmigacz/ObjectiveSVG)",
+              "SVG document parser and renderer for modern iOS and Mac platforms.",
+              ""
+            ],
+            [
+              "15",
+              "[@mackuba](https://github.com/mackuba)/[**MacBlip**](https://github.com/mackuba/MacBlip)",
+              "MacOSX client for Blip.pl, Polish microblogging site",
+              "[:arrow_upper_right:](http://psionides.github.com/MacBlip/)"
+            ],
+            [
+              "14",
+              "[@darrarski](https://github.com/darrarski)/[**DRCircularProgress-i…**](https://github.com/darrarski/DRCircularProgress-iOS)",
+              "Circular progress view for iOS apps",
+              ""
+            ],
+            [
+              "14",
+              "[@darrarski](https://github.com/darrarski)/[**DRForms-iOS**](https://github.com/darrarski/DRForms-iOS)",
+              "iOS Objective-C library for implementing dynamic forms.",
+              "[:arrow_upper_right:](http://darrarski.pl/drforms-ios/)"
+            ],
+            [
+              "14",
+              "[@Ciechan](https://github.com/Ciechan)/[**BCGestureRecognizerS…**](https://github.com/Ciechan/BCGestureRecognizerSequencer)",
+              "A simple way to detect sequence of gestures",
+              ""
+            ],
+            [
+              "12",
+              "[@m1entus](https://github.com/m1entus)/[**RWMVimeoClient**](https://github.com/m1entus/RWMVimeoClient)",
+              "AFNetworking Client for Vimeo Advanced API",
+              ""
+            ],
+            [
+              "12",
+              "[@krzyzanowskim](https://github.com/krzyzanowskim)/[**MKDataScanner**](https://github.com/krzyzanowskim/MKDataScanner)",
+              "NSScanner for NSData and files.",
+              "[:arrow_upper_right:](http://blog.krzyzanowskim.com/2015/01/10/nsscanner-for-raw-data-and-files/)"
+            ],
+            [
+              "12",
+              "[@mackuba](https://github.com/mackuba)/[**WindowFairy**](https://github.com/mackuba/WindowFairy)",
+              "A Windows-style Alt-tab window switcher for MacOSX (experiment)",
+              "[:arrow_upper_right:](http://psionides.eu)"
+            ],
+            [
+              "12",
+              "[@Ciechan](https://github.com/Ciechan)/[**NSMutableArrayExplor…**](https://github.com/Ciechan/NSMutableArrayExplorer)",
+              "",
+              ""
+            ],
+            [
+              "10",
+              "[@kam800](https://github.com/kam800)/[**KBTemplateImage**](https://github.com/kam800/KBTemplateImage)",
+              "KBTemplateImage is the only solution for tinting images when UIImageRenderingModeAlwaysTemplate is not accessible.",
+              ""
+            ],
+            [
+              "10",
+              "[@paweldudek](https://github.com/paweldudek)/[**bdd-app-code**](https://github.com/paweldudek/bdd-app-code)",
+              "",
+              ""
+            ],
+            [
+              "9",
+              "[@Ciechan](https://github.com/Ciechan)/[**NSDictionaryExplorer**](https://github.com/Ciechan/NSDictionaryExplorer)",
+              "",
+              ""
+            ],
+            [
+              "9",
+              "[@m1entus](https://github.com/m1entus)/[**RWMAmazonProductAdve…**](https://github.com/m1entus/RWMAmazonProductAdvertisingManager)",
+              "AFNetworking Client for Amazon Product Advertising API",
+              ""
+            ],
+            [
+              "9",
+              "[@mackuba](https://github.com/mackuba)/[**PsiToolkit**](https://github.com/mackuba/PsiToolkit)",
+              "A collection of ObjC helpers and class extensions (unmaintained)",
+              "[:arrow_upper_right:](http://psionides.eu)"
+            ],
+            [
+              "8",
+              "[@darrarski](https://github.com/darrarski)/[**DRSwipeMenu-iOS**](https://github.com/darrarski/DRSwipeMenu-iOS)",
+              "Customizable swipe-to-reveal menu for iOS apps",
+              "[:arrow_upper_right:](http://darrarski.pl)"
+            ],
+            [
+              "8",
+              "[@darrarski](https://github.com/darrarski)/[**DRTableViewManager-i…**](https://github.com/darrarski/DRTableViewManager-iOS)",
+              "Object-oriented UITableViewDataSource and UITableViewDelegate protocols proxy",
+              "[:arrow_upper_right:](http://darrarski.pl)"
+            ],
+            [
+              "8",
+              "[@tomaszj](https://github.com/tomaszj)/[**highcharts-objc**](https://github.com/tomaszj/highcharts-objc)",
+              "Wrapper for Highcharts, written in Objective-C. Only one-way communication allowed so far.",
+              ""
+            ],
+            [
+              "8",
+              "[@paweldudek](https://github.com/paweldudek)/[**CalendarCollectionVi…**](https://github.com/paweldudek/CalendarCollectionViewLayout)",
+              "",
+              ""
+            ],
+            [
+              "7",
+              "[@wnagrodzki](https://github.com/wnagrodzki)/[**iNapi**](https://github.com/wnagrodzki/iNapi)",
+              "iNapi jest alternatywą dla NapiProjektu pod Mac OS X. Możesz go pobrać, skopiować i rozdawać tak często, jak chcesz, właściwie, im więcej tym lepiej.",
+              ""
+            ],
+            [
+              "6",
+              "[@mackuba](https://github.com/mackuba)/[**xblip**](https://github.com/mackuba/xblip)",
+              "Native iPhone client for blip.pl, Polish microblogging service (proof of concept, not usable)",
+              "[:arrow_upper_right:](http://psionides.eu)"
+            ],
+            [
+              "6",
+              "[@m1entus](https://github.com/m1entus)/[**CCTouchableSprite**](https://github.com/m1entus/CCTouchableSprite)",
+              "Touchable CCSprite for cocos2d framework with Objective-C Blocks",
+              ""
+            ],
+            [
+              "6",
+              "[@lksoft](https://github.com/lksoft)/[**MailPluginManager**](https://github.com/lksoft/MailPluginManager)",
+              "Mail Plugin Manager executable for developers to use to make installation and management easier.",
+              ""
+            ],
+            [
+              "6",
+              "[@burczyk](https://github.com/burczyk)/[**NetworkLib**](https://github.com/burczyk/NetworkLib)",
+              "CocoaPods static library test project",
+              ""
+            ],
+            [
+              "6",
+              "[@krzyzanowskim](https://github.com/krzyzanowskim)/[**TouchImageView**](https://github.com/krzyzanowskim/TouchImageView)",
+              "iOS UIImageView with convenient touch delegate",
+              "[:arrow_upper_right:](http://www.hakore.com)"
+            ],
+            [
+              "5",
+              "[@burczyk](https://github.com/burczyk)/[**SynchroKit**](https://github.com/burczyk/SynchroKit)",
+              "framework that helps syncing data in iOS environment",
+              ""
+            ],
+            [
+              "5",
+              "[@tomkowz](https://github.com/tomkowz)/[**TSCircleView**](https://github.com/tomkowz/TSCircleView)",
+              "A subclass of MKCircleView which supports scaling and animating.",
+              ""
+            ],
+            [
+              "5",
+              "[@mackuba](https://github.com/mackuba)/[**ObjectiveBlip**](https://github.com/mackuba/ObjectiveBlip)",
+              "ObjectiveC API for connecting to Blip.pl (Polish Twitter-like service)",
+              "[:arrow_upper_right:](http://psionides.eu)"
+            ],
+            [
+              "5",
+              "[@darrarski](https://github.com/darrarski)/[**TableViewDemo**](https://github.com/darrarski/TableViewDemo)",
+              "DRTableViewManager example app",
+              ""
+            ],
+            [
+              "4",
+              "[@paweldudek](https://github.com/paweldudek)/[**tdd-workshop-v2**](https://github.com/paweldudek/tdd-workshop-v2)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@wyszo](https://github.com/wyszo)/[**TWCommonLib**](https://github.com/wyszo/TWCommonLib)",
+              "Library of iOS components and helpers I use in my projects to minimize boilerplate",
+              ""
+            ],
+            [
+              "3",
+              "[@krzyzanowskim](https://github.com/krzyzanowskim)/[**Google1Password**](https://github.com/krzyzanowskim/Google1Password)",
+              "1Password integration for Google sign-in view.",
+              ""
+            ],
+            [
+              "3",
+              "[@tomaszj](https://github.com/tomaszj)/[**TJFunctionalAddition…**](https://github.com/tomaszj/TJFunctionalAdditions)",
+              "Library simplifying the use of collection iterations through functional constructs like map, select, reject, etc.",
+              ""
+            ],
+            [
+              "3",
+              "[@radex](https://github.com/radex)/[**PlusRadex**](https://github.com/radex/PlusRadex)",
+              "Marginally useful Cocoa snippets.",
+              ""
+            ],
+            [
+              "3",
+              "[@tomaszj](https://github.com/tomaszj)/[**BestSplitViewControl…**](https://github.com/tomaszj/BestSplitViewController)",
+              "The best and the simplest Split View Controller and GitHub. 100% iOS 5 and ARC code.",
+              ""
+            ],
+            [
+              "3",
+              "[@darrarski](https://github.com/darrarski)/[**DRDateHelpers-iOS**](https://github.com/darrarski/DRDateHelpers-iOS)",
+              "Date manipulation helpers for iOS",
+              "[:arrow_upper_right:](darrarski.pl)"
+            ],
+            [
+              "3",
+              "[@lksoft](https://github.com/lksoft)/[**LKKit**](https://github.com/lksoft/LKKit)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@radex](https://github.com/radex)/[**lodoovka**](https://github.com/radex/lodoovka)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@jacekmigacz](https://github.com/jacekmigacz)/[**BTWEH**](https://github.com/jacekmigacz/BTWEH)",
+              "http://stackoverflow.com/questions/98372…",
+              ""
+            ],
+            [
+              "2",
+              "[@darrarski](https://github.com/darrarski)/[**DRGlyphLabel-iOS**](https://github.com/darrarski/DRGlyphLabel-iOS)",
+              "A simple library that allows you to create labels with bitmap fonts in UIKit.",
+              "[:arrow_upper_right:](http://darrarski.pl)"
+            ],
+            [
+              "2",
+              "[@Moriquendi](https://github.com/Moriquendi)/[**WWDC2014**](https://github.com/Moriquendi/WWDC2014)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@Moriquendi](https://github.com/Moriquendi)/[**MSNavigationControll…**](https://github.com/Moriquendi/MSNavigationController)",
+              "MSNavigationController is a simple class which inherits from UIViewController. It was in inspired by design of LetterPress game. MSNavigationController add small shadow effects under its Navigation Bar. Moreover, shadow is animatable - it appears when content of scroll view hides behind the bar. Download the repo and test sample project and you will see it in action :-)",
+              ""
+            ],
+            [
+              "2",
+              "[@darrarski](https://github.com/darrarski)/[**DRURLParametersParse…**](https://github.com/darrarski/DRURLParametersParser-iOS-OSX)",
+              "Helper class for retrieving parameters values from url",
+              "[:arrow_upper_right:](http://darrarski.pl)"
+            ],
+            [
+              "2",
+              "[@paweldudek](https://github.com/paweldudek)/[**tdd-workshop**](https://github.com/paweldudek/tdd-workshop)",
+              "Mobile Warsaw iOS TDD Workshop",
+              ""
+            ],
+            [
+              "2",
+              "[@nanoant](https://github.com/nanoant)/[**Skim**](https://github.com/nanoant/Skim)",
+              "Mirror of Skim PDF reader and note-taker for OS X Subversion repository with custom fixes (devel branch)",
+              ""
+            ],
+            [
+              "2",
+              "[@tomaszj](https://github.com/tomaszj)/[**InterwebzSampleCocoa…**](https://github.com/tomaszj/InterwebzSampleCocoaHeadsTricity)",
+              "Source code for the samples used at \"Testing in iOS\" keynote at Cocoaheads Tricity meeting.",
+              ""
+            ],
+            [
+              "2",
+              "[@burczyk](https://github.com/burczyk)/[**ReposBrowser**](https://github.com/burczyk/ReposBrowser)",
+              "CocoaPods project that uses NetworkLib as local library",
+              ""
+            ],
+            [
+              "2",
+              "[@lksoft](https://github.com/lksoft)/[**MailCommon**](https://github.com/lksoft/MailCommon)",
+              "Some common code to use in Mail Plugins",
               ""
             ]
           ]
