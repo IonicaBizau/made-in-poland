@@ -50,7 +50,8 @@
           "[Java](#java)",
           "[C#](#c-1)",
           "[CSS](#css)",
-          "[C](undefined)"
+          "[C](undefined)",
+          "[C++](#c-2)"
         ]
       },
       {
@@ -2866,6 +2867,183 @@
               "[@spinlockirqsave](https://github.com/spinlockirqsave)/[**unix_networking_proj…**](https://github.com/spinlockirqsave/unix_networking_projects)",
               "networking projects inspired by \"UNIX Networking programming\"",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C++ #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "64",
+              "[@gagolews](https://github.com/gagolews)/[**stringi**](https://github.com/gagolews/stringi)",
+              "THE string processing package for R with ICU",
+              "[:arrow_upper_right:](http://stringi.rexamine.com/)"
+            ],
+            [
+              "52",
+              "[@hasherezade](https://github.com/hasherezade)/[**IAT_patcher**](https://github.com/hasherezade/IAT_patcher)",
+              "Persistent IAT hooking application - based on bearparser.",
+              "[:arrow_upper_right:](http://hasherezade.net/IAT_patcher/)"
+            ],
+            [
+              "52",
+              "[@hasherezade](https://github.com/hasherezade)/[**bearparser**](https://github.com/hasherezade/bearparser)",
+              "Portable Executable parsing library",
+              ""
+            ],
+            [
+              "48",
+              "[@hasherezade](https://github.com/hasherezade)/[**snippets**](https://github.com/hasherezade/snippets)",
+              "Various code snippets and small PoCs, to be used for tests or as ready-made skeletons.",
+              ""
+            ],
+            [
+              "37",
+              "[@griwes](https://github.com/griwes)/[**reaveros-iteration1**](https://github.com/griwes/reaveros-iteration1)",
+              "First, abandoned, iteration of my OS project. Current iteration can be found here: https://github.com/griwes/reaveros",
+              ""
+            ],
+            [
+              "19",
+              "[@ktalik](https://github.com/ktalik)/[**sturing**](https://github.com/ktalik/sturing)",
+              ":vhs: Simple Turing machine interpreter and simulator.",
+              ""
+            ],
+            [
+              "14",
+              "[@hasherezade](https://github.com/hasherezade)/[**petya_recovery**](https://github.com/hasherezade/petya_recovery)",
+              "Application helping in recovering key of Petya ransomware",
+              ""
+            ],
+            [
+              "14",
+              "[@pczarn](https://github.com/pczarn)/[**metatrader-multilang**](https://github.com/pczarn/metatrader-multilang)",
+              "This library for Metatrader 4 was meant to create a network interface for RPC with msgpack. You could write Metatrader scripts in programming languages of your choice.",
+              ""
+            ],
+            [
+              "10",
+              "[@konradb3](https://github.com/konradb3)/[**libLMS1xx**](https://github.com/konradb3/libLMS1xx)",
+              "Library for interfacing with SICK LMS1xx lidar.",
+              ""
+            ],
+            [
+              "8",
+              "[@matthewpl](https://github.com/matthewpl)/[**fooaudio**](https://github.com/matthewpl/fooaudio)",
+              "",
+              ""
+            ],
+            [
+              "7",
+              "[@fatmakoc](https://github.com/fatmakoc)/[**LinkedList**](https://github.com/fatmakoc/LinkedList)",
+              "",
+              ""
+            ],
+            [
+              "6",
+              "[@hasherezade](https://github.com/hasherezade)/[**dma_unlocker**](https://github.com/hasherezade/dma_unlocker)",
+              "Decryptor for DMALocker ransomware (doesn't work for the versions >= 3.0)",
+              ""
+            ],
+            [
+              "5",
+              "[@hasherezade](https://github.com/hasherezade)/[**petya_green**](https://github.com/hasherezade/petya_green)",
+              "Application for random attack on Green Petya's key",
+              ""
+            ],
+            [
+              "5",
+              "[@konradb3](https://github.com/konradb3)/[**RCPRG-ros-pkg**](https://github.com/konradb3/RCPRG-ros-pkg)",
+              "This repository is DEPRECATED !!! Look at https://github.com/organizations/RCPRG-r… for maintained packages.",
+              ""
+            ],
+            [
+              "4",
+              "[@hasherezade](https://github.com/hasherezade)/[**PIN_Tools**](https://github.com/hasherezade/PIN_Tools)",
+              "PIN_Tools",
+              ""
+            ],
+            [
+              "3",
+              "[@Regalis](https://github.com/Regalis)/[**regalis-newsletter**](https://github.com/Regalis/regalis-newsletter)",
+              "Simple centralized newsletter system",
+              ""
+            ],
+            [
+              "3",
+              "[@gagolews](https://github.com/gagolews)/[**genie**](https://github.com/gagolews/genie)",
+              "Genie: A new, fast, and outlier resistant hierarchical clustering algorithm",
+              ""
+            ],
+            [
+              "3",
+              "[@awulkiew](https://github.com/awulkiew)/[**benchmark-devirtuali…**](https://github.com/awulkiew/benchmark-devirtualization)",
+              "Comparison of various methods of replacing virtual functions",
+              ""
+            ],
+            [
+              "2",
+              "[@Regalis](https://github.com/Regalis)/[**regalis-signals**](https://github.com/Regalis/regalis-signals)",
+              "Minimalistic implementation of signals and slots mechanism written in C++11 using some of new features including variadic templates, lambdas and smart pointers.",
+              ""
+            ],
+            [
+              "2",
+              "[@Regalis](https://github.com/Regalis)/[**Regalis-CMS-Kernel**](https://github.com/Regalis/Regalis-CMS-Kernel)",
+              "Hi-speed, low level Content Management System kernel/framework written in C++",
+              ""
+            ],
+            [
+              "2",
+              "[@Regalis](https://github.com/Regalis)/[**IOTester**](https://github.com/Regalis/IOTester)",
+              "A simple C++ tool for I/O tests",
+              ""
+            ],
+            [
+              "2",
+              "[@Regalis](https://github.com/Regalis)/[**QSSnake**](https://github.com/Regalis/QSSnake)",
+              "QT Scorpion Snake",
+              ""
+            ],
+            [
+              "2",
+              "[@griwes](https://github.com/griwes)/[**vapor**](https://github.com/griwes/vapor)",
+              "Vapor is a language made as a part of the Reaver Project effort. The name has originated as a word play on a word \"vaporware\" - the author often called this language a \"vaporlang\", and later decided to keep that name.",
+              ""
+            ],
+            [
+              "2",
+              "[@fatmakoc](https://github.com/fatmakoc)/[**snake_game**](https://github.com/fatmakoc/snake_game)",
+              " Snake game(console) with c++",
+              ""
+            ],
+            [
+              "2",
+              "[@gagolews](https://github.com/gagolews)/[**ExampleRcppStringi**](https://github.com/gagolews/ExampleRcppStringi)",
+              "A stringi-dependent Rcpp package example",
+              ""
+            ],
+            [
+              "2",
+              "[@hasherezade](https://github.com/hasherezade)/[**mastercoder2014**](https://github.com/hasherezade/mastercoder2014)",
+              "My solutions",
+              ""
+            ],
+            [
+              "2",
+              "[@matthewpl](https://github.com/matthewpl)/[**qt10**](https://github.com/matthewpl/qt10)",
+              "Kurs Qt - część 10 - WebKit",
+              "[:arrow_upper_right:](http://blog.matthew.org.pl/2010/08/06/kurs-qt-czesc-10-webkit/)"
             ]
           ]
         }
