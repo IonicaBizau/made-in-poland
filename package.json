@@ -54,7 +54,8 @@
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
           "[Clojure](#clojure)",
-          "[CoffeeScript](#coffeescript)"
+          "[CoffeeScript](#coffeescript)",
+          "[Go](#go)"
         ]
       },
       {
@@ -3242,6 +3243,195 @@
               "[@jmak](https://github.com/jmak)/[**trixy-popup**](https://github.com/jmak/trixy-popup)",
               "Trixy PopUp - [Simple Scrollable PopUp] is perfectly suited to present large amounts of content in neat and flexible way.",
               "[:arrow_upper_right:](http://jmak.github.com/trixy-popup/)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Go #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "500",
+              "[@ziutek](https://github.com/ziutek)/[**mymysql**](https://github.com/ziutek/mymysql)",
+              "MySQL Client API written entirely in Go",
+              ""
+            ],
+            [
+              "110",
+              "[@ziutek](https://github.com/ziutek)/[**gst**](https://github.com/ziutek/gst)",
+              "Go bindings for GStreamer",
+              ""
+            ],
+            [
+              "81",
+              "[@ziutek](https://github.com/ziutek)/[**rrd**](https://github.com/ziutek/rrd)",
+              "Bindings for rrdtool",
+              ""
+            ],
+            [
+              "66",
+              "[@ziutek](https://github.com/ziutek)/[**kasia.go**](https://github.com/ziutek/kasia.go)",
+              "Templating system for HTML and other text documents - go implementation",
+              ""
+            ],
+            [
+              "62",
+              "[@kklis](https://github.com/kklis)/[**gomemcache**](https://github.com/kklis/gomemcache)",
+              "Go memcache client package",
+              "[:arrow_upper_right:](http://weblambdazero.blogspot.com/2009/12/go-memcache-client-package.html)"
+            ],
+            [
+              "58",
+              "[@ziutek](https://github.com/ziutek)/[**syslog**](https://github.com/ziutek/syslog)",
+              "With this package you can create your own syslog server with your own handlers for different kind of syslog messages",
+              ""
+            ],
+            [
+              "57",
+              "[@ziutek](https://github.com/ziutek)/[**telnet**](https://github.com/ziutek/telnet)",
+              "Package to handle a telnet connection",
+              ""
+            ],
+            [
+              "51",
+              "[@ziutek](https://github.com/ziutek)/[**emgo**](https://github.com/ziutek/emgo)",
+              "Emgo (Go-like language for programming embedded systems)",
+              "[:arrow_upper_right:](https://sites.google.com/site/embeddedgo/)"
+            ],
+            [
+              "45",
+              "[@ziutek](https://github.com/ziutek)/[**simple_go_wiki**](https://github.com/ziutek/simple_go_wiki)",
+              "Tutorial which explain how to write the database-driven Web application using kasia.go, kview and mymysql",
+              ""
+            ],
+            [
+              "35",
+              "[@ziutek](https://github.com/ziutek)/[**mdtwm**](https://github.com/ziutek/mdtwm)",
+              "Mouse-driven Tiling Window Manager",
+              ""
+            ],
+            [
+              "29",
+              "[@kpawlik](https://github.com/kpawlik)/[**geojson**](https://github.com/kpawlik/geojson)",
+              "Go package to quick and easy create json data in geojson format.",
+              "[:arrow_upper_right:](http://kpawlik.github.io/geojson)"
+            ],
+            [
+              "27",
+              "[@mtojek](https://github.com/mtojek)/[**dependency-injection…**](https://github.com/mtojek/dependency-injection-in-go)",
+              "How to solve a a dependency injection problem in Go",
+              ""
+            ],
+            [
+              "25",
+              "[@ziutek](https://github.com/ziutek)/[**dvb**](https://github.com/ziutek/dvb)",
+              "DVB/MPEG-TS library (pure Go)",
+              ""
+            ],
+            [
+              "23",
+              "[@mtojek](https://github.com/mtojek)/[**go-url-fuzzer**](https://github.com/mtojek/go-url-fuzzer)",
+              "Discover hidden files and directories on a web server.",
+              ""
+            ],
+            [
+              "21",
+              "[@ziutek](https://github.com/ziutek)/[**glib**](https://github.com/ziutek/glib)",
+              "Go bindings for GLib type system.",
+              ""
+            ],
+            [
+              "17",
+              "[@ziutek](https://github.com/ziutek)/[**soap**](https://github.com/ziutek/soap)",
+              "Some SOAP related functions.",
+              ""
+            ],
+            [
+              "13",
+              "[@ziutek](https://github.com/ziutek)/[**gogammu**](https://github.com/ziutek/gogammu)",
+              "Go binding for gammu",
+              ""
+            ],
+            [
+              "12",
+              "[@ziutek](https://github.com/ziutek)/[**serial**](https://github.com/ziutek/serial)",
+              "Serial ports handlig",
+              ""
+            ],
+            [
+              "9",
+              "[@ziutek](https://github.com/ziutek)/[**kview**](https://github.com/ziutek/kview)",
+              "Simple wrapper for kasia.go templates. I write all my web apps using this package",
+              ""
+            ],
+            [
+              "7",
+              "[@ziutek](https://github.com/ziutek)/[**de**](https://github.com/ziutek/de)",
+              "Differential evolution optimization library ",
+              ""
+            ],
+            [
+              "6",
+              "[@ziutek](https://github.com/ziutek)/[**matrix**](https://github.com/ziutek/matrix)",
+              "Matrix library for Go",
+              ""
+            ],
+            [
+              "6",
+              "[@mtojek](https://github.com/mtojek)/[**go-telnet**](https://github.com/mtojek/go-telnet)",
+              "Read bytes from stdin and pass them to the remote host",
+              ""
+            ],
+            [
+              "4",
+              "[@ziutek](https://github.com/ziutek)/[**utils**](https://github.com/ziutek/utils)",
+              "Useful tools",
+              ""
+            ],
+            [
+              "3",
+              "[@skonefal](https://github.com/skonefal)/[**dust-tail**](https://github.com/skonefal/dust-tail)",
+              "Mesos node usage statistics grabber",
+              ""
+            ],
+            [
+              "3",
+              "[@ziutek](https://github.com/ziutek)/[**gtk**](https://github.com/ziutek/gtk)",
+              "Example Go bindings for GTK",
+              ""
+            ],
+            [
+              "3",
+              "[@ziutek](https://github.com/ziutek)/[**avt414**](https://github.com/ziutek/avt414)",
+              "AVT414 USB I/O card (http://ep.com.pl/files/4241.pdf)",
+              ""
+            ],
+            [
+              "3",
+              "[@ziutek](https://github.com/ziutek)/[**hiperus**](https://github.com/ziutek/hiperus)",
+              "Hiperus API in Go (http://devel.hiperus.pl/)",
+              ""
+            ],
+            [
+              "2",
+              "[@kpawlik](https://github.com/kpawlik)/[**goworld**](https://github.com/kpawlik/goworld)",
+              "Ge Smallworld data from Magik to JSON, via HTTP server written in GO",
+              "[:arrow_upper_right:](http://kpawlik.github.io/goworld)"
+            ],
+            [
+              "2",
+              "[@ziutek](https://github.com/ziutek)/[**ftdi**](https://github.com/ziutek/ftdi)",
+              "Go binding for libFTDI",
+              ""
             ]
           ]
         }
