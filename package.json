@@ -55,7 +55,8 @@
           "[ActionScript](#actionscript)",
           "[Clojure](#clojure)",
           "[CoffeeScript](#coffeescript)",
-          "[Go](#go)"
+          "[Go](#go)",
+          "[Haskell](#haskell)"
         ]
       },
       {
@@ -3431,6 +3432,111 @@
               "2",
               "[@ziutek](https://github.com/ziutek)/[**ftdi**](https://github.com/ziutek/ftdi)",
               "Go binding for libFTDI",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Haskell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "124",
+              "[@Paczesiowa](https://github.com/Paczesiowa)/[**hsenv**](https://github.com/Paczesiowa/hsenv)",
+              "Virtual Haskell Environment builder",
+              ""
+            ],
+            [
+              "72",
+              "[@Paczesiowa](https://github.com/Paczesiowa)/[**virthualenv**](https://github.com/Paczesiowa/virthualenv)",
+              "Virtual Haskell Environment builder",
+              ""
+            ],
+            [
+              "28",
+              "[@jstolarek](https://github.com/jstolarek)/[**haskell-testing-stub**](https://github.com/jstolarek/haskell-testing-stub)",
+              "Stub project showing how to organize tests and benchmarks in Haskell",
+              ""
+            ],
+            [
+              "21",
+              "[@smichal](https://github.com/smichal)/[**hs-logic**](https://github.com/smichal/hs-logic)",
+              "A simple library for Haskell that allows relational programming.",
+              ""
+            ],
+            [
+              "7",
+              "[@wjzz](https://github.com/wjzz)/[**agda-DTP-examples**](https://github.com/wjzz/agda-DTP-examples)",
+              "",
+              ""
+            ],
+            [
+              "6",
+              "[@mbenke](https://github.com/mbenke)/[**zpf2013**](https://github.com/mbenke/zpf2013)",
+              "Zaawansowane Programowanie Funkcyjne 2013",
+              ""
+            ],
+            [
+              "6",
+              "[@mbenke](https://github.com/mbenke)/[**zpf2012**](https://github.com/mbenke/zpf2012)",
+              "Zaawansowane Programowanie Funkcyjne, MIMUW 2011",
+              ""
+            ],
+            [
+              "4",
+              "[@jstolarek](https://github.com/jstolarek)/[**dep-typed-wbl-heaps-…**](https://github.com/jstolarek/dep-typed-wbl-heaps-hs)",
+              "Weight-biased Leftist Heaps verified in Haskell using dependent types",
+              ""
+            ],
+            [
+              "4",
+              "[@jstolarek](https://github.com/jstolarek)/[**lattice-structure-hs**](https://github.com/jstolarek/lattice-structure-hs)",
+              "Lattice structure in Haskell",
+              ""
+            ],
+            [
+              "3",
+              "[@mbenke](https://github.com/mbenke)/[**vera**](https://github.com/mbenke/vera)",
+              "Exploring prover ideas for intuitionistic logic",
+              ""
+            ],
+            [
+              "2",
+              "[@Paczesiowa](https://github.com/Paczesiowa)/[**cabal-install-bundle**](https://github.com/Paczesiowa/cabal-install-bundle)",
+              "bundled version of cabal-install",
+              ""
+            ],
+            [
+              "2",
+              "[@smichal](https://github.com/smichal)/[**ylang**](https://github.com/smichal/ylang)",
+              "Program zaliczeniowy z JiPP @ MIMUW",
+              ""
+            ],
+            [
+              "2",
+              "[@adaszko](https://github.com/adaszko)/[**concurrent-ordered-s…**](https://github.com/adaszko/concurrent-ordered-set)",
+              "A concurrent, lock-free, ordered set data type based on skip lists",
+              ""
+            ],
+            [
+              "2",
+              "[@jstolarek](https://github.com/jstolarek)/[**tasty-program**](https://github.com/jstolarek/tasty-program)",
+              "Run tasty tests that check whether a program executes correctly",
+              ""
+            ],
+            [
+              "2",
+              "[@mbenke](https://github.com/mbenke)/[**lucretia**](https://github.com/mbenke/lucretia)",
+              "",
               ""
             ]
           ]
