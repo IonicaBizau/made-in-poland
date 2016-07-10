@@ -56,7 +56,8 @@
           "[Clojure](#clojure)",
           "[CoffeeScript](#coffeescript)",
           "[Go](#go)",
-          "[Haskell](#haskell)"
+          "[Haskell](#haskell)",
+          "[Lua](#lua)"
         ]
       },
       {
@@ -3536,6 +3537,75 @@
             [
               "2",
               "[@mbenke](https://github.com/mbenke)/[**lucretia**](https://github.com/mbenke/lucretia)",
+              "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Lua #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "17",
+              "[@k-szuster](https://github.com/k-szuster)/[**luci-access-control**](https://github.com/k-szuster/luci-access-control)",
+              "OpenWrt internet access scheduler",
+              ""
+            ],
+            [
+              "3",
+              "[@martap](https://github.com/martap)/[**LiquidFeedback-polis…**](https://github.com/martap/LiquidFeedback-polish-translation)",
+              "LiquidFeedback polish translation",
+              ""
+            ],
+            [
+              "3",
+              "[@Donearm](https://github.com/Donearm)/[**Renamer**](https://github.com/Donearm/Renamer)",
+              "File renaming script in Python and Lua",
+              ""
+            ],
+            [
+              "3",
+              "[@Donearm](https://github.com/Donearm)/[**awesomewm_themes**](https://github.com/Donearm/awesomewm_themes)",
+              "A collection of all my AwesomeWM themes",
+              ""
+            ],
+            [
+              "3",
+              "[@Donearm](https://github.com/Donearm)/[**Tumbback**](https://github.com/Donearm/Tumbback)",
+              "Tumblr blog backup script written in Lua",
+              ""
+            ],
+            [
+              "3",
+              "[@Donearm](https://github.com/Donearm)/[**Mpd-Info**](https://github.com/Donearm/Mpd-Info)",
+              "Lua scripts to output MPD playing info",
+              ""
+            ],
+            [
+              "3",
+              "[@szymski](https://github.com/szymski)/[**PropHunt**](https://github.com/szymski/PropHunt)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@lopezloo](https://github.com/lopezloo)/[**mta-cinema**](https://github.com/lopezloo/mta-cinema)",
+              ":movie_camera: Multi Theft Auto Cinema gamemode",
+              ""
+            ],
+            [
+              "2",
+              "[@RealBadAngel](https://github.com/RealBadAngel)/[**plasma_lamp**](https://github.com/RealBadAngel/plasma_lamp)",
               "",
               ""
             ]
