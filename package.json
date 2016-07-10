@@ -60,7 +60,8 @@
           "[Lua](#lua)",
           "[Matlab](#matlab)",
           "[Objective-C](#objective-c)",
-          "[Perl](#perl)"
+          "[Perl](#perl)",
+          "[PHP](#php)"
         ]
       },
       {
@@ -4507,6 +4508,489 @@
               "2",
               "[@tadzik](https://github.com/tadzik)/[**zblog**](https://github.com/tadzik/zblog)",
               "źblog: example blog-ish application using Bailador and DBIish",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "PHP #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "264",
+              "[@psliwa](https://github.com/psliwa)/[**PHPPdf**](https://github.com/psliwa/PHPPdf)",
+              "Pdf and graphic files generator library written in php",
+              "[:arrow_upper_right:](http://ohey.pl)"
+            ],
+            [
+              "174",
+              "[@psliwa](https://github.com/psliwa)/[**image-optimizer**](https://github.com/psliwa/image-optimizer)",
+              "Image optimization / compression library. This library is able to optimize png, jpg and gif files in very easy and handy way. It uses optipng, pngquant, pngcrush, pngout, gifsicle, jpegoptim and jpegtran tools.",
+              ""
+            ],
+            [
+              "172",
+              "[@widmogrod](https://github.com/widmogrod)/[**php-functional**](https://github.com/widmogrod/php-functional)",
+              "Functors, Applicative Functors and Monads in PHP",
+              ""
+            ],
+            [
+              "153",
+              "[@widmogrod](https://github.com/widmogrod)/[**zf2-assetic-module**](https://github.com/widmogrod/zf2-assetic-module)",
+              "Zend Framework module for Assetic",
+              ""
+            ],
+            [
+              "123",
+              "[@psliwa](https://github.com/psliwa)/[**PdfBundle**](https://github.com/psliwa/PdfBundle)",
+              "This bundle integrates Symfony2 with PHPPdf library.",
+              "[:arrow_upper_right:](http://ohey.pl)"
+            ],
+            [
+              "114",
+              "[@thunderer](https://github.com/thunderer)/[**Shortcode**](https://github.com/thunderer/Shortcode)",
+              "Advanced shortcode (BBCode) parser and engine for PHP",
+              ""
+            ],
+            [
+              "107",
+              "[@rr-](https://github.com/rr-)/[**malgraph4**](https://github.com/rr-/malgraph4)",
+              "(End of line) MALgraph: statistics service for MyAnimeList.net users.",
+              "[:arrow_upper_right:](http://mal.oko.im)"
+            ],
+            [
+              "73",
+              "[@widmogrod](https://github.com/widmogrod)/[**zf2-twitter-bootstra…**](https://github.com/widmogrod/zf2-twitter-bootstrap-module)",
+              "Integration Twitter Bootsrap CSS & JS toolkit in ZF2 module",
+              ""
+            ],
+            [
+              "63",
+              "[@Borales](https://github.com/Borales)/[**yii-pdf**](https://github.com/Borales/yii-pdf)",
+              "A wrapper to some PHP-PDF libraries (mPDF, HTML2PDF)",
+              "[:arrow_upper_right:](http://www.yiiframework.com/extension/pdf/)"
+            ],
+            [
+              "52",
+              "[@nineinchnick](https://github.com/nineinchnick)/[**yii2-nfy**](https://github.com/nineinchnick/yii2-nfy)",
+              "A generic message queue interface with various implementations for the Yii 2.0 framework. Basic interface included.",
+              ""
+            ],
+            [
+              "39",
+              "[@nineinchnick](https://github.com/nineinchnick)/[**yii2-usr**](https://github.com/nineinchnick/yii2-usr)",
+              "Yii framework module for user authentication, password reset, registration and profile updating. A port of yii-usr to Yii Framework 2.0.",
+              "[:arrow_upper_right:](http://demo2.niix.pl)"
+            ],
+            [
+              "35",
+              "[@mthenw](https://github.com/mthenw)/[**nosqlite.php**](https://github.com/mthenw/nosqlite.php)",
+              "NoSQLite – simple key => value store",
+              ""
+            ],
+            [
+              "35",
+              "[@nineinchnick](https://github.com/nineinchnick)/[**yii-usr**](https://github.com/nineinchnick/yii-usr)",
+              "Yii framework module for user authentication, password reset, registration and profile updating.",
+              "[:arrow_upper_right:](http://demo.niix.pl)"
+            ],
+            [
+              "32",
+              "[@piotrpasich](https://github.com/piotrpasich)/[**CodeQualityThreshold**](https://github.com/piotrpasich/CodeQualityThreshold)",
+              "Runs PHP tools to check basic code quality (phpmd, phpcs, phpdcd, phpcp)",
+              "[:arrow_upper_right:](http://piotrpasich.com)"
+            ],
+            [
+              "30",
+              "[@wowo](https://github.com/wowo)/[**WowoNewsletterBundle**](https://github.com/wowo/WowoNewsletterBundle)",
+              "Newsletter Bundle for Symfony2 (with messages queuing in beanstalkd)",
+              ""
+            ],
+            [
+              "30",
+              "[@l3l0](https://github.com/l3l0)/[**php-travis-client**](https://github.com/l3l0/php-travis-client)",
+              "",
+              ""
+            ],
+            [
+              "26",
+              "[@d4rky-pl](https://github.com/d4rky-pl)/[**kohana3-crud**](https://github.com/d4rky-pl/kohana3-crud)",
+              "Kohana 3.2 basic CRUD / scaffold",
+              ""
+            ],
+            [
+              "24",
+              "[@psliwa](https://github.com/psliwa)/[**fluent-traversable**](https://github.com/psliwa/fluent-traversable)",
+              "Support for operating on collections and arrays by functional way. Inspired by guava's FluentIterable, java8 Stream framework and scala stuff.",
+              ""
+            ],
+            [
+              "21",
+              "[@wowo](https://github.com/wowo)/[**WowoQueueBundle**](https://github.com/wowo/WowoQueueBundle)",
+              "The WowoQueueBundle provides unified method for use queue systems, like Beanstalkd, RabbitMQ, flat files,  database driven queues etc.",
+              ""
+            ],
+            [
+              "21",
+              "[@nineinchnick](https://github.com/nineinchnick)/[**yii-nfy**](https://github.com/nineinchnick/yii-nfy)",
+              "A module for sending notifications and displaying them using web notifications and ajax polling.",
+              ""
+            ],
+            [
+              "19",
+              "[@widmogrod](https://github.com/widmogrod)/[**zf2-facebook-module**](https://github.com/widmogrod/zf2-facebook-module)",
+              "Zend Framework 2 module adding integration with Facebook php-sdk",
+              ""
+            ],
+            [
+              "18",
+              "[@Borales](https://github.com/Borales)/[**yiiapi.com**](https://github.com/Borales/yiiapi.com)",
+              "Usable & Searchable API Doc for Yii Framework",
+              "[:arrow_upper_right:](http://yiiapi.com/)"
+            ],
+            [
+              "17",
+              "[@widmogrod](https://github.com/widmogrod)/[**zf2-rest-api-documen…**](https://github.com/widmogrod/zf2-rest-api-documentator)",
+              "This module provides a set of tools to generate documentation of your REST API",
+              ""
+            ],
+            [
+              "17",
+              "[@fizyk](https://github.com/fizyk)/[**sfForkedDoctrineAppl…**](https://github.com/fizyk/sfForkedDoctrineApplyPlugin)",
+              "This plugin is Forked version of sfDotrineApplyPlugin created by punkave guys.  This Fork got stripped stripped of all dependencies from Zend Framework, introduced Profile model inheritance, small structural changes and few usability changes as well.  Includes following language versions: English, Polish, French and Italian.",
+              "[:arrow_upper_right:](http://www.symfony-project.org/plugins/sfForkedDoctrineApplyPlugin)"
+            ],
+            [
+              "14",
+              "[@drymek](https://github.com/drymek)/[**PheanstalkBundle**](https://github.com/drymek/PheanstalkBundle)",
+              "",
+              ""
+            ],
+            [
+              "14",
+              "[@bgruszka](https://github.com/bgruszka)/[**PHPAntiSpam**](https://github.com/bgruszka/PHPAntiSpam)",
+              "PHPAntiSpam is a library that recognize if documents / messages / texts are spam or not. The library use statistical analysis.",
+              ""
+            ],
+            [
+              "12",
+              "[@zekus](https://github.com/zekus)/[**php-excel-reader**](https://github.com/zekus/php-excel-reader)",
+              "It reads the binary format of XLS files directly and can return values and formats from any cell. This project is the fork of http://code.google.com/p/php-excel-reade… that, apparently, is no longer maintained.",
+              ""
+            ],
+            [
+              "11",
+              "[@Borales](https://github.com/Borales)/[**yii2-phone-input**](https://github.com/Borales/yii2-phone-input)",
+              "Yii2 International telephone numbers",
+              ""
+            ],
+            [
+              "11",
+              "[@widmogrod](https://github.com/widmogrod)/[**data-grid**](https://github.com/widmogrod/data-grid)",
+              "Simple DataGrid implementation for PHP5.3",
+              ""
+            ],
+            [
+              "11",
+              "[@Borales](https://github.com/Borales)/[**yii2-elasticsearch-b…**](https://github.com/Borales/yii2-elasticsearch-behavior)",
+              "Yii2 behavior to support Elasticsearch indexing",
+              ""
+            ],
+            [
+              "11",
+              "[@l3l0](https://github.com/l3l0)/[**phpcs-symfony**](https://github.com/l3l0/phpcs-symfony)",
+              "Symfony 1.x coding standards",
+              ""
+            ],
+            [
+              "10",
+              "[@thunderer](https://github.com/thunderer)/[**SimilarWebApi**](https://github.com/thunderer/SimilarWebApi)",
+              "SimilarWeb API Client written in PHP",
+              ""
+            ],
+            [
+              "9",
+              "[@psliwa](https://github.com/psliwa)/[**rfp**](https://github.com/psliwa/rfp)",
+              "Working prototype of Real Functional PHP library",
+              ""
+            ],
+            [
+              "9",
+              "[@widmogrod](https://github.com/widmogrod)/[**zf2-mustache-module**](https://github.com/widmogrod/zf2-mustache-module)",
+              "ZF2 module providing integration with mustache.php rendering engine",
+              ""
+            ],
+            [
+              "9",
+              "[@panrafal](https://github.com/panrafal)/[**phpquery-tools**](https://github.com/panrafal/phpquery-tools)",
+              "PhpQuery Tools to manipulate HTML documents",
+              ""
+            ],
+            [
+              "8",
+              "[@d4rky-pl](https://github.com/d4rky-pl)/[**kohana-api-lookup**](https://github.com/d4rky-pl/kohana-api-lookup)",
+              "Kohana 3.x API Lookup",
+              "[:arrow_upper_right:](http://kohana.nerdblog.pl)"
+            ],
+            [
+              "8",
+              "[@nineinchnick](https://github.com/nineinchnick)/[**yii2-audit**](https://github.com/nineinchnick/yii2-audit)",
+              "Extensions to the Yii 2 PHP framework allowing tracking and viewing change history of a model.",
+              ""
+            ],
+            [
+              "8",
+              "[@widmogrod](https://github.com/widmogrod)/[**zf2-datagrid-bundle**](https://github.com/widmogrod/zf2-datagrid-bundle)",
+              "Zend Framework 2 module shipping simple DataGrid integration.",
+              ""
+            ],
+            [
+              "8",
+              "[@thunderer](https://github.com/thunderer)/[**Serializard**](https://github.com/thunderer/Serializard)",
+              "Flexible serializer encouraging good object design",
+              ""
+            ],
+            [
+              "7",
+              "[@thunderer](https://github.com/thunderer)/[**Numbase**](https://github.com/thunderer/Numbase)",
+              "Arbitrary number base converter.",
+              ""
+            ],
+            [
+              "7",
+              "[@panrafal](https://github.com/panrafal)/[**chequer-php**](https://github.com/panrafal/chequer-php)",
+              "Fast & simple scalar/object/array checking and validation",
+              ""
+            ],
+            [
+              "6",
+              "[@nineinchnick](https://github.com/nineinchnick)/[**closure-table-manage…**](https://github.com/nineinchnick/closure-table-manager)",
+              "PHP library that helps maintain adjacency list SQL structures",
+              ""
+            ],
+            [
+              "6",
+              "[@Borales](https://github.com/Borales)/[**yii-MultidomainClien…**](https://github.com/Borales/yii-MultidomainClientScript)",
+              "Extending default Yii CClientScript class to use multiple subdomains for assets (scripts and stylesheets).",
+              "[:arrow_upper_right:](http://www.yiiframework.com/extension/multidomain-client-script)"
+            ],
+            [
+              "6",
+              "[@rafalp](https://github.com/rafalp)/[**Miblo**](https://github.com/rafalp/Miblo)",
+              "Miblo is simple blog-aware static site generator writen in PHP 5.3 and using Twig.",
+              ""
+            ],
+            [
+              "6",
+              "[@fizyk](https://github.com/fizyk)/[**fzTagPlugin**](https://github.com/fizyk/fzTagPlugin)",
+              "fzTagPlugin originally started as rewrite of dmTagPlugin to adjust it to symfony 1.4. Now you can easily add tags to models in any symfony app.",
+              "[:arrow_upper_right:](http://www.fizyk.net.pl/)"
+            ],
+            [
+              "6",
+              "[@widmogrod](https://github.com/widmogrod)/[**zf2-quiz**](https://github.com/widmogrod/zf2-quiz)",
+              "Quiz app",
+              ""
+            ],
+            [
+              "5",
+              "[@d4rky-pl](https://github.com/d4rky-pl)/[**kohana3-generator**](https://github.com/d4rky-pl/kohana3-generator)",
+              "Model generator for Kohana3-CRUD",
+              ""
+            ],
+            [
+              "5",
+              "[@stloyd](https://github.com/stloyd)/[**gosquared-api**](https://github.com/stloyd/gosquared-api)",
+              "A simple Object Oriented wrapper for GoSquared API, written with PHP.",
+              ""
+            ],
+            [
+              "5",
+              "[@piotrpasich](https://github.com/piotrpasich)/[**cakephp-symfony-rout…**](https://github.com/piotrpasich/cakephp-symfony-router)",
+              "SymfonyRouter for CakePHP",
+              "[:arrow_upper_right:](piotrpasich.com)"
+            ],
+            [
+              "5",
+              "[@piotrpasich](https://github.com/piotrpasich)/[**symfony-search-solut…**](https://github.com/piotrpasich/symfony-search-solution)",
+              "symfony-search-solution",
+              ""
+            ],
+            [
+              "5",
+              "[@Srokap](https://github.com/Srokap)/[**data_generator**](https://github.com/Srokap/data_generator)",
+              "Allows to fill-up Elgg installation with a lot of fake data.",
+              ""
+            ],
+            [
+              "5",
+              "[@l3l0](https://github.com/l3l0)/[**OpenSocialBundle**](https://github.com/l3l0/OpenSocialBundle)",
+              "Symfony2 osapi implementation",
+              ""
+            ],
+            [
+              "5",
+              "[@Srokap](https://github.com/Srokap)/[**db_backup**](https://github.com/Srokap/db_backup)",
+              "Elgg plugin, that allows creating and restoring MySQL database backups",
+              ""
+            ],
+            [
+              "5",
+              "[@fizyk](https://github.com/fizyk)/[**vjCommentPlugin**](https://github.com/fizyk/vjCommentPlugin)",
+              "You want to add comments on news page, pool or anything ? Just use this plugin ! It provides a comment behavior. Now, everything is commentable !",
+              "[:arrow_upper_right:](http://www.symfony-project.org/plugins/vjCommentPlugin)"
+            ],
+            [
+              "4",
+              "[@nineinchnick](https://github.com/nineinchnick)/[**yii-demo**](https://github.com/nineinchnick/yii-demo)",
+              "Demo of my extensions for the Yii framework",
+              "[:arrow_upper_right:](demo.niix.pl)"
+            ],
+            [
+              "4",
+              "[@qzminski](https://github.com/qzminski)/[**blog-cd_collection**](https://github.com/qzminski/blog-cd_collection)",
+              "The CD Collection extension for learning purposes",
+              "[:arrow_upper_right:](http://blog.qzminski.com)"
+            ],
+            [
+              "4",
+              "[@wowo](https://github.com/wowo)/[**timesheet-php**](https://github.com/wowo/timesheet-php)",
+              "Simple Timesheet Application written in symfony 1.4",
+              ""
+            ],
+            [
+              "4",
+              "[@Srokap](https://github.com/Srokap)/[**code_review**](https://github.com/Srokap/code_review)",
+              "Elgg plugin for PHP code analysis and refactoring.",
+              ""
+            ],
+            [
+              "4",
+              "[@psliwa](https://github.com/psliwa)/[**psPageableFormPlugin**](https://github.com/psliwa/psPageableFormPlugin)",
+              "Provide simple to use pageable (multipage) forms in symfony 1.2.x, 1.3.x and 1.4.x.",
+              "[:arrow_upper_right:](http://www.symfony-project.org/plugins/psPageableFormPlugin)"
+            ],
+            [
+              "3",
+              "[@qzminski](https://github.com/qzminski)/[**SimplePoll**](https://github.com/qzminski/SimplePoll)",
+              "SimplePoll is the Contao extension that allows you to create simple polls.",
+              ""
+            ],
+            [
+              "3",
+              "[@Riu](https://github.com/Riu)/[**riudb**](https://github.com/Riu/riudb)",
+              "Mechanism for data storage",
+              ""
+            ],
+            [
+              "3",
+              "[@nineinchnick](https://github.com/nineinchnick)/[**yii-exporter**](https://github.com/nineinchnick/yii-exporter)",
+              "A widget for the Yii framework for exporting data",
+              ""
+            ],
+            [
+              "3",
+              "[@fizyk](https://github.com/fizyk)/[**fzBlameablePlugin**](https://github.com/fizyk/fzBlameablePlugin)",
+              "Provides out of the box blameable behaviour for symfony/doctrine with few adjustment",
+              ""
+            ],
+            [
+              "3",
+              "[@wowo](https://github.com/wowo)/[**cities-symfony2**](https://github.com/wowo/cities-symfony2)",
+              "Frameworks comparision application",
+              "[:arrow_upper_right:](http://symfony2.cities.sznapka.pl)"
+            ],
+            [
+              "3",
+              "[@Riu](https://github.com/Riu)/[**phaldoc**](https://github.com/Riu/phaldoc)",
+              "App to create and translate docs ",
+              ""
+            ],
+            [
+              "3",
+              "[@pjedrzejewski](https://github.com/pjedrzejewski)/[**php-summercamp-model…**](https://github.com/pjedrzejewski/php-summercamp-modelling-by-example)",
+              "Workshop repository for PHPSummerCamp 2015.",
+              ""
+            ],
+            [
+              "2",
+              "[@wowo](https://github.com/wowo)/[**NKFeed**](https://github.com/wowo/NKFeed)",
+              "Feed for Nasza-klasa.pl",
+              ""
+            ],
+            [
+              "2",
+              "[@thunderer](https://github.com/thunderer)/[**Monotype**](https://github.com/thunderer/Monotype)",
+              "PHP variable type and method signature checker utility",
+              ""
+            ],
+            [
+              "2",
+              "[@Borales](https://github.com/Borales)/[**yii2-ace-widget**](https://github.com/Borales/yii2-ace-widget)",
+              "Yii2 Ace (Ajax.org Cloud9 Editor) Widget",
+              ""
+            ],
+            [
+              "2",
+              "[@d4rky-pl](https://github.com/d4rky-pl)/[**Kohana-DBUtil**](https://github.com/d4rky-pl/Kohana-DBUtil)",
+              "Port of Fuel's DBUtil class",
+              ""
+            ],
+            [
+              "2",
+              "[@nineinchnick](https://github.com/nineinchnick)/[**yii2-demo**](https://github.com/nineinchnick/yii2-demo)",
+              "Demo of my extensions for the Yii 2.0 framework",
+              "[:arrow_upper_right:](http://demo2.niix.pl)"
+            ],
+            [
+              "2",
+              "[@Srokap](https://github.com/Srokap)/[**srokap_bootstrap**](https://github.com/Srokap/srokap_bootstrap)",
+              "Plugin created as most simplistic usage of Twitter Bootstrap as a Elgg theme.",
+              ""
+            ],
+            [
+              "2",
+              "[@l3l0](https://github.com/l3l0)/[**symfony-playground**](https://github.com/l3l0/symfony-playground)",
+              "my symfony playground",
+              ""
+            ],
+            [
+              "2",
+              "[@psliwa](https://github.com/psliwa)/[**zend-pdf**](https://github.com/psliwa/zend-pdf)",
+              "[READ-ONLY] Subtree split of the Zend Framework Pdf library -- clone into Zend/Pdf/ (master at zendframework/zf2)",
+              "[:arrow_upper_right:](http://www.knplabs.com/en/blog/zend-framework-subtrees)"
+            ],
+            [
+              "2",
+              "[@widmogrod](https://github.com/widmogrod)/[**zf2-semi-http-cache**](https://github.com/widmogrod/zf2-semi-http-cache)",
+              "Zend Framework 2 module providing cache layer based on HTTP Cache.",
+              ""
+            ],
+            [
+              "2",
+              "[@drymek](https://github.com/drymek)/[**GoogleDemoBundle**](https://github.com/drymek/GoogleDemoBundle)",
+              "GoogleBundle demo site",
+              ""
+            ],
+            [
+              "2",
+              "[@widmogrod](https://github.com/widmogrod)/[**Sengin**](https://github.com/widmogrod/Sengin)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@l3l0](https://github.com/l3l0)/[**bdd-workshop**](https://github.com/l3l0/bdd-workshop)",
+              "Really dump application uses for demonstrate behat and phpspec in php project (silex).",
               ""
             ]
           ]
