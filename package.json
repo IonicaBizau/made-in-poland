@@ -53,7 +53,8 @@
           "[C](undefined)",
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
-          "[Clojure](#clojure)"
+          "[Clojure](#clojure)",
+          "[CoffeeScript](#coffeescript)"
         ]
       },
       {
@@ -3208,6 +3209,39 @@
               "[@tomaszbiedka](https://github.com/tomaszbiedka)/[**my-first-clojure-gam…**](https://github.com/tomaszbiedka/my-first-clojure-game)",
               "My first clojure game ",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "CoffeeScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "32",
+              "[@exlee](https://github.com/exlee)/[**brunch-on-asteroids**](https://github.com/exlee/brunch-on-asteroids)",
+              "Brunch skeleton based on Angular.JS, Twitter Bootstrap 2.3 with Bootswatch Themes and more",
+              ""
+            ],
+            [
+              "5",
+              "[@jakubburkiewicz](https://github.com/jakubburkiewicz)/[**brunch-scab**](https://github.com/jakubburkiewicz/brunch-scab)",
+              "Brunch skeleton with SASS, CoffeeScript, Angular and Bootstrap",
+              ""
+            ],
+            [
+              "2",
+              "[@jmak](https://github.com/jmak)/[**trixy-popup**](https://github.com/jmak/trixy-popup)",
+              "Trixy PopUp - [Simple Scrollable PopUp] is perfectly suited to present large amounts of content in neat and flexible way.",
+              "[:arrow_upper_right:](http://jmak.github.com/trixy-popup/)"
             ]
           ]
         }
