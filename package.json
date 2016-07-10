@@ -57,7 +57,8 @@
           "[CoffeeScript](#coffeescript)",
           "[Go](#go)",
           "[Haskell](#haskell)",
-          "[Lua](#lua)"
+          "[Lua](#lua)",
+          "[Matlab](#matlab)"
         ]
       },
       {
@@ -3607,6 +3608,27 @@
               "2",
               "[@RealBadAngel](https://github.com/RealBadAngel)/[**plasma_lamp**](https://github.com/RealBadAngel/plasma_lamp)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Matlab #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2",
+              "[@mmagnuski](https://github.com/mmagnuski)/[**eegDb**](https://github.com/mmagnuski/eegDb)",
+              "eegDb is an egglab plugin that eases up managing preprocessing routines. It allows to create project databases for reproducible eeg preprocessing with eeglab.",
               ""
             ]
           ]
