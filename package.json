@@ -47,7 +47,8 @@
       {
         "ul": [
           "[JavaScript](#javascript)",
-          "[Java](#java)"
+          "[Java](#java)",
+          "[C#](#c-1)"
         ]
       },
       {
@@ -2517,6 +2518,135 @@
               "2",
               "[@mswiderski](https://github.com/mswiderski)/[**bpm-projects**](https://github.com/mswiderski/bpm-projects)",
               "Various deployable projects for jBPM",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C# #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "173",
+              "[@marek-stoj](https://github.com/marek-stoj)/[**NReadability**](https://github.com/marek-stoj/NReadability)",
+              "NReadability is a tool for removing clutter from HTML pages so that they are more enjoyable to read.",
+              ""
+            ],
+            [
+              "65",
+              "[@Horusiath](https://github.com/Horusiath)/[**AkkaCQRS**](https://github.com/Horusiath/AkkaCQRS)",
+              "Event sourcing example build on Akka.NET with persistence plugin",
+              ""
+            ],
+            [
+              "44",
+              "[@marek-stoj](https://github.com/marek-stoj)/[**ImmDoc.NET**](https://github.com/marek-stoj/ImmDoc.NET)",
+              "ImmDoc .NET is a command-line utility for generating HTML documentation from a set of .NET assemblies and XML files created by the compiler. It's developed in C#.",
+              ""
+            ],
+            [
+              "14",
+              "[@tkowalczyk](https://github.com/tkowalczyk)/[**SimpleCustomGestureF…**](https://github.com/tkowalczyk/SimpleCustomGestureFrame)",
+              "Swipe gestures on custom frame in Xamarin.Forms project.",
+              ""
+            ],
+            [
+              "14",
+              "[@justMaku](https://github.com/justMaku)/[**blte**](https://github.com/justMaku/blte)",
+              "BLTE file format reader based on TOM_RUS work",
+              ""
+            ],
+            [
+              "14",
+              "[@tkowalczyk](https://github.com/tkowalczyk)/[**DevTalkMobile**](https://github.com/tkowalczyk/DevTalkMobile)",
+              "Repository for mobile clients for http://devtalk.pl podcast! Created with Xamarin.Forms.",
+              ""
+            ],
+            [
+              "9",
+              "[@tkowalczyk](https://github.com/tkowalczyk)/[**KinectMeasurements**](https://github.com/tkowalczyk/KinectMeasurements)",
+              "Set of tools and extension methods to measure skeletons. To use with Kinect for Windows SDK, written in C#.",
+              ""
+            ],
+            [
+              "8",
+              "[@tkowalczyk](https://github.com/tkowalczyk)/[**SimpleMasterDetailTa…**](https://github.com/tkowalczyk/SimpleMasterDetailTabbed)",
+              "MasterDetailPage with MessagingCenter in Xamarin.Forms.",
+              ""
+            ],
+            [
+              "7",
+              "[@soltys](https://github.com/soltys)/[**hopnet**](https://github.com/soltys/hopnet)",
+              ".NET Group Project with Kinect!",
+              ""
+            ],
+            [
+              "7",
+              "[@marek-stoj](https://github.com/marek-stoj)/[**NLangDetect**](https://github.com/marek-stoj/NLangDetect)",
+              "C# port of a language detection library. Tags: language detection, language identification, language guessing.",
+              ""
+            ],
+            [
+              "6",
+              "[@ideaconnect](https://github.com/ideaconnect)/[**vs-trim-line-ends-on…**](https://github.com/ideaconnect/vs-trim-line-ends-on-save-plugin)",
+              "Visual Studio plugin to trim line ends on save.",
+              ""
+            ],
+            [
+              "6",
+              "[@ideaconnect](https://github.com/ideaconnect)/[**wp8-simple-web-serve…**](https://github.com/ideaconnect/wp8-simple-web-server)",
+              "Simple Web Server for Windows Phone 8",
+              ""
+            ],
+            [
+              "6",
+              "[@marek-stoj](https://github.com/marek-stoj)/[**UberDeployer**](https://github.com/marek-stoj/UberDeployer)",
+              "A continuous delivery solution for environments based on Microsoft technologies.",
+              ""
+            ],
+            [
+              "6",
+              "[@grzesiek-galezowski](https://github.com/grzesiek-galezowski)/[**tdd-toolkit**](https://github.com/grzesiek-galezowski/tdd-toolkit)",
+              "Toolkit used in Test-Driven Development ebook tutorial: github.com/grzesiek-galezowski/tdd-ebook",
+              ""
+            ],
+            [
+              "5",
+              "[@justMaku](https://github.com/justMaku)/[**mClient**](https://github.com/justMaku/mClient)",
+              "World of Warcraft client library written in C#",
+              ""
+            ],
+            [
+              "4",
+              "[@tkowalczyk](https://github.com/tkowalczyk)/[**SimpleAudioForms**](https://github.com/tkowalczyk/SimpleAudioForms)",
+              "How to play audio files in Xamarin.Forms",
+              ""
+            ],
+            [
+              "2",
+              "[@pawelklimczyk](https://github.com/pawelklimczyk)/[**BookHouse**](https://github.com/pawelklimczyk/BookHouse)",
+              "BookHouse",
+              ""
+            ],
+            [
+              "2",
+              "[@tsubik](https://github.com/tsubik)/[**SFASystem**](https://github.com/tsubik/SFASystem)",
+              "Sales Force Automation system",
+              ""
+            ],
+            [
+              "2",
+              "[@tkowalczyk](https://github.com/tkowalczyk)/[**SimpleLocalNotificat…**](https://github.com/tkowalczyk/SimpleLocalNotificationsForms)",
+              "This project show how to use local notification in Xamarin.Forms project",
               ""
             ]
           ]
