@@ -68,7 +68,8 @@
           "[Scala](#scala)",
           "[Shell](#shell)",
           "[Swift](#swift)",
-          "[TeX](#tex)"
+          "[TeX](#tex)",
+          "[VimL](#viml)"
         ]
       },
       {
@@ -7089,6 +7090,75 @@
               "8",
               "[@politechnika](https://github.com/politechnika)/[**put-latex**](https://github.com/politechnika/put-latex)",
               "put-latex",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "VimL #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "239",
+              "[@szw](https://github.com/szw)/[**vim-tags**](https://github.com/szw/vim-tags)",
+              "Ctags generator for Vim",
+              "[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=4377)"
+            ],
+            [
+              "55",
+              "[@szw](https://github.com/szw)/[**vim-maximizer**](https://github.com/szw/vim-maximizer)",
+              "Maximizes and restores the current window in Vim.",
+              "[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=4376)"
+            ],
+            [
+              "48",
+              "[@exu](https://github.com/exu)/[**pgsql.vim**](https://github.com/exu/pgsql.vim)",
+              "Postgresql syntax from Devrim GUNDUZ",
+              "[:arrow_upper_right:](http://www.gunduz.org/postgresql/pgsql.vim)"
+            ],
+            [
+              "48",
+              "[@szw](https://github.com/szw)/[**vim-g**](https://github.com/szw/vim-g)",
+              "Quick Google lookup directly from Vim",
+              "[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=4183)"
+            ],
+            [
+              "30",
+              "[@szw](https://github.com/szw)/[**vim-dict**](https://github.com/szw/vim-dict)",
+              "The Dict client for Vim",
+              "[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=4180)"
+            ],
+            [
+              "10",
+              "[@szw](https://github.com/szw)/[**vim-smartclose**](https://github.com/szw/vim-smartclose)",
+              "Close Vim windows in a smart way!",
+              ""
+            ],
+            [
+              "6",
+              "[@exu](https://github.com/exu)/[**vim-dotfiles**](https://github.com/exu/vim-dotfiles)",
+              "My VIM customizations",
+              ""
+            ],
+            [
+              "4",
+              "[@szw](https://github.com/szw)/[**dotfiles**](https://github.com/szw/dotfiles)",
+              "My perfect setup :)",
+              ""
+            ],
+            [
+              "3",
+              "[@exu](https://github.com/exu)/[**vim-python_koans**](https://github.com/exu/vim-python_koans)",
+              "Python koans VIM helper",
               ""
             ]
           ]
