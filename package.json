@@ -66,7 +66,8 @@
           "[R](#r)",
           "[Ruby](#ruby)",
           "[Scala](#scala)",
-          "[Shell](#shell)"
+          "[Shell](#shell)",
+          "[Swift](#swift)"
         ]
       },
       {
@@ -7033,6 +7034,39 @@
               "2",
               "[@wujtruj](https://github.com/wujtruj)/[**docker-dropplets**](https://github.com/wujtruj/docker-dropplets)",
               "Dockerfile to build a Docker image of the Dropplets blogging platform",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Swift #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "35",
+              "[@maxadamski](https://github.com/maxadamski)/[**SwiftyRegex**](https://github.com/maxadamski/SwiftyRegex)",
+              "Linux compatible regex framework written in Swift",
+              ""
+            ],
+            [
+              "23",
+              "[@sembsa](https://github.com/sembsa)/[**CProgressView**](https://github.com/sembsa/CProgressView)",
+              "Circle Progress for iOS - Swift",
+              ""
+            ],
+            [
+              "3",
+              "[@AdamSliwakowski](https://github.com/AdamSliwakowski)/[**TypedTableView**](https://github.com/AdamSliwakowski/TypedTableView)",
+              "",
               ""
             ]
           ]
