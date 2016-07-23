@@ -40,6 +40,7 @@
   },
   "homepage": "https://github.com/IonicaBizau/made-in-poland#readme",
   "blah": {
+    "title": "Made in Poland",
     "installation": [
       {
         "h2": "Contents"
