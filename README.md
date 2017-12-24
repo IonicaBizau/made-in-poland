@@ -9,6 +9,7 @@
 
 ## Contents
 
+
  - [JavaScript](#javascript)
  - [Java](#java)
  - [C#](#c-1)
@@ -35,6 +36,7 @@
  - [VimL](#viml)
 
 ### JavaScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 3123 | [@kdzwinel](https://github.com/kdzwinel)/[**betwixt**](https://github.com/kdzwinel/betwixt) | :zap: Web Debugging Proxy based on Chrome DevTools Network panel. |
@@ -292,7 +294,9 @@
 2 | [@michalbe](https://github.com/michalbe)/[**rgb2xterm**](https://github.com/michalbe/rgb2xterm) | Change hex or rgb color to xterm (8-bit) color. | [:arrow_upper_right:](https://www.npmjs.org/package/color2xterm)
 2 | [@juliancwirko](https://github.com/juliancwirko)/[**horizon-react-webpac…**](https://github.com/juliancwirko/horizon-react-webpack-boilerplate) | Horizon, React, Webpack boilerplate with demo app |
 2 | [@stasm](https://github.com/stasm)/[**timeline**](https://github.com/stasm/timeline) | Projects timeline |
+
 ### Java #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 1875 | [@Vedenin](https://github.com/Vedenin)/[**useful-java-links**](https://github.com/Vedenin/useful-java-links) | A list of useful Java frameworks, libraries, software and hello worlds examples |
@@ -447,7 +451,9 @@
 2 | [@mswiderski](https://github.com/mswiderski)/[**spring-jbpm-app**](https://github.com/mswiderski/spring-jbpm-app) | jBPM spring application that shows how to build execution server using jBPM 6 and spring |
 2 | [@itcuties](https://github.com/itcuties)/[**JSF2-Spring3-Example…**](https://github.com/itcuties/JSF2-Spring3-Example-The-Registration-App) | Today we are going to show you how to integrate JSF 2 with Spring 3. Our JSF 2 Spring 3 example application is the implementation of the Workshop registration use case. Use this code any way you want. For more greate codes and tutorials visit us at itcuties.com | [:arrow_upper_right:](http://www.itcuties.com/j2ee/jsf-2-spring-3-example-the-registration-app/)
 2 | [@mswiderski](https://github.com/mswiderski)/[**bpm-projects**](https://github.com/mswiderski/bpm-projects) | Various deployable projects for jBPM |
+
 ### C# #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 173 | [@marek-stoj](https://github.com/marek-stoj)/[**NReadability**](https://github.com/marek-stoj/NReadability) | NReadability is a tool for removing clutter from HTML pages so that they are more enjoyable to read. |
@@ -469,7 +475,9 @@
 2 | [@pawelklimczyk](https://github.com/pawelklimczyk)/[**BookHouse**](https://github.com/pawelklimczyk/BookHouse) | BookHouse |
 2 | [@tsubik](https://github.com/tsubik)/[**SFASystem**](https://github.com/tsubik/SFASystem) | Sales Force Automation system |
 2 | [@tkowalczyk](https://github.com/tkowalczyk)/[**SimpleLocalNotificat…**](https://github.com/tkowalczyk/SimpleLocalNotificationsForms) | This project show how to use local notification in Xamarin.Forms project |
+
 ### CSS #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 28 | [@smutnyleszek](https://github.com/smutnyleszek)/[**hashtabber**](https://github.com/smutnyleszek/hashtabber) | A simple hashchange-driven tabbed navigation | [:arrow_upper_right:](hashtabber.smutnyleszek.com)
@@ -478,7 +486,9 @@
 4 | [@nextlevelshit](https://github.com/nextlevelshit)/[**webpack-electron-ang…**](https://github.com/nextlevelshit/webpack-electron-angular2-foundation-starterkit) | Just another starterkit for everybody who wants to develope applications with Github's Electron, Google's Angular2, Zurb's Foundation 6 and JS module bundler Webpack.   |
 2 | [@illarionvk](https://github.com/illarionvk)/[**pygments-solarized-s…**](https://github.com/illarionvk/pygments-solarized-scss) | SCSS styles for Pygments & Rouge, based on Solarized colors by Ethan Schoonover |
 2 | [@nextlevelshit](https://github.com/nextlevelshit)/[**angular-warp-scroll**](https://github.com/nextlevelshit/angular-warp-scroll) | Simple directive for scrolling into the website itself | [:arrow_upper_right:](http://www.dailysh.it)
+
 ### C #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 610 | [@solusipse](https://github.com/solusipse)/[**ureq**](https://github.com/solusipse/ureq) | Micro C library for handling HTTP requests on low resource systems. | [:arrow_upper_right:](http://ureq.solusipse.net/)
@@ -506,7 +516,9 @@
 2 | [@rkujawa](https://github.com/rkujawa)/[**diskimage2hfe**](https://github.com/rkujawa/diskimage2hfe) | Simple AmigaOS program to convert ADF and DMS images into HFE format used by HxC Floppy Emulator |
 2 | [@tworaz](https://github.com/tworaz)/[**boost-img**](https://github.com/tworaz/boost-img) | Tool for generating bootable images for PSION/TEKLOGIX NetBook Pro. |
 2 | [@spinlockirqsave](https://github.com/spinlockirqsave)/[**unix_networking_proj…**](https://github.com/spinlockirqsave/unix_networking_projects) | networking projects inspired by "UNIX Networking programming" |
+
 ### C++ #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 64 | [@gagolews](https://github.com/gagolews)/[**stringi**](https://github.com/gagolews/stringi) | THE string processing package for R with ICU | [:arrow_upper_right:](http://stringi.rexamine.com/)
@@ -536,7 +548,9 @@
 2 | [@gagolews](https://github.com/gagolews)/[**ExampleRcppStringi**](https://github.com/gagolews/ExampleRcppStringi) | A stringi-dependent Rcpp package example |
 2 | [@hasherezade](https://github.com/hasherezade)/[**mastercoder2014**](https://github.com/hasherezade/mastercoder2014) | My solutions |
 2 | [@matthewpl](https://github.com/matthewpl)/[**qt10**](https://github.com/matthewpl/qt10) | Kurs Qt - część 10 - WebKit | [:arrow_upper_right:](http://blog.matthew.org.pl/2010/08/06/kurs-qt-czesc-10-webkit/)
+
 ### ActionScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 12 | [@ncreated](https://github.com/ncreated)/[**Potential-Fields**](https://github.com/ncreated/Potential-Fields) | Potential fields library. |
@@ -548,7 +562,9 @@
 2 | [@goshki](https://github.com/goshki)/[**CrateCollector**](https://github.com/goshki/CrateCollector) | A game about collecting crates, yeah! |
 2 | [@imrahil](https://github.com/imrahil)/[**Morse-Code-Generator**](https://github.com/imrahil/Morse-Code-Generator) | Morse Code Generator |
 2 | [@imrahil](https://github.com/imrahil)/[**PlaybookTwitFavorite…**](https://github.com/imrahil/PlaybookTwitFavorites) | Twitter Favorites for Blackberry Playbook |
+
 ### Clojure #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 114 | [@nathell](https://github.com/nathell)/[**clj-tagsoup**](https://github.com/nathell/clj-tagsoup) | A HTML parser for Clojure. |
@@ -564,13 +580,17 @@
 5 | [@jwr](https://github.com/jwr)/[**fablo-api-client**](https://github.com/jwr/fablo-api-client) | A client for the Fablo search engine API in Clojure | [:arrow_upper_right:](http://fablo.pl/)
 4 | [@nathell](https://github.com/nathell)/[**spleen**](https://github.com/nathell/spleen) | A Scrabble engine written in Clojure. |
 2 | [@tomaszbiedka](https://github.com/tomaszbiedka)/[**my-first-clojure-gam…**](https://github.com/tomaszbiedka/my-first-clojure-game) | My first clojure game  |
+
 ### CoffeeScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 32 | [@exlee](https://github.com/exlee)/[**brunch-on-asteroids**](https://github.com/exlee/brunch-on-asteroids) | Brunch skeleton based on Angular.JS, Twitter Bootstrap 2.3 with Bootswatch Themes and more |
 5 | [@jakubburkiewicz](https://github.com/jakubburkiewicz)/[**brunch-scab**](https://github.com/jakubburkiewicz/brunch-scab) | Brunch skeleton with SASS, CoffeeScript, Angular and Bootstrap |
 2 | [@jmak](https://github.com/jmak)/[**trixy-popup**](https://github.com/jmak/trixy-popup) | Trixy PopUp - [Simple Scrollable PopUp] is perfectly suited to present large amounts of content in neat and flexible way. | [:arrow_upper_right:](http://jmak.github.com/trixy-popup/)
+
 ### Go #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 500 | [@ziutek](https://github.com/ziutek)/[**mymysql**](https://github.com/ziutek/mymysql) | MySQL Client API written entirely in Go |
@@ -602,7 +622,9 @@
 3 | [@ziutek](https://github.com/ziutek)/[**hiperus**](https://github.com/ziutek/hiperus) | Hiperus API in Go (http://devel.hiperus.pl/) |
 2 | [@kpawlik](https://github.com/kpawlik)/[**goworld**](https://github.com/kpawlik/goworld) | Ge Smallworld data from Magik to JSON, via HTTP server written in GO | [:arrow_upper_right:](http://kpawlik.github.io/goworld)
 2 | [@ziutek](https://github.com/ziutek)/[**ftdi**](https://github.com/ziutek/ftdi) | Go binding for libFTDI |
+
 ### Haskell #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 124 | [@Paczesiowa](https://github.com/Paczesiowa)/[**hsenv**](https://github.com/Paczesiowa/hsenv) | Virtual Haskell Environment builder |
@@ -620,7 +642,9 @@
 2 | [@adaszko](https://github.com/adaszko)/[**concurrent-ordered-s…**](https://github.com/adaszko/concurrent-ordered-set) | A concurrent, lock-free, ordered set data type based on skip lists |
 2 | [@jstolarek](https://github.com/jstolarek)/[**tasty-program**](https://github.com/jstolarek/tasty-program) | Run tasty tests that check whether a program executes correctly |
 2 | [@mbenke](https://github.com/mbenke)/[**lucretia**](https://github.com/mbenke/lucretia) |  |
+
 ### Lua #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 17 | [@k-szuster](https://github.com/k-szuster)/[**luci-access-control**](https://github.com/k-szuster/luci-access-control) | OpenWrt internet access scheduler |
@@ -632,11 +656,15 @@
 3 | [@szymski](https://github.com/szymski)/[**PropHunt**](https://github.com/szymski/PropHunt) |  |
 2 | [@lopezloo](https://github.com/lopezloo)/[**mta-cinema**](https://github.com/lopezloo/mta-cinema) | :movie_camera: Multi Theft Auto Cinema gamemode |
 2 | [@RealBadAngel](https://github.com/RealBadAngel)/[**plasma_lamp**](https://github.com/RealBadAngel/plasma_lamp) |  |
+
 ### Matlab #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2 | [@mmagnuski](https://github.com/mmagnuski)/[**eegDb**](https://github.com/mmagnuski/eegDb) | eegDb is an egglab plugin that eases up managing preprocessing routines. It allows to create project databases for reproducible eeg preprocessing with eeglab. |
+
 ### Objective-C #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2475 | [@m1entus](https://github.com/m1entus)/[**MZFormSheetControlle…**](https://github.com/m1entus/MZFormSheetController) | MZFormSheetController provides an alternative to the native iOS UIModalPresentationFormSheet, adding support for iPhone and additional opportunities to setup controller size and feel form sheet. |
@@ -741,7 +769,9 @@
 2 | [@tomaszj](https://github.com/tomaszj)/[**InterwebzSampleCocoa…**](https://github.com/tomaszj/InterwebzSampleCocoaHeadsTricity) | Source code for the samples used at "Testing in iOS" keynote at Cocoaheads Tricity meeting. |
 2 | [@burczyk](https://github.com/burczyk)/[**ReposBrowser**](https://github.com/burczyk/ReposBrowser) | CocoaPods project that uses NetworkLib as local library |
 2 | [@lksoft](https://github.com/lksoft)/[**MailCommon**](https://github.com/lksoft/MailCommon) | Some common code to use in Mail Plugins |
+
 ### Perl #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 140 | [@tadzik](https://github.com/tadzik)/[**rakudobrew**](https://github.com/tadzik/rakudobrew) | Perl 6 installation manager |
@@ -783,7 +813,9 @@
 2 | [@odyniec](https://github.com/odyniec)/[**p5-Dancer-Plugin-Pre…**](https://github.com/odyniec/p5-Dancer-Plugin-Preprocess-Sass) | Generate CSS files from Sass/SCSS files in Dancer web apps |
 2 | [@tadzik](https://github.com/tadzik)/[**todo**](https://github.com/tadzik/todo) | Todo list manager, modeled after https://github.com/vesln/todo/ |
 2 | [@tadzik](https://github.com/tadzik)/[**zblog**](https://github.com/tadzik/zblog) | źblog: example blog-ish application using Bailador and DBIish |
+
 ### PHP #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 264 | [@psliwa](https://github.com/psliwa)/[**PHPPdf**](https://github.com/psliwa/PHPPdf) | Pdf and graphic files generator library written in php | [:arrow_upper_right:](http://ohey.pl)
@@ -864,7 +896,9 @@
 2 | [@drymek](https://github.com/drymek)/[**GoogleDemoBundle**](https://github.com/drymek/GoogleDemoBundle) | GoogleBundle demo site |
 2 | [@widmogrod](https://github.com/widmogrod)/[**Sengin**](https://github.com/widmogrod/Sengin) |  |
 2 | [@l3l0](https://github.com/l3l0)/[**bdd-workshop**](https://github.com/l3l0/bdd-workshop) | Really dump application uses for demonstrate behat and phpspec in php project (silex). |
+
 ### Python #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 115 | [@narfdotpl](https://github.com/narfdotpl)/[**jquery-typing**](https://github.com/narfdotpl/jquery-typing) | assign callbacks for started/stopped typing events | [:arrow_upper_right:](narf.pl/jquery-typing)
@@ -918,7 +952,9 @@
 2 | [@d33tah](https://github.com/d33tah)/[**usos-python**](https://github.com/d33tah/usos-python) | Python bindings for USOS university system | [:arrow_upper_right:](http://deetah.jogger.pl)
 2 | [@mattpap](https://github.com/mattpap)/[**euroscipy-2011-poste…**](https://github.com/mattpap/euroscipy-2011-poster) | Poster for EuroScipy 2011 conference | [:arrow_upper_right:](mattpap.github.com/euroscipy-2011-poster/poster.pdf)
 2 | [@d33tah](https://github.com/d33tah)/[**apr-fuzz**](https://github.com/d33tah/apr-fuzz) |  | [:arrow_upper_right:](https://groups.google.com/d/msg/afl-users/WKIsJwaDXZs/1RD30fjMAwAJ)
+
 ### R #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 15 | [@analyxcompany](https://github.com/analyxcompany)/[**ForceAtlas2**](https://github.com/analyxcompany/ForceAtlas2) | This is the R implementation of the Force Atlas 2 graph layout designed for Gephi. |
@@ -927,7 +963,9 @@
 6 | [@pbiecek](https://github.com/pbiecek)/[**PogromcyDanych**](https://github.com/pbiecek/PogromcyDanych) |  |
 5 | [@MarcinKosinski](https://github.com/MarcinKosinski)/[**RZabbix**](https://github.com/MarcinKosinski/RZabbix) | RZabbix is an R module for working with the Zabbix API. | [:arrow_upper_right:](http://marcinkosinski.github.io/RZabbix)
 4 | [@analyxcompany](https://github.com/analyxcompany)/[**resolution**](https://github.com/analyxcompany/resolution) | Finding communities in network using algorithm with resolution parameter |
+
 ### Ruby #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2548 | [@josevalim](https://github.com/josevalim)/[**inherited_resources**](https://github.com/josevalim/inherited_resources) |  |
@@ -1134,7 +1172,9 @@
 2 | [@RaVbaker](https://github.com/RaVbaker)/[**shop4friends_sinatra**](https://github.com/RaVbaker/shop4friends_sinatra) | simple app for shopping for friends from facebook | [:arrow_upper_right:](http://shop4friends.ravbaker.net)
 2 | [@razorjack](https://github.com/razorjack)/[**nazca**](https://github.com/razorjack/nazca) | Rails 3/4 plugin that makes title and meta tags (keywords, description, etc.) easy and manageable. |
 2 | [@imanel](https://github.com/imanel)/[**ruby-time-tracker**](https://github.com/imanel/ruby-time-tracker) | Time Tracker written in Ruby on Rails | [:arrow_upper_right:](http://ruby-time-tracker.heroku.com)
+
 ### Scala #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 514 | [@adamw](https://github.com/adamw)/[**macwire**](https://github.com/adamw/macwire) | Lightweight and Nonintrusive Scala Dependency Injection Library | [:arrow_upper_right:](http://www.softwaremill.com)
@@ -1183,7 +1223,9 @@
 2 | [@danielkorzekwa](https://github.com/danielkorzekwa)/[**betting-exchange-app**](https://github.com/danielkorzekwa/betting-exchange-app) | Automatically exported from code.google.com/p/betting-exchange-app |
 2 | [@almendar](https://github.com/almendar)/[**WarszawScala-slick-d…**](https://github.com/almendar/WarszawScala-slick-day) | Skeleton of a project for Warsaw Scala User Group meetup |
 2 | [@danielkorzekwa](https://github.com/danielkorzekwa)/[**betting-exchange-eve…**](https://github.com/danielkorzekwa/betting-exchange-event-collector) | Automatically exported from code.google.com/p/betting-exchange-event… |
+
 ### Shell #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 93 | [@psprint](https://github.com/psprint)/[**zsh-navigation-tools**](https://github.com/psprint/zsh-navigation-tools) | Curses-based tools for Zsh, e.g. multi-word history searcher | [:arrow_upper_right:](http://psprint.github.io/)
@@ -1206,17 +1248,23 @@
 2 | [@AdamPrzybyla](https://github.com/AdamPrzybyla)/[**ejabberd-selinux**](https://github.com/AdamPrzybyla/ejabberd-selinux) | SELInux policy for ejabberd daemon. |
 2 | [@elwin013](https://github.com/elwin013)/[**archinfo**](https://github.com/elwin013/archinfo) | Simple system information utility written in Bash (similiar to archey and bsdinfo) |
 2 | [@wujtruj](https://github.com/wujtruj)/[**docker-dropplets**](https://github.com/wujtruj/docker-dropplets) | Dockerfile to build a Docker image of the Dropplets blogging platform |
+
 ### Swift #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 35 | [@maxadamski](https://github.com/maxadamski)/[**SwiftyRegex**](https://github.com/maxadamski/SwiftyRegex) | Linux compatible regex framework written in Swift |
 23 | [@sembsa](https://github.com/sembsa)/[**CProgressView**](https://github.com/sembsa/CProgressView) | Circle Progress for iOS - Swift |
 3 | [@AdamSliwakowski](https://github.com/AdamSliwakowski)/[**TypedTableView**](https://github.com/AdamSliwakowski/TypedTableView) |  |
+
 ### TeX #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 8 | [@politechnika](https://github.com/politechnika)/[**put-latex**](https://github.com/politechnika/put-latex) | put-latex |
+
 ### VimL #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 239 | [@szw](https://github.com/szw)/[**vim-tags**](https://github.com/szw/vim-tags) | Ctags generator for Vim | [:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=4377)
@@ -1228,6 +1276,7 @@
 6 | [@exu](https://github.com/exu)/[**vim-dotfiles**](https://github.com/exu/vim-dotfiles) | My VIM customizations |
 4 | [@szw](https://github.com/szw)/[**dotfiles**](https://github.com/szw/dotfiles) | My perfect setup :) |
 3 | [@exu](https://github.com/exu)/[**vim-python_koans**](https://github.com/exu/vim-python_koans) | Python koans VIM helper |
+
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
