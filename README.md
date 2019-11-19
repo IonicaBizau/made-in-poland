@@ -76,6 +76,7 @@
 89 | [@kdzwinel](https://github.com/kdzwinel)/[**DOMListenerExtension**](https://github.com/kdzwinel/DOMListenerExtension) | Chrome extension that allows you to monitor, browse and filter all DOM changes. |
 82 | [@juliancwirko](https://github.com/juliancwirko)/[**react-boilerplate**](https://github.com/juliancwirko/react-boilerplate) | React Boilerplate with sGrid and Webpack |
 77 | [@bartaz](https://github.com/bartaz)/[**ieee754-visualizatio…**](https://github.com/bartaz/ieee754-visualization) | IEEE 754 Double Precision Floating Point Visualization | [:arrow_upper_right:](http://bartaz.github.io/ieee754-visualization/)
+72 | [@sunpietro](https://github.com/sunpietro)/[**dragster**](https://github.com/sunpietro/dragster) | Tiny vanilla JS plugin that enables drag'n'drop interactions |
 71 | [@mmalecki](https://github.com/mmalecki)/[**ircb**](https://github.com/mmalecki/ircb) | An IRC library which *I* like. |
 70 | [@juliancwirko](https://github.com/juliancwirko)/[**scotty**](https://github.com/juliancwirko/scotty) | Meteor-React-Redux boilerplate with sGrid system (Stylus/Flexbox) |
 67 | [@kdzwinel](https://github.com/kdzwinel)/[**Context**](https://github.com/kdzwinel/Context) | Chrome extension that allows to sort other extensions into groups and easily switch between them. |
@@ -177,6 +178,7 @@
 8 | [@michalbe](https://github.com/michalbe)/[**VideoPuzzle**](https://github.com/michalbe/VideoPuzzle) |  |
 8 | [@juliancwirko](https://github.com/juliancwirko)/[**meteor-bootstrap-pos…**](https://github.com/juliancwirko/meteor-bootstrap-postcss-test) | Demo Meteor project which uses Bootstrap 4, Scss, PostCSS, Npm |
 8 | [@mmalecki](https://github.com/mmalecki)/[**spawn-command**](https://github.com/mmalecki/spawn-command) | Spawn commands like `child_process.exec` does but return a `ChildProcess`. |
+8 | [@sunpietro](https://github.com/sunpietro)/[**Flexcol mosaic**](https://github.com/sunpietro/flexcol-mosaic) | Javascript library to enable mosaic grid in multiple columns with dynamic height detection |
 7 | [@pwalczyszyn](https://github.com/pwalczyszyn)/[**NoteIn**](https://github.com/pwalczyszyn/NoteIn) | This is a simple notes editor for mobile devices, it is a PhoneGap/HTML5/CSS3/JavaScript/Backbone/… technologies demo. |
 7 | [@juliancwirko](https://github.com/juliancwirko)/[**meteor-pretty-diff**](https://github.com/juliancwirko/meteor-pretty-diff) | Prettify and export your raw git diff output | [:arrow_upper_right:](https://atmospherejs.com/juliancwirko/pretty-diff)
 7 | [@juliancwirko](https://github.com/juliancwirko)/[**meteor-bootstrap-npm…**](https://github.com/juliancwirko/meteor-bootstrap-npm-test) | Bootstrap 4 from Npm with Meteor |
